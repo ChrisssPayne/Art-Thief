@@ -1,0 +1,615 @@
+﻿Log file open, 03/30/18 16:38:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArtThiefMuseum
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1787575213) SRandInit(1787575213).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.957820
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.30-22.38.51:653][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.30-22.38.51:653][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.30-22.38.51:703][  0]LogInit: Computer: DESKTOP-1E3V943
+[2018.03.30-22.38.51:703][  0]LogInit: User: JaredRothwell
+[2018.03.30-22.38.51:703][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.30-22.38.51:703][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.03.30-22.38.51:704][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.30-22.38.51:704][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.30-22.38.51:704][  0]LogMemory: Process Physical Memory: 273.20 MB used, 273.20 MB peak
+[2018.03.30-22.38.51:704][  0]LogMemory: Process Virtual Memory: 269.88 MB used, 269.88 MB peak
+[2018.03.30-22.38.51:704][  0]LogMemory: Physical Memory: 10278.93 MB used,  5973.10 MB free, 16252.04 MB total
+[2018.03.30-22.38.51:704][  0]LogMemory: Virtual Memory: 682.52 MB used,  5973.10 MB free, 134217728.00 MB total
+[2018.03.30-22.38.53:877][  0]LogInit: Using OS detected language (en-US).
+[2018.03.30-22.38.53:877][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.30-22.38.54:295][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.30-22.38.55:590][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.30-22.38.59:427][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.30-22.39.00:144][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.03.30-22.39.00:144][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.30-22.39.00:151][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.03.30-22.39.00:151][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.30-22.39.00:153][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.30-22.39.00:153][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.30-22.39.00:153][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.30-22.39.00:187][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.30-22.39.00:187][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.03.30-22.39.00:187][  0]LogWindows: EnumDisplayDevices:
+[2018.03.30-22.39.00:187][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.03.30-22.39.00:188][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.03.30-22.39.00:188][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.03.30-22.39.00:188][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.30-22.39.00:188][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.03.30-22.39.00:188][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.30-22.39.00:188][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.30-22.39.00:188][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.03.30-22.39.00:268][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.30-22.39.00:283][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.30-22.39.00:294][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/76668/).
+[2018.03.30-22.39.00:294][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/592836054E4EDA043684C1BBAD658CE0/'.
+[2018.03.30-22.39.00:294][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.30-22.39.04:816][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.30-22.39.04:867][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.30-22.39.04:915][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.30-22.39.04:961][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.30-22.39.05:044][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.30-22.39.05:096][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.30-22.39.05:139][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.30-22.39.05:183][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.30-22.39.05:225][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.30-22.39.05:274][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.30-22.39.05:320][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.30-22.39.05:373][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.30-22.39.05:421][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.30-22.39.05:473][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.30-22.39.05:573][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.30-22.39.05:573][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.30-22.39.05:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.30-22.39.05:668][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.30-22.39.05:973][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.30-22.39.06:003][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.30-22.39.06:043][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.30-22.39.06:095][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.30-22.39.06:144][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.30-22.39.06:197][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.30-22.39.06:198][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.30-22.39.07:937][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.30-22.39.09:822][  0]LogDerivedDataCache: Loaded boot cache 1.86s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.30-22.39.09:822][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.30-22.39.09:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.30-22.39.09:823][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.30-22.39.09:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.30-22.39.09:823][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.30-22.39.09:941][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.30-22.39.09:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.30-22.39.09:988][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.30-22.39.09:989][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.30-22.39.10:096][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.30-22.39.10:096][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.30-22.39.16:643][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.30-22.39.18:278][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.30-22.39.18:363][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.30-22.39.18:374][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.30-22.39.18:374][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.30-22.39.18:374][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.30-22.39.18:374][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.30-22.39.18:513][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
+[2018.03.30-22.39.19:684][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.03.30-22.39.25:501][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.140526 seconds
+[2018.03.30-22.39.25:509][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.30-22.39.25:509][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.03.30-22.39.25:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.30-22.39.25:551][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.30-22.39.45:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.30-22.39.45:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.30-22.39.46:245][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.30-22.39.46:987][  0]SourceControl: Source control is disabled
+[2018.03.30-22.39.48:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.30-22.39.48:409][  0]LogOcInput: OculusInput pre-init called
+[2018.03.30-22.39.48:947][  0]LogEngine: Initializing Engine...
+[2018.03.30-22.39.48:949][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.30-22.39.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.30-22.39.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.30-22.39.49:698][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.30-22.39.49:757][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.30-22.39.49:808][  0]LogInit: FAudioDevice initialized.
+[2018.03.30-22.39.50:098][  0]LogDerivedDataCache: Saved boot cache 0.29s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.30-22.39.50:110][  0]LogInit: Texture streaming: Enabled
+[2018.03.30-22.39.50:217][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.30-22.39.50:489][  0]LogInit: Transaction tracking system initialized
+[2018.03.30-22.39.50:846][  0]BlueprintLog: New page: Editor Load
+[2018.03.30-22.39.54:557][  0]LocalizationService: Localization service is disabled
+[2018.03.30-22.39.56:185][  0]LogConsoleResponse: Display: 
+[2018.03.30-22.39.58:904][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.30-22.39.58:904][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.30-22.39.58:904][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.30-22.39.59:776][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.02s
+[2018.03.30-22.40.02:461][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.30-22.40.02:462][  0]LightingResults: New page: Lighting Build
+[2018.03.30-22.40.02:497][  0]MapCheck: New page: Map Check
+[2018.03.30-22.40.02:498][  0]LightingResults: New page: Lighting Build
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Body_Diffuse (AutoDXT, 2048X2048)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Body_Gloss (AutoDXT, 2048X2048)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: first (BGRA8, 890X870)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 512X1024)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 64X64)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Hair_Gloss (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Hair_Diffuse (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Bottom_Specular (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Bottom_Opacity (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Bottom_Normal (BC5, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Bottom_Diffuse (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Body_Specular (AutoDXT, 2048X2048)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Bottom_Gloss (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Body_Opacity (AutoDXT, 2048X2048)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Body_Normal (BC5, 2048X2048)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Top_Specular (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Top_Opacity (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Top_Normal (BC5, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Top_Gloss (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Top_Diffuse (AutoDXT, 512X512)
+[2018.03.30-22.40.08:543][  0]LogTexture: Display: Building textures: jackthelord_Shoes_Specular (AutoDXT, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Shoes_Normal (BC5, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Shoes_Gloss (AutoDXT, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Shoes_Opacity (AutoDXT, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Hair_Specular (AutoDXT, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Hair_Opacity (AutoDXT, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Hair_Normal (BC5, 512X512)
+[2018.03.30-22.40.08:544][  0]LogTexture: Display: Building textures: jackthelord_Shoes_Diffuse (AutoDXT, 512X512)
+[2018.03.30-22.40.08:639][  0]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.03.30-22.40.08:834][  0]LogMaterial: Missing cached shader map for material first_Mat, compiling. 
+[2018.03.30-22.40.08:941][  0]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2018.03.30-22.40.09:055][  0]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.03.30-22.40.09:223][  0]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.03.30-22.40.09:457][  0]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.03.30-22.40.11:786][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.03.30-22.40.11:860][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.30-22.40.11:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.30-22.40.11:938][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.778ms to complete.
+[2018.03.30-22.40.11:938][  0]LogFileHelpers: Loading map 'Minimal_Default' took 9.476
+[2018.03.30-22.40.12:351][  0]LogCollectionManager: Loaded 0 collections in 0.001475 seconds
+[2018.03.30-22.40.12:443][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
+[2018.03.30-22.40.12:443][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
+[2018.03.30-22.40.12:443][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
+[2018.03.30-22.40.12:443][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.30-22.40.12:457][  0]LogContentBrowser: Native class hierarchy populated in 0.0139 seconds. Added 2363 classes and 519 folders.
+[2018.03.30-22.40.12:534][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.30-22.40.19:348][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.30-22.40.19:629][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.30-22.40.20:243][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.30-22.40.20:243][  0]LogLoad: (Engine Initialization) Total time: 111.23 seconds
+[2018.03.30-22.40.20:243][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.30-22.40.20:243][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.30-22.40.20:243][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.30-22.40.20:283][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.30-22.40.20:438][  0]LogSlate: Took 0.153147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.30-22.40.20:593][  0]LogSlate: Took 0.152148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.30-22.40.21:290][  1]LogRenderer: Reallocating scene render targets to support 612x260 Format 10 NumSamples 1 (Frame:1).
+[2018.03.30-22.40.26:102][  1]LogAssetRegistry: Asset discovery search completed in 66.4395 seconds
+[2018.03.30-22.40.26:105][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.30-22.40.26:106][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.03.30-22.40.30:008][199]LogRenderer: Reallocating scene render targets to support 736x316 Format 10 NumSamples 1 (Frame:194).
+[2018.03.30-22.40.32:677][341]LogRenderer: Reallocating scene render targets to support 736x320 Format 10 NumSamples 1 (Frame:339).
+[2018.03.30-22.40.32:719][342]LogRenderer: Reallocating scene render targets to support 736x376 Format 10 NumSamples 1 (Frame:341).
+[2018.03.30-22.40.32:763][343]LogRenderer: Reallocating scene render targets to support 736x456 Format 10 NumSamples 1 (Frame:343).
+[2018.03.30-22.40.32:812][344]LogRenderer: Reallocating scene render targets to support 736x496 Format 10 NumSamples 1 (Frame:345).
+[2018.03.30-22.40.32:951][345]LogRenderer: Reallocating scene render targets to support 736x564 Format 10 NumSamples 1 (Frame:347).
+[2018.03.30-22.40.33:001][346]LogRenderer: Reallocating scene render targets to support 736x684 Format 10 NumSamples 1 (Frame:349).
+[2018.03.30-22.41.03:955][117]LogStreaming: Warning: Failed to open ANSI TEXT file D:/projects/Art-Thief/ArtThiefMuseum/Saved/HardwareSurvey/dxdiag.txt
+[2018.03.30-22.41.04:002][118]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.03.30-22.41.04:002][118]LogSynthBenchmark: Display: ===============
+[2018.03.30-22.41.04:002][118]LogSynthBenchmark: Display: Main Processor:
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:          ... 0.029465 s/Run 'RayIntersect'
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:          ... 0.024162 s/Run 'Fractal'
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display: 
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   CPU Perf Index 0: 86.9 (weight 1.00)
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:   CPU Perf Index 1: 118.4 (weight 1.50)
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display:  
+[2018.03.30-22.41.04:270][118]LogSynthBenchmark: Display: Graphics:
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 960M'
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   Device Id: 0x139B
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   Device Revision: 0xA2
+[2018.03.30-22.41.04:271][118]LogSynthBenchmark: Display:   GPU Memory: 2020/0/8127 MB
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU first test: 0.20s
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.273 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.310 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.287 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 1.569 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.049 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.354 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.193 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.273 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.310 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.287 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 1.569 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.049 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.354 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:          ... 0.193 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display: 
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 0: 5.9 (weight 1.00)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 1: 4.2 (weight 0.10)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 2: 7.5 (weight 0.10)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 3: 6.2 (weight 3.00)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 4: 4.6 (weight 1.00)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 5: 23.0 (weight 0.00)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPU Perf Index 6: 10.9 (weight 0.00)
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   CPUIndex: 105.8
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display:   GPUIndex: 5.8
+[2018.03.30-22.41.05:683][118]LogSynthBenchmark: Display: 
+[2018.03.30-22.41.05:684][118]LogSynthBenchmark: Display:          ... Total Time: 1.681477 sec
+[2018.03.30-22.45.02:646][994]LogSlate: Took 0.053935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.30-22.45.02:709][994]LogSlate: Took 0.048725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.30-22.46.53:101][563]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.30-22.46.53:139][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Sneak Walk.fbx)
+[2018.03.30-22.46.53:152][563]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.30-22.46.53:152][563]LogFbx: ItemName: Model, ItemCount : 67
+[2018.03.30-22.46.53:153][563]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.03.30-22.46.53:153][563]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.30-22.46.53:153][563]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.30-22.46.53:153][563]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.03.30-22.46.53:153][563]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.03.30-22.46.53:160][563]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Sneak Walk.fbx
+[2018.03.30-22.46.53:193][563]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.30-22.46.57:733][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Sneaking Forward.fbx)
+[2018.03.30-22.46.57:751][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Soccer Trip.fbx)
+[2018.03.30-22.46.57:774][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Strike Foward Jog.fbx)
+[2018.03.30-22.46.58:072][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Thief.fbx)
+[2018.03.30-22.46.58:489][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\T-Pose.fbx)
+[2018.03.30-22.46.58:562][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Walking.fbx)
+[2018.03.30-22.46.58:588][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Crouch Look Around Corner.fbx)
+[2018.03.30-22.46.58:606][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Crouched Sneaking Left.fbx)
+[2018.03.30-22.46.58:626][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Crouched Sneaking Right.fbx)
+[2018.03.30-22.46.58:644][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Male Locomotion Pose.fbx)
+[2018.03.30-22.46.58:659][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Running (3).fbx)
+[2018.03.30-22.46.58:676][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Running (4).fbx)
+[2018.03.30-22.46.58:694][563]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Running Slide.fbx)
+[2018.03.30-22.47.18:712][ 44]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\T-Pose.fbx)
+[2018.03.30-22.47.18:878][ 44]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Model, ItemCount : 76
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Material, ItemCount : 7
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Texture, ItemCount : 35
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Video, ItemCount : 35
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Geometry, ItemCount : 159
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Deformer, ItemCount : 261
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: AnimationCurveNode, ItemCount : 70
+[2018.03.30-22.47.18:879][ 44]LogFbx: ItemName: AnimationCurve, ItemCount : 471
+[2018.03.30-22.47.18:884][ 44]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\T-Pose.fbx
+[2018.03.30-22.47.19:186][ 44]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.30-22.47.22:621][ 44]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.30-22.47.54:519][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.55:099][156]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.580 s
+[2018.03.30-22.47.55:099][156]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.30-22.47.55:099][156]LogOutputDevice: Error: 
+[2018.03.30-22.47.55:099][156]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 810]
+[2018.03.30-22.47.55:099][156]LogOutputDevice: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: Stack: 
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BF7F2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BF59123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BF5AB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BFD58B45 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000009DF1B26D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BEE96C4B UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BEE6777E UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BEF02AF2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BEEEB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000BEEDA0FE UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000F8DDC4B2 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000F8DD21D7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001D17DC18 ole32.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001BAC6D23 RPCRT4.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001BB29390 RPCRT4.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001BA9F019 RPCRT4.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7FDC82 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7B31AB combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7B14B2 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7B3EA2 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7ADF7E combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B7AE66B combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B76C748 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B76C420 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001B76BE58 combase.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001D21B85D USER32.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001D21B1EF USER32.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x00000000F8DE1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000005B2450C8 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000005B255430 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000005B2554AA UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000005B262379 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000005B263D57 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001DD21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: [Callstack] 0x000000001E0BEFC1 ntdll.dll!UnknownFunction []
+[2018.03.30-22.47.55:100][156]LogOutputDevice: Error: 
+[2018.03.30-22.47.55:100][156]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.30-22.47.57:828][156]LogStats:                    SendNewReport -  2.728 s
+[2018.03.30-22.47.57:828][156]LogStats:             FDebug::EnsureFailed -  3.309 s
+[2018.03.30-22.47.57:828][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Body_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Bottom_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Bottom_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Bottom_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Bottom_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Bottom_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:829][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Glove_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Glove_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Glove_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Glove_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Glove_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Hat_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Hat_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Hat_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Hat_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Hat_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:830][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Mask_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Mask_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Mask_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Mask_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Mask_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Shoes_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Shoes_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Shoes_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:831][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Shoes_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Shoes_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Top_Diffuse' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Top_Gloss' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Top_Normal' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Top_Opacity' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:832][156]LogPackageName: Error: Illegal call to DoesPackageExist: '/Game/Animations/T-Pose.fbm/Thief_Top_Specular' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.03.30-22.47.57:847][156]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.03.30-22.47.58:464][157]LogWindows: Error: === Critical error: ===
+[2018.03.30-22.47.58:464][157]LogWindows: Error: 
+[2018.03.30-22.47.58:464][157]LogWindows: Error: Assertion failed: GetOuter()==nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Package.cpp] [Line: 157] 
+[2018.03.30-22.47.58:464][157]LogWindows: Error: Package is not topmost. Name:fbm/Thief_Body_Diffuse Path: /Game/Animations/T-Pose.fbm/Thief_Body_Diffuse
+[2018.03.30-22.47.58:465][157]LogWindows: Error: 
+[2018.03.30-22.47.58:465][157]LogWindows: Error: 
+[2018.03.30-22.47.58:465][157]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+[2018.03.30-22.47.58:465][157]LogWindows: Error: 
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BF4FD793 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BF6757CA UE4Editor-Core.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000AE625F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000AE624346 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000AE59B98F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000AE59D669 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000AE609875 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEF964B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEFA00CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BF139506 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BF138DD1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BF1305D3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7A75E1A UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000D7B0F0FE UE4Editor-SlateCore.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEEE68F9 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEEB2A5B UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEEE7389 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEEB4140 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEF0D867 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x00000000BEF0C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000005B2469CA UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000005B255430 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000005B2554AA UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000005B262379 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000005B263D57 UE4Editor.exe!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000001DD21FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000001E0BEFC1 ntdll.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: [Callstack] 0x000000001E0BEFC1 ntdll.dll!UnknownFunction []
+[2018.03.30-22.47.58:465][157]LogWindows: Error: 
+[2018.03.30-22.47.58:482][157]LogExit: Executing StaticShutdownAfterError
+[2018.03.30-22.47.58:487][157]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.03.30-22.47.58:487][157]Log file closed, 03/30/18 16:47:58
