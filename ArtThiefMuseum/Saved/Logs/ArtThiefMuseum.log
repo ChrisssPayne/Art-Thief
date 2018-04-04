@@ -4313,3 +4313,1709 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.04.04-05.54.14:013][493]LogSavePackage: Save=25.91ms
 [2018.04.04-05.54.14:013][493]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Sneaking_upstairs_seq72A96C274E195CCB3EA8B09F4C27ED33.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset'
 [2018.04.04-05.54.14:015][493]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset
+[2018.04.04-06.01.19:831][442]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\FemaleGuardFixed.fbx)
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Geometry, ItemCount : 160
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Material, ItemCount : 11
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Texture, ItemCount : 36
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Model, ItemCount : 77
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: AnimationCurveNode, ItemCount : 277
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: AnimationCurve, ItemCount : 159
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Pose, ItemCount : 10
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Deformer, ItemCount : 295
+[2018.04.04-06.01.19:983][442]LogFbx: ItemName: Video, ItemCount : 36
+[2018.04.04-06.01.19:989][442]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\FemaleGuardFixed.fbx
+[2018.04.04-06.01.21:628][442]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.01.29:524][442]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\FemaleGuardFixed.fbx
+[2018.04.04-06.01.31:098][442]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.01.31:115][442]LogFbx: =================================================
+[2018.04.04-06.01.31:115][442]LogFbx: Dumping Node START [default1] 
+[2018.04.04-06.01.31:115][442]LogFbx: 	Total Deformer Count -130389696.
+[2018.04.04-06.01.31:115][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:115][442]LogFbx: =================================================
+[2018.04.04-06.01.31:115][442]LogFbx: 		[Node 2] blendShape1 (Type BlendShape).
+[2018.04.04-06.01.31:116][442]LogFbx: =================================================
+[2018.04.04-06.01.31:116][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:116][442]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2018.04.04-06.01.31:116][442]LogFbx: Dumping Node END [default1]
+[2018.04.04-06.01.31:116][442]LogFbx: =================================================
+[2018.04.04-06.01.31:116][442]LogFbx: Dumping Node START [Eyelashes] 
+[2018.04.04-06.01.31:116][442]LogFbx: 	Total Deformer Count 1145876672.
+[2018.04.04-06.01.31:116][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:116][442]LogFbx: =================================================
+[2018.04.04-06.01.31:116][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.31:116][442]LogFbx: =================================================
+[2018.04.04-06.01.31:116][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:117][442]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.04.04-06.01.31:117][442]LogFbx: Dumping Node END [Eyelashes]
+[2018.04.04-06.01.31:117][442]LogFbx: =================================================
+[2018.04.04-06.01.31:117][442]LogFbx: Dumping Node START [Body] 
+[2018.04.04-06.01.31:117][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:117][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:117][442]LogFbx: =================================================
+[2018.04.04-06.01.31:117][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.31:117][442]LogFbx: =================================================
+[2018.04.04-06.01.31:118][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:118][442]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.04-06.01.31:118][442]LogFbx: Dumping Node END [Body]
+[2018.04.04-06.01.31:118][442]LogFbx: =================================================
+[2018.04.04-06.01.31:118][442]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.04-06.01.31:118][442]LogFbx: 	Total Deformer Count -130397984.
+[2018.04.04-06.01.31:118][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:118][442]LogFbx: =================================================
+[2018.04.04-06.01.31:118][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:118][442]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.04-06.01.31:118][442]LogFbx: Dumping Node END [Bottoms]
+[2018.04.04-06.01.31:118][442]LogFbx: =================================================
+[2018.04.04-06.01.31:118][442]LogFbx: Dumping Node START [Hair] 
+[2018.04.04-06.01.31:118][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:118][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:118][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node END [Hair]
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node START [Tops] 
+[2018.04.04-06.01.31:119][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node END [Tops]
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node START [Gloves] 
+[2018.04.04-06.01.31:119][442]LogFbx: 	Total Deformer Count -130389696.
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node Attribute Child 1] Gloves (Type Mesh).
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node END [Gloves]
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node START [Hats] 
+[2018.04.04-06.01.31:119][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:119][442]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node END [Hats]
+[2018.04.04-06.01.31:119][442]LogFbx: =================================================
+[2018.04.04-06.01.31:119][442]LogFbx: Dumping Node START [Eyewear] 
+[2018.04.04-06.01.31:119][442]LogFbx: 	Total Deformer Count -130397984.
+[2018.04.04-06.01.31:120][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:120][442]LogFbx: =================================================
+[2018.04.04-06.01.31:120][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:120][442]LogFbx: 		[Node Attribute Child 1] Eyewear (Type Mesh).
+[2018.04.04-06.01.31:120][442]LogFbx: Dumping Node END [Eyewear]
+[2018.04.04-06.01.31:120][442]LogFbx: =================================================
+[2018.04.04-06.01.31:120][442]LogFbx: Dumping Node START [Shoes] 
+[2018.04.04-06.01.31:120][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:120][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:120][442]LogFbx: =================================================
+[2018.04.04-06.01.31:120][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:120][442]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.04-06.01.31:120][442]LogFbx: Dumping Node END [Shoes]
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: Dumping Node START [default1] 
+[2018.04.04-06.01.31:121][442]LogFbx: 	Total Deformer Count -130399048.
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node 2] blendShape1 (Type BlendShape).
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2018.04.04-06.01.31:121][442]LogFbx: Dumping Node END [default1]
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: Dumping Node START [Eyelashes] 
+[2018.04.04-06.01.31:121][442]LogFbx: 	Total Deformer Count -2100829376.
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:121][442]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.04.04-06.01.31:121][442]LogFbx: Dumping Node END [Eyelashes]
+[2018.04.04-06.01.31:121][442]LogFbx: =================================================
+[2018.04.04-06.01.31:121][442]LogFbx: Dumping Node START [Body] 
+[2018.04.04-06.01.31:121][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:122][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:122][442]LogFbx: =================================================
+[2018.04.04-06.01.31:122][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.31:122][442]LogFbx: =================================================
+[2018.04.04-06.01.31:122][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:122][442]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.04-06.01.31:122][442]LogFbx: Dumping Node END [Body]
+[2018.04.04-06.01.31:122][442]LogFbx: =================================================
+[2018.04.04-06.01.31:122][442]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.04-06.01.31:124][442]LogFbx: 	Total Deformer Count -130389696.
+[2018.04.04-06.01.31:124][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:124][442]LogFbx: =================================================
+[2018.04.04-06.01.31:124][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:125][442]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.04-06.01.31:125][442]LogFbx: Dumping Node END [Bottoms]
+[2018.04.04-06.01.31:125][442]LogFbx: =================================================
+[2018.04.04-06.01.31:126][442]LogFbx: Dumping Node START [Hair] 
+[2018.04.04-06.01.31:126][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:126][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:126][442]LogFbx: =================================================
+[2018.04.04-06.01.31:126][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:126][442]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.04-06.01.31:126][442]LogFbx: Dumping Node END [Hair]
+[2018.04.04-06.01.31:126][442]LogFbx: =================================================
+[2018.04.04-06.01.31:126][442]LogFbx: Dumping Node START [Tops] 
+[2018.04.04-06.01.31:126][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:126][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:126][442]LogFbx: =================================================
+[2018.04.04-06.01.31:126][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:127][442]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.04-06.01.31:127][442]LogFbx: Dumping Node END [Tops]
+[2018.04.04-06.01.31:127][442]LogFbx: =================================================
+[2018.04.04-06.01.31:127][442]LogFbx: Dumping Node START [Gloves] 
+[2018.04.04-06.01.31:127][442]LogFbx: 	Total Deformer Count -130399048.
+[2018.04.04-06.01.31:127][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:127][442]LogFbx: =================================================
+[2018.04.04-06.01.31:127][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:127][442]LogFbx: 		[Node Attribute Child 1] Gloves (Type Mesh).
+[2018.04.04-06.01.31:127][442]LogFbx: Dumping Node END [Gloves]
+[2018.04.04-06.01.31:127][442]LogFbx: =================================================
+[2018.04.04-06.01.31:127][442]LogFbx: Dumping Node START [Hats] 
+[2018.04.04-06.01.31:127][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:127][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:127][442]LogFbx: =================================================
+[2018.04.04-06.01.31:128][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:128][442]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.04-06.01.31:128][442]LogFbx: Dumping Node END [Hats]
+[2018.04.04-06.01.31:128][442]LogFbx: =================================================
+[2018.04.04-06.01.31:128][442]LogFbx: Dumping Node START [Eyewear] 
+[2018.04.04-06.01.31:128][442]LogFbx: 	Total Deformer Count -130389696.
+[2018.04.04-06.01.31:128][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:128][442]LogFbx: =================================================
+[2018.04.04-06.01.31:128][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:128][442]LogFbx: 		[Node Attribute Child 1] Eyewear (Type Mesh).
+[2018.04.04-06.01.31:128][442]LogFbx: Dumping Node END [Eyewear]
+[2018.04.04-06.01.31:128][442]LogFbx: =================================================
+[2018.04.04-06.01.31:128][442]LogFbx: Dumping Node START [Shoes] 
+[2018.04.04-06.01.31:128][442]LogFbx: 	Total Deformer Count 1085372448.
+[2018.04.04-06.01.31:128][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.31:128][442]LogFbx: =================================================
+[2018.04.04-06.01.31:128][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.31:128][442]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.04-06.01.31:128][442]LogFbx: Dumping Node END [Shoes]
+[2018.04.04-06.01.31:131][442]LogFbx: Valid bind pose for Pose (skinCluster1) - default1
+[2018.04.04-06.01.31:131][442]LogFbx: Valid bind pose for Pose (skinCluster2) - default1
+[2018.04.04-06.01.31:133][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node default1 : The relative matrices do not match
+[2018.04.04-06.01.31:133][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2018.04.04-06.01.31:134][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2018.04.04-06.01.31:135][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2018.04.04-06.01.31:135][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2018.04.04-06.01.31:136][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2018.04.04-06.01.31:137][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Gloves : The relative matrices do not match
+[2018.04.04-06.01.31:137][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hats : The relative matrices do not match
+[2018.04.04-06.01.31:138][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyewear : The relative matrices do not match
+[2018.04.04-06.01.31:139][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2018.04.04-06.01.31:140][442]LogFbx: Valid bind pose for Pose (skinCluster4) - default1
+[2018.04.04-06.01.31:140][442]LogFbx: Valid bind pose for Pose (skinCluster5) - default1
+[2018.04.04-06.01.31:142][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node default1 : The relative matrices do not match
+[2018.04.04-06.01.31:142][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Eyelashes : The relative matrices do not match
+[2018.04.04-06.01.31:144][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Body : The relative matrices do not match
+[2018.04.04-06.01.31:144][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Bottoms : The relative matrices do not match
+[2018.04.04-06.01.31:145][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hair : The relative matrices do not match
+[2018.04.04-06.01.31:146][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Tops : The relative matrices do not match
+[2018.04.04-06.01.31:147][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Gloves : The relative matrices do not match
+[2018.04.04-06.01.31:148][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hats : The relative matrices do not match
+[2018.04.04-06.01.31:149][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Eyewear : The relative matrices do not match
+[2018.04.04-06.01.31:150][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Shoes : The relative matrices do not match
+[2018.04.04-06.01.31:151][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node default1 : The relative matrices do not match
+[2018.04.04-06.01.31:152][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyelashes : The relative matrices do not match
+[2018.04.04-06.01.31:152][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2018.04.04-06.01.31:152][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Bottoms : The relative matrices do not match
+[2018.04.04-06.01.31:153][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hair : The relative matrices do not match
+[2018.04.04-06.01.31:153][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Tops : The relative matrices do not match
+[2018.04.04-06.01.31:154][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Gloves : The relative matrices do not match
+[2018.04.04-06.01.31:154][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hats : The relative matrices do not match
+[2018.04.04-06.01.31:154][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyewear : The relative matrices do not match
+[2018.04.04-06.01.31:155][442]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Shoes : The relative matrices do not match
+[2018.04.04-06.01.31:156][442]LogFbx: Valid bind pose for Pose (skinCluster8) - default1
+[2018.04.04-06.01.31:156][442]LogFbx: Valid bind pose for Pose (skinCluster9) - default1
+[2018.04.04-06.01.31:157][442]LogFbx: Valid bind pose for Pose (skinCluster10) - default1
+[2018.04.04-06.01.31:166][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyemat'
+[2018.04.04-06.01.31:166][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyemat'
+[2018.04.04-06.01.31:167][442]LogMaterial: Warning: Material /Game/Animations/Guard/Eyemat.Eyemat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.31:185][442]LogMaterial: Missing cached shader map for material Eyemat, compiling. 
+[2018.04.04-06.01.31:327][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Diffuse'
+[2018.04.04-06.01.31:327][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Diffuse'
+[2018.04.04-06.01.31:515][442]LogTexture: Display: Building textures: FemGuard_Body_Diffuse (AutoDXT, 1024X1024)
+[2018.04.04-06.01.31:963][442]LogMaterial: Missing cached shader map for material Eyemat, compiling. 
+[2018.04.04-06.01.32:087][442]LogFbx: Triangulating skeletal mesh default1
+[2018.04.04-06.01.32:164][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyelashesmat'
+[2018.04.04-06.01.32:164][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyelashesmat'
+[2018.04.04-06.01.32:165][442]LogMaterial: Warning: Material /Game/Animations/Guard/Eyelashesmat.Eyelashesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.32:174][442]LogMaterial: Missing cached shader map for material Eyelashesmat, compiling. 
+[2018.04.04-06.01.32:536][442]LogTexture: Display: Building textures: FemGuard_Body_Diffuse (AutoDXT, 1024X1024)
+[2018.04.04-06.01.33:018][442]LogMaterial: Missing cached shader map for material Eyelashesmat, compiling. 
+[2018.04.04-06.01.33:153][442]LogFbx: Triangulating skeletal mesh Eyelashes
+[2018.04.04-06.01.33:167][442]LogLinker: Can't find file '/Game/Animations/Guard/Bodymat'
+[2018.04.04-06.01.33:168][442]LogLinker: Can't find file '/Game/Animations/Guard/Bodymat'
+[2018.04.04-06.01.33:168][442]LogMaterial: Warning: Material /Game/Animations/Guard/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.33:171][442]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.04-06.01.33:521][442]LogTexture: Display: Building textures: FemGuard_Body_Diffuse (AutoDXT, 1024X1024)
+[2018.04.04-06.01.33:964][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Specular'
+[2018.04.04-06.01.33:965][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Specular'
+[2018.04.04-06.01.34:182][442]LogTexture: Display: Building textures: FemGuard_Body_Specular (AutoDXT, 1024X1024)
+[2018.04.04-06.01.34:417][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Gloss'
+[2018.04.04-06.01.34:417][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Gloss'
+[2018.04.04-06.01.34:640][442]LogTexture: Display: Building textures: FemGuard_Body_Gloss (AutoDXT, 1024X1024)
+[2018.04.04-06.01.34:923][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Normal'
+[2018.04.04-06.01.34:923][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Body_Normal'
+[2018.04.04-06.01.35:154][442]LogTexture: Display: Building textures: FemGuard_Body_Normal (BC5, 1024X1024)
+[2018.04.04-06.01.35:322][442]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.04-06.01.35:557][442]LogFbx: Triangulating skeletal mesh Body
+[2018.04.04-06.01.38:804][442]LogLinker: Can't find file '/Game/Animations/Guard/Bottommat'
+[2018.04.04-06.01.38:805][442]LogLinker: Can't find file '/Game/Animations/Guard/Bottommat'
+[2018.04.04-06.01.38:805][442]LogMaterial: Warning: Material /Game/Animations/Guard/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.38:809][442]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.04-06.01.38:958][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Diffuse'
+[2018.04.04-06.01.38:958][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Diffuse'
+[2018.04.04-06.01.39:112][442]LogTexture: Display: Building textures: FemGuard_Bottom_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.39:244][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Specular'
+[2018.04.04-06.01.39:245][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Specular'
+[2018.04.04-06.01.39:394][442]LogTexture: Display: Building textures: FemGuard_Bottom_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.39:486][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Gloss'
+[2018.04.04-06.01.39:486][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Gloss'
+[2018.04.04-06.01.39:629][442]LogTexture: Display: Building textures: FemGuard_Bottom_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.39:719][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Normal'
+[2018.04.04-06.01.39:720][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Bottom_Normal'
+[2018.04.04-06.01.39:874][442]LogTexture: Display: Building textures: FemGuard_Bottom_Normal (BC5, 512X512)
+[2018.04.04-06.01.39:925][442]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.04-06.01.40:087][442]LogFbx: Triangulating skeletal mesh Bottoms
+[2018.04.04-06.01.40:752][442]LogLinker: Can't find file '/Game/Animations/Guard/Hairmat'
+[2018.04.04-06.01.40:753][442]LogLinker: Can't find file '/Game/Animations/Guard/Hairmat'
+[2018.04.04-06.01.40:754][442]LogMaterial: Warning: Material /Game/Animations/Guard/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.40:761][442]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2018.04.04-06.01.40:895][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Diffuse'
+[2018.04.04-06.01.40:895][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Diffuse'
+[2018.04.04-06.01.41:051][442]LogTexture: Display: Building textures: FemGuard_Hair_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.41:147][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Specular'
+[2018.04.04-06.01.41:147][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Specular'
+[2018.04.04-06.01.41:303][442]LogTexture: Display: Building textures: FemGuard_Hair_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.41:413][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Gloss'
+[2018.04.04-06.01.41:413][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Gloss'
+[2018.04.04-06.01.41:558][442]LogTexture: Display: Building textures: FemGuard_Hair_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.41:660][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Normal'
+[2018.04.04-06.01.41:661][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Normal'
+[2018.04.04-06.01.41:807][442]LogTexture: Display: Building textures: FemGuard_Hair_Normal (BC5, 512X512)
+[2018.04.04-06.01.41:856][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Opacity'
+[2018.04.04-06.01.41:856][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hair_Opacity'
+[2018.04.04-06.01.42:027][442]LogTexture: Display: Building textures: FemGuard_Hair_Opacity (AutoDXT, 512X512)
+[2018.04.04-06.01.42:159][442]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2018.04.04-06.01.42:422][442]LogFbx: Triangulating skeletal mesh Hair
+[2018.04.04-06.01.42:958][442]LogLinker: Can't find file '/Game/Animations/Guard/Topmat'
+[2018.04.04-06.01.42:958][442]LogLinker: Can't find file '/Game/Animations/Guard/Topmat'
+[2018.04.04-06.01.42:960][442]LogMaterial: Warning: Material /Game/Animations/Guard/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.42:967][442]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.04-06.01.43:126][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Diffuse'
+[2018.04.04-06.01.43:126][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Diffuse'
+[2018.04.04-06.01.43:269][442]LogTexture: Display: Building textures: FemGuard_Top_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.43:361][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Specular'
+[2018.04.04-06.01.43:361][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Specular'
+[2018.04.04-06.01.43:497][442]LogTexture: Display: Building textures: FemGuard_Top_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.43:533][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Gloss'
+[2018.04.04-06.01.43:534][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Gloss'
+[2018.04.04-06.01.43:682][442]LogTexture: Display: Building textures: FemGuard_Top_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.43:764][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Normal'
+[2018.04.04-06.01.43:765][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Top_Normal'
+[2018.04.04-06.01.43:931][442]LogTexture: Display: Building textures: FemGuard_Top_Normal (BC5, 512X512)
+[2018.04.04-06.01.43:981][442]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.04-06.01.44:138][442]LogFbx: Triangulating skeletal mesh Tops
+[2018.04.04-06.01.44:790][442]LogLinker: Can't find file '/Game/Animations/Guard/Glovemat'
+[2018.04.04-06.01.44:790][442]LogLinker: Can't find file '/Game/Animations/Guard/Glovemat'
+[2018.04.04-06.01.44:791][442]LogMaterial: Warning: Material /Game/Animations/Guard/Glovemat.Glovemat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.44:794][442]LogMaterial: Missing cached shader map for material Glovemat, compiling. 
+[2018.04.04-06.01.44:942][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Diffuse'
+[2018.04.04-06.01.44:942][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Diffuse'
+[2018.04.04-06.01.45:112][442]LogTexture: Display: Building textures: FemGuard_Glove_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.45:316][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Specular'
+[2018.04.04-06.01.45:317][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Specular'
+[2018.04.04-06.01.45:522][442]LogTexture: Display: Building textures: FemGuard_Glove_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.45:613][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Gloss'
+[2018.04.04-06.01.45:613][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Gloss'
+[2018.04.04-06.01.45:786][442]LogTexture: Display: Building textures: FemGuard_Glove_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.45:894][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Normal'
+[2018.04.04-06.01.45:895][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Glove_Normal'
+[2018.04.04-06.01.46:119][442]LogTexture: Display: Building textures: FemGuard_Glove_Normal (BC5, 512X512)
+[2018.04.04-06.01.46:214][442]LogMaterial: Missing cached shader map for material Glovemat, compiling. 
+[2018.04.04-06.01.46:415][442]LogFbx: Triangulating skeletal mesh Gloves
+[2018.04.04-06.01.47:145][442]LogLinker: Can't find file '/Game/Animations/Guard/Hatmat'
+[2018.04.04-06.01.47:145][442]LogLinker: Can't find file '/Game/Animations/Guard/Hatmat'
+[2018.04.04-06.01.47:145][442]LogMaterial: Warning: Material /Game/Animations/Guard/Hatmat.Hatmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.47:154][442]LogMaterial: Missing cached shader map for material Hatmat, compiling. 
+[2018.04.04-06.01.47:339][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Diffuse'
+[2018.04.04-06.01.47:340][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Diffuse'
+[2018.04.04-06.01.47:511][442]LogTexture: Display: Building textures: FemGuard_Hat_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.47:629][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Specular'
+[2018.04.04-06.01.47:629][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Specular'
+[2018.04.04-06.01.47:799][442]LogTexture: Display: Building textures: FemGuard_Hat_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.47:864][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Gloss'
+[2018.04.04-06.01.47:864][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Gloss'
+[2018.04.04-06.01.48:042][442]LogTexture: Display: Building textures: FemGuard_Hat_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.48:128][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Normal'
+[2018.04.04-06.01.48:128][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Hat_Normal'
+[2018.04.04-06.01.48:312][442]LogTexture: Display: Building textures: FemGuard_Hat_Normal (BC5, 512X512)
+[2018.04.04-06.01.48:374][442]LogMaterial: Missing cached shader map for material Hatmat, compiling. 
+[2018.04.04-06.01.48:549][442]LogFbx: Triangulating skeletal mesh Hats
+[2018.04.04-06.01.48:833][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyewearmat'
+[2018.04.04-06.01.48:833][442]LogLinker: Can't find file '/Game/Animations/Guard/Eyewearmat'
+[2018.04.04-06.01.48:834][442]LogMaterial: Warning: Material /Game/Animations/Guard/Eyewearmat.Eyewearmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.48:838][442]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.04-06.01.49:012][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Diffuse'
+[2018.04.04-06.01.49:012][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Diffuse'
+[2018.04.04-06.01.49:181][442]LogTexture: Display: Building textures: FemGuard_Eyewear_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.49:302][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Specular'
+[2018.04.04-06.01.49:302][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Specular'
+[2018.04.04-06.01.49:434][442]LogTexture: Display: Building textures: FemGuard_Eyewear_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.49:491][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Gloss'
+[2018.04.04-06.01.49:492][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Gloss'
+[2018.04.04-06.01.49:621][442]LogTexture: Display: Building textures: FemGuard_Eyewear_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.49:697][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Normal'
+[2018.04.04-06.01.49:697][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Normal'
+[2018.04.04-06.01.49:828][442]LogTexture: Display: Building textures: FemGuard_Eyewear_Normal (BC5, 512X512)
+[2018.04.04-06.01.49:869][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Opacity'
+[2018.04.04-06.01.49:870][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Eyewear_Opacity'
+[2018.04.04-06.01.49:995][442]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.04-06.01.50:058][442]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.04-06.01.50:233][442]LogFbx: Triangulating skeletal mesh Eyewear
+[2018.04.04-06.01.50:299][442]LogLinker: Can't find file '/Game/Animations/Guard/Shoesmat'
+[2018.04.04-06.01.50:299][442]LogLinker: Can't find file '/Game/Animations/Guard/Shoesmat'
+[2018.04.04-06.01.50:299][442]LogMaterial: Warning: Material /Game/Animations/Guard/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.04-06.01.50:304][442]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.04-06.01.50:420][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Diffuse'
+[2018.04.04-06.01.50:420][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Diffuse'
+[2018.04.04-06.01.50:554][442]LogTexture: Display: Building textures: FemGuard_Shoes_Diffuse (AutoDXT, 512X512)
+[2018.04.04-06.01.50:638][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Specular'
+[2018.04.04-06.01.50:638][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Specular'
+[2018.04.04-06.01.50:782][442]LogTexture: Display: Building textures: FemGuard_Shoes_Specular (AutoDXT, 512X512)
+[2018.04.04-06.01.50:839][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Gloss'
+[2018.04.04-06.01.50:839][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Gloss'
+[2018.04.04-06.01.50:969][442]LogTexture: Display: Building textures: FemGuard_Shoes_Gloss (AutoDXT, 512X512)
+[2018.04.04-06.01.51:053][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Normal'
+[2018.04.04-06.01.51:054][442]LogLinker: Can't find file '/Game/Animations/Guard/FemGuard_Shoes_Normal'
+[2018.04.04-06.01.51:191][442]LogTexture: Display: Building textures: FemGuard_Shoes_Normal (BC5, 512X512)
+[2018.04.04-06.01.51:233][442]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.04-06.01.51:396][442]LogFbx: Triangulating skeletal mesh Shoes
+[2018.04.04-06.01.53:095][442]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.04.04-06.01.57:802][442]LogSkeletalMesh: Section 0: 804 vertices, 2 active bones
+[2018.04.04-06.01.57:802][442]LogSkeletalMesh: Section 1: 106 vertices, 1 active bones
+[2018.04.04-06.01.57:809][442]LogSkeletalMesh: Section 2: 31516 vertices, 43 active bones
+[2018.04.04-06.01.57:810][442]LogSkeletalMesh: Section 3: 7402 vertices, 8 active bones
+[2018.04.04-06.01.57:810][442]LogSkeletalMesh: Section 4: 6553 vertices, 5 active bones
+[2018.04.04-06.01.57:811][442]LogSkeletalMesh: Section 5: 6197 vertices, 18 active bones
+[2018.04.04-06.01.57:811][442]LogSkeletalMesh: Section 6: 5800 vertices, 30 active bones
+[2018.04.04-06.01.57:812][442]LogSkeletalMesh: Section 7: 2446 vertices, 1 active bones
+[2018.04.04-06.01.57:812][442]LogSkeletalMesh: Section 8: 1144 vertices, 1 active bones
+[2018.04.04-06.01.57:813][442]LogSkeletalMesh: Section 9: 15398 vertices, 6 active bones
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 0: Material=0, 1520 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 1: Material=1, 114 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 2: Material=2, 58990 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 3: Material=3, 12344 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 4: Material=4, 9446 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 5: Material=5, 11208 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 6: Material=6, 10200 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 7: Material=7, 4320 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 8: Material=8, 1336 triangles
+[2018.04.04-06.01.58:719][442]LogSkeletalMesh: Section 9: Material=9, 26864 triangles
+[2018.04.04-06.01.58:844][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_Skeleton'
+[2018.04.04-06.01.58:844][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_Skeleton'
+[2018.04.04-06.01.58:847][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset'
+[2018.04.04-06.01.58:847][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset'
+[2018.04.04-06.01.58:876][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node START [default1] 
+[2018.04.04-06.01.58:877][442]LogFbx: 	Total Deformer Count 1161163544.
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 2] blendShape1 (Type BlendShape).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node END [default1]
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node START [Eyelashes] 
+[2018.04.04-06.01.58:877][442]LogFbx: 	Total Deformer Count 1157563264.
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node END [Eyelashes]
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node START [Body] 
+[2018.04.04-06.01.58:877][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node END [Body]
+[2018.04.04-06.01.58:877][442]LogFbx: =================================================
+[2018.04.04-06.01.58:877][442]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.04-06.01.58:877][442]LogFbx: 	Total Deformer Count 1161163992.
+[2018.04.04-06.01.58:877][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node END [Bottoms]
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node START [Hair] 
+[2018.04.04-06.01.58:878][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node END [Hair]
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node START [Tops] 
+[2018.04.04-06.01.58:878][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node END [Tops]
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node START [Gloves] 
+[2018.04.04-06.01.58:878][442]LogFbx: 	Total Deformer Count 1161163544.
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node Attribute Child 1] Gloves (Type Mesh).
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node END [Gloves]
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: Dumping Node START [Hats] 
+[2018.04.04-06.01.58:878][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:878][442]LogFbx: =================================================
+[2018.04.04-06.01.58:878][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:878][442]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node END [Hats]
+[2018.04.04-06.01.58:879][442]LogFbx: =================================================
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node START [Eyewear] 
+[2018.04.04-06.01.58:879][442]LogFbx: 	Total Deformer Count 1161163992.
+[2018.04.04-06.01.58:879][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:879][442]LogFbx: =================================================
+[2018.04.04-06.01.58:879][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:879][442]LogFbx: 		[Node Attribute Child 1] Eyewear (Type Mesh).
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node END [Eyewear]
+[2018.04.04-06.01.58:879][442]LogFbx: =================================================
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node START [Shoes] 
+[2018.04.04-06.01.58:879][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:879][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:879][442]LogFbx: =================================================
+[2018.04.04-06.01.58:879][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:879][442]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node END [Shoes]
+[2018.04.04-06.01.58:879][442]LogFbx: =================================================
+[2018.04.04-06.01.58:879][442]LogFbx: Dumping Node START [default1] 
+[2018.04.04-06.01.58:879][442]LogFbx: 	Total Deformer Count 1161163488.
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 2] blendShape1 (Type BlendShape).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node Attribute Child 1] default1 (Type Mesh).
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node END [default1]
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node START [Eyelashes] 
+[2018.04.04-06.01.58:880][442]LogFbx: 	Total Deformer Count 1508568384.
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node Attribute Child 1] Eyelashes (Type Mesh).
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node END [Eyelashes]
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node START [Body] 
+[2018.04.04-06.01.58:880][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 2]  (Type BlendShape).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node END [Body]
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.04-06.01.58:880][442]LogFbx: 	Total Deformer Count 1161163544.
+[2018.04.04-06.01.58:880][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:880][442]LogFbx: =================================================
+[2018.04.04-06.01.58:880][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node END [Bottoms]
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node START [Hair] 
+[2018.04.04-06.01.58:881][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node END [Hair]
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node START [Tops] 
+[2018.04.04-06.01.58:881][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node END [Tops]
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node START [Gloves] 
+[2018.04.04-06.01.58:881][442]LogFbx: 	Total Deformer Count 1161163488.
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node Attribute Child 1] Gloves (Type Mesh).
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node END [Gloves]
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node START [Hats] 
+[2018.04.04-06.01.58:881][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:881][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:881][442]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.04-06.01.58:881][442]LogFbx: Dumping Node END [Hats]
+[2018.04.04-06.01.58:881][442]LogFbx: =================================================
+[2018.04.04-06.01.58:882][442]LogFbx: Dumping Node START [Eyewear] 
+[2018.04.04-06.01.58:882][442]LogFbx: 	Total Deformer Count 1161163544.
+[2018.04.04-06.01.58:882][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:882][442]LogFbx: =================================================
+[2018.04.04-06.01.58:882][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:882][442]LogFbx: 		[Node Attribute Child 1] Eyewear (Type Mesh).
+[2018.04.04-06.01.58:882][442]LogFbx: Dumping Node END [Eyewear]
+[2018.04.04-06.01.58:882][442]LogFbx: =================================================
+[2018.04.04-06.01.58:882][442]LogFbx: Dumping Node START [Shoes] 
+[2018.04.04-06.01.58:882][442]LogFbx: 	Total Deformer Count 1161326032.
+[2018.04.04-06.01.58:882][442]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.04-06.01.58:882][442]LogFbx: =================================================
+[2018.04.04-06.01.58:882][442]LogFbx: 	Attribute () Type (4).
+[2018.04.04-06.01.58:882][442]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.04-06.01.58:882][442]LogFbx: Dumping Node END [Shoes]
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(0) Hips
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(1) Spine
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(2) Spine1
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(3) Spine2
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(4) Neck
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(5) Head
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(6) RightEye
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.04-06.01.58:886][442]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(34) RightArm
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(36) RightHand
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.04-06.01.58:887][442]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.04-06.01.58:891][442]LogFbx: Parsing AnimStack Take 001
+[2018.04.04-06.01.58:896][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_Anim'
+[2018.04.04-06.01.58:896][442]LogLinker: Can't find file '/Game/Animations/Guard/FemaleGuardFixed_Anim'
+[2018.04.04-06.01.58:896][442]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:896][442]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:896][442]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsIn_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawRotateZ_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:897][442]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:898][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:899][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:900][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:901][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.01.58:902][442]LogFbx: Warning: CurveName() is skipped because it only contains invalid values.
+[2018.04.04-06.02.00:273][442]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard/FemaleGuardFixed_Anim.FemaleGuardFixed_Anim
+[2018.04.04-06.02.00:274][442]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.FemaleGuardFixed_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.04-06.02.00:371][442]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftArm  
+mixamorig:LeftForeArm  
+mixamorig:LeftHand  
+mixamorig:LeftHandThumb1  
+mixamorig:LeftHandThumb2  
+mixamorig:LeftHandThumb3  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex1  
+mixamorig:LeftHandIndex2  
+mixamorig:LeftHandIndex3  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle1  
+mixamorig:LeftHandMiddle2  
+mixamorig:LeftHandMiddle3  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing1  
+mixamorig:LeftHandRing2  
+mixamorig:LeftHandRing3  
+mixamorig:LeftHandRing4  
+mixamorig:LeftHandPinky1  
+mixamorig:LeftHandPinky2  
+mixamorig:LeftHandPinky3  
+mixamorig:LeftHandPinky4  
+mixamorig:RightArm  
+mixamorig:RightForeArm  
+mixamorig:RightHand  
+mixamorig:RightHandPinky1  
+mixamorig:RightHandPinky2  
+mixamorig:RightHandPinky3  
+mixamorig:RightHandPinky4  
+mixamorig:RightHandRing1  
+mixamorig:RightHandRing2  
+mixamorig:RightHandRing3  
+mixamorig:RightHandRing4  
+mixamorig:RightHandMiddle1  
+mixamorig:RightHandMiddle2  
+mixamorig:RightHandMiddle3  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandIndex1  
+mixamorig:RightHandIndex2  
+mixamorig:RightHandIndex3  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandThumb1  
+mixamorig:RightHandThumb2  
+mixamorig:RightHandThumb3  
+mixamorig:RightHandThumb4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.04-06.02.48:542][225]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.02.51:938][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.04.04-06.04.45:413][ 40]LogSavePackage: Save=499.77ms
+[2018.04.04-06.04.45:413][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default_Auto3AC28068548A8C16013E639B1F5A0C563.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2018.04.04-06.04.45:414][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap
+[2018.04.04-06.04.45:417][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.566
+[2018.04.04-06.04.45:418][ 40]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.566
+[2018.04.04-06.04.45:420][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemaleGuardFixed] ([1] browsable assets)...
+[2018.04.04-06.04.45:468][ 40]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Guard/FemaleGuardFixed.FemaleGuardFixed]
+[2018.04.04-06.04.45:468][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemaleGuardFixed]
+[2018.04.04-06.04.45:721][ 40]LogSavePackage: Save=249.11ms
+[2018.04.04-06.04.45:721][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_Auto3A9B287D04AEFCB925BA40AA53DBA3B08.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Auto3.uasset'
+[2018.04.04-06.04.45:722][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Auto3.uasset
+[2018.04.04-06.04.45:723][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Eyemat] ([1] browsable assets)...
+[2018.04.04-06.04.45:763][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Eyemat.Eyemat]
+[2018.04.04-06.04.45:763][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Eyemat]
+[2018.04.04-06.04.45:763][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyemat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyemat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.45:796][ 40]LogSavePackage: Save=29.92ms
+[2018.04.04-06.04.45:796][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyemat_Auto373FCE6FC4D92F8662F1AE08FE31BDB70.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyemat_Auto3.uasset'
+[2018.04.04-06.04.45:797][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyemat_Auto3.uasset
+[2018.04.04-06.04.45:797][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Body_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.45:809][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Body_Diffuse.FemGuard_Body_Diffuse]
+[2018.04.04-06.04.45:809][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Body_Diffuse]
+[2018.04.04-06.04.45:833][ 40]LogSavePackage: Save=20.82ms
+[2018.04.04-06.04.45:833][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Diffuse_Auto3F130F0E54DC857965A02D7995A37B71D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.45:835][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Diffuse_Auto3.uasset
+[2018.04.04-06.04.45:835][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Eyelashesmat] ([1] browsable assets)...
+[2018.04.04-06.04.45:878][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Eyelashesmat.Eyelashesmat]
+[2018.04.04-06.04.45:878][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Eyelashesmat]
+[2018.04.04-06.04.45:900][ 40]LogSavePackage: Save=19.95ms
+[2018.04.04-06.04.45:900][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyelashesmat_Auto3A9032A6C448709627DAF21AA6D1BB571.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyelashesmat_Auto3.uasset'
+[2018.04.04-06.04.45:902][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyelashesmat_Auto3.uasset
+[2018.04.04-06.04.45:903][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Bodymat] ([1] browsable assets)...
+[2018.04.04-06.04.45:946][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Bodymat.Bodymat]
+[2018.04.04-06.04.45:946][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Bodymat]
+[2018.04.04-06.04.45:947][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Bodymat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Bodymat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.45:976][ 40]LogSavePackage: Save=25.69ms
+[2018.04.04-06.04.45:976][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Bodymat_Auto388860A8B422F42F2AA56E08187D47FC5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Bodymat_Auto3.uasset'
+[2018.04.04-06.04.45:977][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Bodymat_Auto3.uasset
+[2018.04.04-06.04.45:978][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Body_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.45:988][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Body_Specular.FemGuard_Body_Specular]
+[2018.04.04-06.04.45:988][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Body_Specular]
+[2018.04.04-06.04.46:005][ 40]LogSavePackage: Save=15.33ms
+[2018.04.04-06.04.46:005][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Specular_Auto31AEF9EF24FE2360920970C8CF4549654.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Specular_Auto3.uasset'
+[2018.04.04-06.04.46:007][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Specular_Auto3.uasset
+[2018.04.04-06.04.46:007][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Body_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.46:016][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Body_Gloss.FemGuard_Body_Gloss]
+[2018.04.04-06.04.46:016][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Body_Gloss]
+[2018.04.04-06.04.46:037][ 40]LogSavePackage: Save=16.59ms
+[2018.04.04-06.04.46:037][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Gloss_Auto3F46C6E3749BF1BB3A0F84D81078B78B1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Gloss_Auto3.uasset'
+[2018.04.04-06.04.46:038][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Gloss_Auto3.uasset
+[2018.04.04-06.04.46:039][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Body_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.46:052][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Body_Normal.FemGuard_Body_Normal]
+[2018.04.04-06.04.46:052][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Body_Normal]
+[2018.04.04-06.04.46:079][ 40]LogSavePackage: Save=23.78ms
+[2018.04.04-06.04.46:080][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Normal_Auto3BC409B644E9F94D2164205A0D8A33843.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Normal_Auto3.uasset'
+[2018.04.04-06.04.46:081][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Body_Normal_Auto3.uasset
+[2018.04.04-06.04.46:082][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Bottommat] ([1] browsable assets)...
+[2018.04.04-06.04.46:127][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Bottommat.Bottommat]
+[2018.04.04-06.04.46:127][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Bottommat]
+[2018.04.04-06.04.46:157][ 40]LogSavePackage: Save=28.65ms
+[2018.04.04-06.04.46:158][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Bottommat_Auto30E1E1C4F453366799A7A238181E78864.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Bottommat_Auto3.uasset'
+[2018.04.04-06.04.46:158][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Bottommat_Auto3.uasset
+[2018.04.04-06.04.46:159][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Bottom_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.46:170][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Bottom_Diffuse.FemGuard_Bottom_Diffuse]
+[2018.04.04-06.04.46:170][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Bottom_Diffuse]
+[2018.04.04-06.04.46:191][ 40]LogSavePackage: Save=17.61ms
+[2018.04.04-06.04.46:191][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Diffuse_Auto3B6C9FF7748AF8CC7CFE5E6ABD1EB8E80.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.46:192][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Diffuse_Auto3.uasset
+[2018.04.04-06.04.46:193][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Bottom_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.46:203][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Bottom_Specular.FemGuard_Bottom_Specular]
+[2018.04.04-06.04.46:204][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Bottom_Specular]
+[2018.04.04-06.04.46:223][ 40]LogSavePackage: Save=16.79ms
+[2018.04.04-06.04.46:224][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Specular_Auto311B65CA543C7E030F34032B4BC28B821.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Specular_Auto3.uasset'
+[2018.04.04-06.04.46:224][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Specular_Auto3.uasset
+[2018.04.04-06.04.46:225][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Bottom_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.46:233][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Bottom_Gloss.FemGuard_Bottom_Gloss]
+[2018.04.04-06.04.46:233][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Bottom_Gloss]
+[2018.04.04-06.04.46:256][ 40]LogSavePackage: Save=18.88ms
+[2018.04.04-06.04.46:256][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Gloss_Auto3C88058DA4284B643AB12598D6ACAB2CF.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Gloss_Auto3.uasset'
+[2018.04.04-06.04.46:257][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Gloss_Auto3.uasset
+[2018.04.04-06.04.46:258][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Bottom_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.46:270][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Bottom_Normal.FemGuard_Bottom_Normal]
+[2018.04.04-06.04.46:270][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Bottom_Normal]
+[2018.04.04-06.04.46:297][ 40]LogSavePackage: Save=23.42ms
+[2018.04.04-06.04.46:297][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Normal_Auto32203243F4775936247F41DBCD30DC74A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Normal_Auto3.uasset'
+[2018.04.04-06.04.46:298][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Bottom_Normal_Auto3.uasset
+[2018.04.04-06.04.46:298][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Hairmat] ([1] browsable assets)...
+[2018.04.04-06.04.46:339][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Hairmat.Hairmat]
+[2018.04.04-06.04.46:339][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Hairmat]
+[2018.04.04-06.04.46:339][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Hairmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hairmat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.46:370][ 40]LogSavePackage: Save=27.98ms
+[2018.04.04-06.04.46:370][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Hairmat_Auto350E53CEA4DF5AC811EB76489D49C6EA0.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hairmat_Auto3.uasset'
+[2018.04.04-06.04.46:372][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hairmat_Auto3.uasset
+[2018.04.04-06.04.46:373][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hair_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.46:386][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hair_Diffuse.FemGuard_Hair_Diffuse]
+[2018.04.04-06.04.46:386][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hair_Diffuse]
+[2018.04.04-06.04.46:401][ 40]LogSavePackage: Save=12.55ms
+[2018.04.04-06.04.46:401][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Diffuse_Auto369E2BDD64FCCE00B626DD7897C297072.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.46:402][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Diffuse_Auto3.uasset
+[2018.04.04-06.04.46:404][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hair_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.46:417][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hair_Specular.FemGuard_Hair_Specular]
+[2018.04.04-06.04.46:417][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hair_Specular]
+[2018.04.04-06.04.46:434][ 40]LogSavePackage: Save=12.41ms
+[2018.04.04-06.04.46:434][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Specular_Auto34D42E9964E6384E9E41F44BC44E0D886.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Specular_Auto3.uasset'
+[2018.04.04-06.04.46:436][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Specular_Auto3.uasset
+[2018.04.04-06.04.46:437][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hair_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.46:448][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hair_Gloss.FemGuard_Hair_Gloss]
+[2018.04.04-06.04.46:448][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hair_Gloss]
+[2018.04.04-06.04.46:465][ 40]LogSavePackage: Save=14.47ms
+[2018.04.04-06.04.46:465][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Gloss_Auto3F0457548498FC974FAA84BAB6C9AD830.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Gloss_Auto3.uasset'
+[2018.04.04-06.04.46:466][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Gloss_Auto3.uasset
+[2018.04.04-06.04.46:466][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hair_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.46:477][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hair_Normal.FemGuard_Hair_Normal]
+[2018.04.04-06.04.46:477][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hair_Normal]
+[2018.04.04-06.04.46:496][ 40]LogSavePackage: Save=16.76ms
+[2018.04.04-06.04.46:496][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Normal_Auto3A32036154B322EDF9014C5B76D35C805.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Normal_Auto3.uasset'
+[2018.04.04-06.04.46:497][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Normal_Auto3.uasset
+[2018.04.04-06.04.46:497][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hair_Opacity] ([1] browsable assets)...
+[2018.04.04-06.04.46:506][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hair_Opacity.FemGuard_Hair_Opacity]
+[2018.04.04-06.04.46:506][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hair_Opacity]
+[2018.04.04-06.04.46:526][ 40]LogSavePackage: Save=16.70ms
+[2018.04.04-06.04.46:526][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Opacity_Auto38EEDC37D42D3AB1A6A4AE7811DED176F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Opacity_Auto3.uasset'
+[2018.04.04-06.04.46:527][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hair_Opacity_Auto3.uasset
+[2018.04.04-06.04.46:527][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Topmat] ([1] browsable assets)...
+[2018.04.04-06.04.46:565][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Topmat.Topmat]
+[2018.04.04-06.04.46:565][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Topmat]
+[2018.04.04-06.04.46:566][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Topmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Topmat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.46:597][ 40]LogSavePackage: Save=27.86ms
+[2018.04.04-06.04.46:597][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Topmat_Auto3196A52BE48A013B33179C99E0000DCF2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Topmat_Auto3.uasset'
+[2018.04.04-06.04.46:598][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Topmat_Auto3.uasset
+[2018.04.04-06.04.46:598][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Top_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.46:611][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Top_Diffuse.FemGuard_Top_Diffuse]
+[2018.04.04-06.04.46:612][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Top_Diffuse]
+[2018.04.04-06.04.46:631][ 40]LogSavePackage: Save=16.43ms
+[2018.04.04-06.04.46:631][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Diffuse_Auto3EBB3F4844D133D85A771E2A189EFE541.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.46:631][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Diffuse_Auto3.uasset
+[2018.04.04-06.04.46:632][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Top_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.46:639][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Top_Specular.FemGuard_Top_Specular]
+[2018.04.04-06.04.46:639][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Top_Specular]
+[2018.04.04-06.04.46:653][ 40]LogSavePackage: Save=11.66ms
+[2018.04.04-06.04.46:654][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Specular_Auto3002B69134C3C0C5E559C06AF9951259D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Specular_Auto3.uasset'
+[2018.04.04-06.04.46:655][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Specular_Auto3.uasset
+[2018.04.04-06.04.46:655][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Top_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.46:665][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Top_Gloss.FemGuard_Top_Gloss]
+[2018.04.04-06.04.46:665][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Top_Gloss]
+[2018.04.04-06.04.46:682][ 40]LogSavePackage: Save=14.98ms
+[2018.04.04-06.04.46:682][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Gloss_Auto3CF4868154913D6528F321B831251B3B3.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Gloss_Auto3.uasset'
+[2018.04.04-06.04.46:683][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Gloss_Auto3.uasset
+[2018.04.04-06.04.46:683][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Top_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.46:694][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Top_Normal.FemGuard_Top_Normal]
+[2018.04.04-06.04.46:694][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Top_Normal]
+[2018.04.04-06.04.46:720][ 40]LogSavePackage: Save=23.58ms
+[2018.04.04-06.04.46:720][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Normal_Auto36674F0B14957C02A0969159BD7D32EAE.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Normal_Auto3.uasset'
+[2018.04.04-06.04.46:721][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Top_Normal_Auto3.uasset
+[2018.04.04-06.04.46:722][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Glovemat] ([1] browsable assets)...
+[2018.04.04-06.04.46:763][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Glovemat.Glovemat]
+[2018.04.04-06.04.46:763][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Glovemat]
+[2018.04.04-06.04.46:763][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Glovemat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Glovemat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.46:792][ 40]LogSavePackage: Save=27.29ms
+[2018.04.04-06.04.46:792][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Glovemat_Auto35F1D469F45F25DE299E048B22448CCA5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Glovemat_Auto3.uasset'
+[2018.04.04-06.04.46:792][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Glovemat_Auto3.uasset
+[2018.04.04-06.04.46:793][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Glove_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.46:802][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Glove_Diffuse.FemGuard_Glove_Diffuse]
+[2018.04.04-06.04.46:802][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Glove_Diffuse]
+[2018.04.04-06.04.46:827][ 40]LogSavePackage: Save=19.57ms
+[2018.04.04-06.04.46:827][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Diffuse_Auto33A0840EF4869152DD78BDD8F129CCD69.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.46:828][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Diffuse_Auto3.uasset
+[2018.04.04-06.04.46:829][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Glove_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.46:839][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Glove_Specular.FemGuard_Glove_Specular]
+[2018.04.04-06.04.46:839][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Glove_Specular]
+[2018.04.04-06.04.46:861][ 40]LogSavePackage: Save=18.44ms
+[2018.04.04-06.04.46:861][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Specular_Auto392BE26B444EE2B70578E5089A0F28ECA.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Specular_Auto3.uasset'
+[2018.04.04-06.04.46:863][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Specular_Auto3.uasset
+[2018.04.04-06.04.46:864][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Glove_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.46:873][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Glove_Gloss.FemGuard_Glove_Gloss]
+[2018.04.04-06.04.46:873][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Glove_Gloss]
+[2018.04.04-06.04.46:897][ 40]LogSavePackage: Save=20.76ms
+[2018.04.04-06.04.46:897][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Gloss_Auto335F0A1D54048328102641897D92CE86A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Gloss_Auto3.uasset'
+[2018.04.04-06.04.46:898][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Gloss_Auto3.uasset
+[2018.04.04-06.04.46:899][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Glove_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.46:914][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Glove_Normal.FemGuard_Glove_Normal]
+[2018.04.04-06.04.46:914][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Glove_Normal]
+[2018.04.04-06.04.46:946][ 40]LogSavePackage: Save=29.04ms
+[2018.04.04-06.04.46:946][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Normal_Auto3FDCA0BDD4C71866F66D44AAD416201C1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Normal_Auto3.uasset'
+[2018.04.04-06.04.46:947][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Glove_Normal_Auto3.uasset
+[2018.04.04-06.04.46:947][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Hatmat] ([1] browsable assets)...
+[2018.04.04-06.04.46:988][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Hatmat.Hatmat]
+[2018.04.04-06.04.46:989][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Hatmat]
+[2018.04.04-06.04.46:997][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Hatmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hatmat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.47:028][ 40]LogSavePackage: Save=26.54ms
+[2018.04.04-06.04.47:028][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Hatmat_Auto32A5E2DB641E533A370A346A72EECD49A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hatmat_Auto3.uasset'
+[2018.04.04-06.04.47:029][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Hatmat_Auto3.uasset
+[2018.04.04-06.04.47:029][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hat_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.47:039][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hat_Diffuse.FemGuard_Hat_Diffuse]
+[2018.04.04-06.04.47:039][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hat_Diffuse]
+[2018.04.04-06.04.47:060][ 40]LogSavePackage: Save=17.31ms
+[2018.04.04-06.04.47:060][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Diffuse_Auto32931F99E442F50559F0BE98123278C07.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.47:061][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Diffuse_Auto3.uasset
+[2018.04.04-06.04.47:061][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hat_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.47:070][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hat_Specular.FemGuard_Hat_Specular]
+[2018.04.04-06.04.47:070][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hat_Specular]
+[2018.04.04-06.04.47:089][ 40]LogSavePackage: Save=16.11ms
+[2018.04.04-06.04.47:089][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Specular_Auto366F8AD2943C302DA7D3EDBAD8CD27BF7.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Specular_Auto3.uasset'
+[2018.04.04-06.04.47:090][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Specular_Auto3.uasset
+[2018.04.04-06.04.47:091][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hat_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.47:104][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hat_Gloss.FemGuard_Hat_Gloss]
+[2018.04.04-06.04.47:104][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hat_Gloss]
+[2018.04.04-06.04.47:120][ 40]LogSavePackage: Save=13.62ms
+[2018.04.04-06.04.47:120][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Gloss_Auto3AAC55B99477C52220801E2A72B46FAEA.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Gloss_Auto3.uasset'
+[2018.04.04-06.04.47:121][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Gloss_Auto3.uasset
+[2018.04.04-06.04.47:122][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Hat_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.47:133][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Hat_Normal.FemGuard_Hat_Normal]
+[2018.04.04-06.04.47:134][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Hat_Normal]
+[2018.04.04-06.04.47:159][ 40]LogSavePackage: Save=21.52ms
+[2018.04.04-06.04.47:159][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Normal_Auto3E0D9C4E24EDCCC6658EE56A9E1F3002A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Normal_Auto3.uasset'
+[2018.04.04-06.04.47:160][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Hat_Normal_Auto3.uasset
+[2018.04.04-06.04.47:162][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Eyewearmat] ([1] browsable assets)...
+[2018.04.04-06.04.47:204][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Eyewearmat.Eyewearmat]
+[2018.04.04-06.04.47:204][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Eyewearmat]
+[2018.04.04-06.04.47:237][ 40]LogSavePackage: Save=25.68ms
+[2018.04.04-06.04.47:237][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyewearmat_Auto3664AFA8E40A2FBF9E456249BB7EA9B3D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyewearmat_Auto3.uasset'
+[2018.04.04-06.04.47:238][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Eyewearmat_Auto3.uasset
+[2018.04.04-06.04.47:239][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Eyewear_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.47:250][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Eyewear_Diffuse.FemGuard_Eyewear_Diffuse]
+[2018.04.04-06.04.47:250][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Eyewear_Diffuse]
+[2018.04.04-06.04.47:299][ 40]LogSavePackage: Save=46.29ms
+[2018.04.04-06.04.47:299][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Diffuse_Auto3C175BAF04A56989C4E9DBB91167A9D80.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.47:300][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Diffuse_Auto3.uasset
+[2018.04.04-06.04.47:301][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Eyewear_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.47:313][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Eyewear_Specular.FemGuard_Eyewear_Specular]
+[2018.04.04-06.04.47:313][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Eyewear_Specular]
+[2018.04.04-06.04.47:330][ 40]LogSavePackage: Save=15.13ms
+[2018.04.04-06.04.47:330][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Specular_Auto32456561C4A5934F38FB336AB680EC13F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Specular_Auto3.uasset'
+[2018.04.04-06.04.47:331][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Specular_Auto3.uasset
+[2018.04.04-06.04.47:331][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Eyewear_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.47:348][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Eyewear_Gloss.FemGuard_Eyewear_Gloss]
+[2018.04.04-06.04.47:348][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Eyewear_Gloss]
+[2018.04.04-06.04.47:368][ 40]LogSavePackage: Save=17.61ms
+[2018.04.04-06.04.47:368][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Gloss_Auto32EB6BEF8447E98B3B0D8BA8D4D8B9ED1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Gloss_Auto3.uasset'
+[2018.04.04-06.04.47:369][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Gloss_Auto3.uasset
+[2018.04.04-06.04.47:370][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Eyewear_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.47:381][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Eyewear_Normal.FemGuard_Eyewear_Normal]
+[2018.04.04-06.04.47:381][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Eyewear_Normal]
+[2018.04.04-06.04.47:403][ 40]LogSavePackage: Save=20.21ms
+[2018.04.04-06.04.47:403][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Normal_Auto390256C40476BEB3AE73E72B1BF199FEB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Normal_Auto3.uasset'
+[2018.04.04-06.04.47:407][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Normal_Auto3.uasset
+[2018.04.04-06.04.47:408][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Eyewear_Opacity] ([1] browsable assets)...
+[2018.04.04-06.04.47:423][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Eyewear_Opacity.FemGuard_Eyewear_Opacity]
+[2018.04.04-06.04.47:423][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Eyewear_Opacity]
+[2018.04.04-06.04.47:509][ 40]LogSavePackage: Save=83.60ms
+[2018.04.04-06.04.47:509][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity_Auto3854A4D8A485DA1BBED4AE4891824C879.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Opacity_Auto3.uasset'
+[2018.04.04-06.04.47:510][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Eyewear_Opacity_Auto3.uasset
+[2018.04.04-06.04.47:510][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/Shoesmat] ([1] browsable assets)...
+[2018.04.04-06.04.47:551][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Guard/Shoesmat.Shoesmat]
+[2018.04.04-06.04.47:551][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/Shoesmat]
+[2018.04.04-06.04.47:551][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Shoesmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Shoesmat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-06.04.47:581][ 40]LogSavePackage: Save=26.05ms
+[2018.04.04-06.04.47:581][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Shoesmat_Auto30C3124244803A282DBFD24A4571D83DB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Shoesmat_Auto3.uasset'
+[2018.04.04-06.04.47:582][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/Shoesmat_Auto3.uasset
+[2018.04.04-06.04.47:583][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Shoes_Diffuse] ([1] browsable assets)...
+[2018.04.04-06.04.47:598][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Shoes_Diffuse.FemGuard_Shoes_Diffuse]
+[2018.04.04-06.04.47:598][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Shoes_Diffuse]
+[2018.04.04-06.04.47:627][ 40]LogSavePackage: Save=26.75ms
+[2018.04.04-06.04.47:627][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Diffuse_Auto351D55ABB43EEDC4138DC9D932DDB78DD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Diffuse_Auto3.uasset'
+[2018.04.04-06.04.47:628][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Diffuse_Auto3.uasset
+[2018.04.04-06.04.47:630][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Shoes_Specular] ([1] browsable assets)...
+[2018.04.04-06.04.47:642][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Shoes_Specular.FemGuard_Shoes_Specular]
+[2018.04.04-06.04.47:642][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Shoes_Specular]
+[2018.04.04-06.04.47:667][ 40]LogSavePackage: Save=22.12ms
+[2018.04.04-06.04.47:667][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Specular_Auto3622D0F4D406B39C0880659B07862D6A2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Specular_Auto3.uasset'
+[2018.04.04-06.04.47:668][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Specular_Auto3.uasset
+[2018.04.04-06.04.47:669][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Shoes_Gloss] ([1] browsable assets)...
+[2018.04.04-06.04.47:685][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Shoes_Gloss.FemGuard_Shoes_Gloss]
+[2018.04.04-06.04.47:685][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Shoes_Gloss]
+[2018.04.04-06.04.47:712][ 40]LogSavePackage: Save=20.79ms
+[2018.04.04-06.04.47:712][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Gloss_Auto3F12BC93B46CA1AE8FAD2C4BC37FD7984.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Gloss_Auto3.uasset'
+[2018.04.04-06.04.47:712][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Gloss_Auto3.uasset
+[2018.04.04-06.04.47:713][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemGuard_Shoes_Normal] ([1] browsable assets)...
+[2018.04.04-06.04.47:727][ 40]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Guard/FemGuard_Shoes_Normal.FemGuard_Shoes_Normal]
+[2018.04.04-06.04.47:727][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemGuard_Shoes_Normal]
+[2018.04.04-06.04.47:757][ 40]LogSavePackage: Save=25.55ms
+[2018.04.04-06.04.47:757][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Normal_Auto340DE559A4DCBC17CBC9A1CB2EFA2A213.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Normal_Auto3.uasset'
+[2018.04.04-06.04.47:757][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemGuard_Shoes_Normal_Auto3.uasset
+[2018.04.04-06.04.47:758][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Guard/FemaleGuardFixed_Skeleton] ([1] browsable assets)...
+[2018.04.04-06.04.47:758][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemaleGuardFixed_Skeleton]
+[2018.04.04-06.04.47:774][ 40]LogSavePackage: Save=12.61ms
+[2018.04.04-06.04.47:774][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_Skeleton_Auto350358D9B429587AB0C545780DD0B5CBD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Skeleton_Auto3.uasset'
+[2018.04.04-06.04.47:775][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Skeleton_Auto3.uasset
+[2018.04.04-06.04.47:776][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset] ([1] browsable assets)...
+[2018.04.04-06.04.47:827][ 40]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset.FemaleGuardFixed_PhysicsAsset]
+[2018.04.04-06.04.47:827][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset]
+[2018.04.04-06.04.47:883][ 40]LogSavePackage: Save=37.69ms
+[2018.04.04-06.04.47:883][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_PhysicsAsset_Au1F679FA64C61D4BCF57F5DA0791C3B99.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset_Auto3.uasset'
+[2018.04.04-06.04.47:884][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_PhysicsAsset_Auto3.uasset
+[2018.04.04-06.04.47:885][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Guard/FemaleGuardFixed_Anim] ([1] browsable assets)...
+[2018.04.04-06.04.47:938][ 40]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Guard/FemaleGuardFixed_Anim.FemaleGuardFixed_Anim]
+[2018.04.04-06.04.47:938][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Guard/FemaleGuardFixed_Anim]
+[2018.04.04-06.04.47:967][ 40]LogSavePackage: Save=24.51ms
+[2018.04.04-06.04.47:967][ 40]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_Anim_Auto3C47231AA4EEA4885D08C95BDD442C5A6.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Anim_Auto3.uasset'
+[2018.04.04-06.04.47:968][ 40]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/Guard/FemaleGuardFixed_Anim_Auto3.uasset
+[2018.04.04-06.04.47:968][ 40]LogFileHelpers: Auto-saving content packages took 2.548
+[2018.04.04-06.08.32:004][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Standing Torch Walk Forward.fbx)
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.04-06.08.32:021][102]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.04-06.08.32:027][102]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Standing Torch Walk Forward.fbx
+[2018.04.04-06.08.32:075][102]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.08.43:082][102]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Standing Torch Walk Forward.fbx
+[2018.04.04-06.08.43:136][102]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(0) Hips
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(1) Spine
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(2) Spine1
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(3) Spine2
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(4) Neck
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(5) Head
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(6) RightEye
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.04-06.08.43:142][102]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(34) RightArm
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(36) RightHand
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.04-06.08.43:143][102]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.04-06.08.43:144][102]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.04-06.08.43:145][102]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.04-06.08.43:149][102]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Standing_Torch_Walk_Forward'
+[2018.04.04-06.08.43:149][102]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Standing_Torch_Walk_Forward'
+[2018.04.04-06.08.43:489][102]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Standing_Torch_Walk_Forward.Standing_Torch_Walk_Forward
+[2018.04.04-06.08.43:491][102]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Torch_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.04-06.09.00:751][914]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.09.40:314][855]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Thief)
+[2018.04.04-06.09.40:624][869]Cmd: DELETE
+[2018.04.04-06.09.40:624][869]Cmd: ACTOR DELETE
+[2018.04.04-06.09.43:520][869]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.04-06.09.43:540][869]LogEditorActor: Deleted 1 Actors (2.916 secs)
+[2018.04.04-06.10.29:922][198]Cmd: TRANSACTION UNDO
+[2018.04.04-06.10.29:922][198]LogEditorTransaction: Undo Move Actors
+[2018.04.04-06.14.02:971][484]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.14.16:725][110]Cmd: TRANSACTION UNDO
+[2018.04.04-06.14.16:725][110]LogEditorTransaction: Undo Move Actors
+[2018.04.04-06.18.39:499][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.04.04-06.18.40:456][738]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.20.03:869][773]LogSavePackage: Save=487.64ms
+[2018.04.04-06.20.03:870][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultBD2424EE40C8623F2F9C08AACBECAC24.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.20.03:883][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.20.03:926][773]LogFileHelpers: Saving map 'Minimal_Default' took 0.676
+[2018.04.04-06.20.03:929][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/sneaking_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset" SILENT=true
+[2018.04.04-06.20.04:000][773]LogSavePackage: Save=58.47ms
+[2018.04.04-06.20.04:000][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/sneaking_seqC86907F0496656E4609912B8432E39E3.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset'
+[2018.04.04-06.20.04:015][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset
+[2018.04.04-06.20.04:072][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemaleGuardFixed" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed.uasset" SILENT=true
+[2018.04.04-06.20.04:320][773]LogSavePackage: Save=244.11ms
+[2018.04.04-06.20.04:320][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixedA213830242CF6E8D7B19F2866842104E.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed.uasset'
+[2018.04.04-06.20.04:332][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed.uasset
+[2018.04.04-06.20.04:381][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyemat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyemat.uasset" SILENT=true
+[2018.04.04-06.20.04:407][773]LogSavePackage: Save=23.17ms
+[2018.04.04-06.20.04:407][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/EyematF4E9FE3B42E9826286C1BDBCFC762EA3.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyemat.uasset'
+[2018.04.04-06.20.04:418][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyemat.uasset
+[2018.04.04-06.20.04:437][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Body_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.04:658][773]LogSavePackage: Save=217.04ms
+[2018.04.04-06.20.04:658][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Diffuse4BB4A59242556ADE6F02CBB29D500CE2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Diffuse.uasset'
+[2018.04.04-06.20.04:668][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Diffuse.uasset
+[2018.04.04-06.20.04:720][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyelashesmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyelashesmat.uasset" SILENT=true
+[2018.04.04-06.20.04:750][773]LogSavePackage: Save=25.63ms
+[2018.04.04-06.20.04:750][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyelashesmat677469CB4EF0B8AB80C132805504C4D4.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyelashesmat.uasset'
+[2018.04.04-06.20.04:762][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyelashesmat.uasset
+[2018.04.04-06.20.04:808][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Bodymat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bodymat.uasset" SILENT=true
+[2018.04.04-06.20.04:834][773]LogSavePackage: Save=23.64ms
+[2018.04.04-06.20.04:835][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Bodymat6508992A4208AD44280EC6BCECCCB3B2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bodymat.uasset'
+[2018.04.04-06.20.04:848][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bodymat.uasset
+[2018.04.04-06.20.04:866][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Body_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Specular.uasset" SILENT=true
+[2018.04.04-06.20.04:996][773]LogSavePackage: Save=127.78ms
+[2018.04.04-06.20.04:996][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Specular5E14954348E543F0C28F4790ACCBFA36.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Specular.uasset'
+[2018.04.04-06.20.05:004][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Specular.uasset
+[2018.04.04-06.20.05:020][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Body_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.05:169][773]LogSavePackage: Save=145.78ms
+[2018.04.04-06.20.05:169][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Gloss1F6D6D0F4203A06ECD37DB8FE25AA902.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Gloss.uasset'
+[2018.04.04-06.20.05:183][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Gloss.uasset
+[2018.04.04-06.20.05:198][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Body_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Normal.uasset" SILENT=true
+[2018.04.04-06.20.05:430][773]LogSavePackage: Save=229.81ms
+[2018.04.04-06.20.05:430][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Body_Normal188EF1BD433325BA9321F4AE6D002D61.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Normal.uasset'
+[2018.04.04-06.20.05:441][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Body_Normal.uasset
+[2018.04.04-06.20.05:492][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Bottommat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bottommat.uasset" SILENT=true
+[2018.04.04-06.20.05:518][773]LogSavePackage: Save=22.79ms
+[2018.04.04-06.20.05:518][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/BottommatF47A7E9C4F4F1CEFF0D80791575BF569.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bottommat.uasset'
+[2018.04.04-06.20.05:532][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Bottommat.uasset
+[2018.04.04-06.20.05:548][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Bottom_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.05:619][773]LogSavePackage: Save=66.69ms
+[2018.04.04-06.20.05:619][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Diffuse39F755384893350DD85CECBB944B1E44.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Diffuse.uasset'
+[2018.04.04-06.20.05:632][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Diffuse.uasset
+[2018.04.04-06.20.05:646][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Bottom_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Specular.uasset" SILENT=true
+[2018.04.04-06.20.05:696][773]LogSavePackage: Save=46.74ms
+[2018.04.04-06.20.05:696][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Specular7330199C4A1E1996608D1AA08F5373CA.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Specular.uasset'
+[2018.04.04-06.20.05:706][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Specular.uasset
+[2018.04.04-06.20.05:722][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Bottom_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.05:778][773]LogSavePackage: Save=52.83ms
+[2018.04.04-06.20.05:778][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Gloss8F07F92F4231E64634B9939BDF4DD4BD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Gloss.uasset'
+[2018.04.04-06.20.05:790][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Gloss.uasset
+[2018.04.04-06.20.05:808][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Bottom_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Normal.uasset" SILENT=true
+[2018.04.04-06.20.05:899][773]LogSavePackage: Save=87.95ms
+[2018.04.04-06.20.05:899][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Bottom_Normal774D6EEC40266955D73FCB9CF86CE281.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Normal.uasset'
+[2018.04.04-06.20.05:910][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Bottom_Normal.uasset
+[2018.04.04-06.20.05:956][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Hairmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hairmat.uasset" SILENT=true
+[2018.04.04-06.20.05:984][773]LogSavePackage: Save=25.32ms
+[2018.04.04-06.20.05:984][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/HairmatF7CF373E4550EADF5BB095A24FCB080C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hairmat.uasset'
+[2018.04.04-06.20.05:998][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hairmat.uasset
+[2018.04.04-06.20.06:015][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hair_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.06:066][773]LogSavePackage: Save=47.80ms
+[2018.04.04-06.20.06:066][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_DiffuseABBBF5FE4D09364BC9C9B089BC6681B1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Diffuse.uasset'
+[2018.04.04-06.20.06:080][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Diffuse.uasset
+[2018.04.04-06.20.06:095][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hair_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Specular.uasset" SILENT=true
+[2018.04.04-06.20.06:142][773]LogSavePackage: Save=43.70ms
+[2018.04.04-06.20.06:142][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Specular757FBF3E4A383B9CFF48399B3885C657.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Specular.uasset'
+[2018.04.04-06.20.06:150][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Specular.uasset
+[2018.04.04-06.20.06:164][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hair_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.06:242][773]LogSavePackage: Save=48.58ms
+[2018.04.04-06.20.06:243][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Gloss32AA356A4AA67A0156C837BABEB6C91D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Gloss.uasset'
+[2018.04.04-06.20.06:254][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Gloss.uasset
+[2018.04.04-06.20.06:278][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hair_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Normal.uasset" SILENT=true
+[2018.04.04-06.20.06:347][773]LogSavePackage: Save=64.77ms
+[2018.04.04-06.20.06:347][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Normal7B7298B845D9F04B9C8C2FB5234770F6.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Normal.uasset'
+[2018.04.04-06.20.06:360][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Normal.uasset
+[2018.04.04-06.20.06:376][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hair_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Opacity.uasset" SILENT=true
+[2018.04.04-06.20.06:428][773]LogSavePackage: Save=48.01ms
+[2018.04.04-06.20.06:428][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hair_Opacity6F14841E4EDE0E6CD6323A9B5C6D71AC.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Opacity.uasset'
+[2018.04.04-06.20.06:445][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hair_Opacity.uasset
+[2018.04.04-06.20.06:496][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Topmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Topmat.uasset" SILENT=true
+[2018.04.04-06.20.06:523][773]LogSavePackage: Save=23.95ms
+[2018.04.04-06.20.06:523][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Topmat6AFCA44D4796FBD381AFEF8C59C4F465.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Topmat.uasset'
+[2018.04.04-06.20.06:534][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Topmat.uasset
+[2018.04.04-06.20.06:556][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Top_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.06:622][773]LogSavePackage: Save=62.12ms
+[2018.04.04-06.20.06:622][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Diffuse0A12FAFF4A3D89B182C767A2BA9B4B51.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Diffuse.uasset'
+[2018.04.04-06.20.06:635][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Diffuse.uasset
+[2018.04.04-06.20.06:648][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Top_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Specular.uasset" SILENT=true
+[2018.04.04-06.20.06:680][773]LogSavePackage: Save=30.36ms
+[2018.04.04-06.20.06:681][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_SpecularDD9BE2534E423E5E0FB71E8BB99474A0.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Specular.uasset'
+[2018.04.04-06.20.06:694][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Specular.uasset
+[2018.04.04-06.20.06:707][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Top_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.06:747][773]LogSavePackage: Save=36.07ms
+[2018.04.04-06.20.06:747][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Gloss729D0DE144042A1DE02FA29C4E554F1C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Gloss.uasset'
+[2018.04.04-06.20.06:759][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Gloss.uasset
+[2018.04.04-06.20.06:778][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Top_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Normal.uasset" SILENT=true
+[2018.04.04-06.20.06:870][773]LogSavePackage: Save=88.63ms
+[2018.04.04-06.20.06:870][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Top_Normal3516A4164A4857161A9F7283893FB27C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Normal.uasset'
+[2018.04.04-06.20.06:884][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Top_Normal.uasset
+[2018.04.04-06.20.06:932][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Glovemat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Glovemat.uasset" SILENT=true
+[2018.04.04-06.20.06:960][773]LogSavePackage: Save=24.47ms
+[2018.04.04-06.20.06:960][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/GlovematD4F195AF40EFB0932BC8B18CA0625D43.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Glovemat.uasset'
+[2018.04.04-06.20.06:970][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Glovemat.uasset
+[2018.04.04-06.20.06:987][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Glove_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.07:061][773]LogSavePackage: Save=69.50ms
+[2018.04.04-06.20.07:061][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_DiffuseE4969EB44C65DB236BECF38E49B013AC.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Diffuse.uasset'
+[2018.04.04-06.20.07:074][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Diffuse.uasset
+[2018.04.04-06.20.07:090][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Glove_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Specular.uasset" SILENT=true
+[2018.04.04-06.20.07:143][773]LogSavePackage: Save=49.32ms
+[2018.04.04-06.20.07:143][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_SpecularCEF30CC84448907D523E94B548000055.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Specular.uasset'
+[2018.04.04-06.20.07:159][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Specular.uasset
+[2018.04.04-06.20.07:171][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Glove_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.07:232][773]LogSavePackage: Save=56.75ms
+[2018.04.04-06.20.07:232][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Gloss3432571E44F6161516A728B9AAF6390E.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Gloss.uasset'
+[2018.04.04-06.20.07:244][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Gloss.uasset
+[2018.04.04-06.20.07:258][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Glove_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Normal.uasset" SILENT=true
+[2018.04.04-06.20.07:353][773]LogSavePackage: Save=92.40ms
+[2018.04.04-06.20.07:353][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Glove_Normal20A81DDE41AB79FAFADEFE9F59956DB7.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Normal.uasset'
+[2018.04.04-06.20.07:364][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Glove_Normal.uasset
+[2018.04.04-06.20.07:409][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Hatmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hatmat.uasset" SILENT=true
+[2018.04.04-06.20.07:438][773]LogSavePackage: Save=25.22ms
+[2018.04.04-06.20.07:438][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Hatmat86BB18AF40D49B9587A2DBB7655F621B.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hatmat.uasset'
+[2018.04.04-06.20.07:453][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Hatmat.uasset
+[2018.04.04-06.20.07:470][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hat_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.07:578][773]LogSavePackage: Save=103.87ms
+[2018.04.04-06.20.07:579][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_DiffuseB09DFB4640882C6DA4A564B3549F232C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Diffuse.uasset'
+[2018.04.04-06.20.07:593][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Diffuse.uasset
+[2018.04.04-06.20.07:605][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hat_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Specular.uasset" SILENT=true
+[2018.04.04-06.20.07:638][773]LogSavePackage: Save=28.87ms
+[2018.04.04-06.20.07:638][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Specular492F2D444805C21D9F73239B9FA83BD9.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Specular.uasset'
+[2018.04.04-06.20.07:650][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Specular.uasset
+[2018.04.04-06.20.07:664][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hat_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.07:700][773]LogSavePackage: Save=33.18ms
+[2018.04.04-06.20.07:700][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Gloss6AC7F128441D4AEEE6BC07A428363399.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Gloss.uasset'
+[2018.04.04-06.20.07:710][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Gloss.uasset
+[2018.04.04-06.20.07:724][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Hat_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Normal.uasset" SILENT=true
+[2018.04.04-06.20.07:804][773]LogSavePackage: Save=76.76ms
+[2018.04.04-06.20.07:804][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Hat_Normal9E89566B48A27F6859ACF09148F19BAC.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Normal.uasset'
+[2018.04.04-06.20.07:818][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Hat_Normal.uasset
+[2018.04.04-06.20.07:866][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyewearmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset" SILENT=true
+[2018.04.04-06.20.07:898][773]LogSavePackage: Save=29.10ms
+[2018.04.04-06.20.07:898][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyewearmat706154B7483A2CFC6ECE1ABEE8B49895.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset'
+[2018.04.04-06.20.07:911][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset
+[2018.04.04-06.20.07:935][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.07:998][773]LogSavePackage: Save=60.16ms
+[2018.04.04-06.20.07:998][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Diffuse6A899AE948431B4B53F0F580A0E2B510.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Diffuse.uasset'
+[2018.04.04-06.20.08:009][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Diffuse.uasset
+[2018.04.04-06.20.08:026][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Specular.uasset" SILENT=true
+[2018.04.04-06.20.08:113][773]LogSavePackage: Save=83.20ms
+[2018.04.04-06.20.08:113][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Specular722B003A47385ED1843987966A129E1C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Specular.uasset'
+[2018.04.04-06.20.08:125][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Specular.uasset
+[2018.04.04-06.20.08:143][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.08:199][773]LogSavePackage: Save=52.28ms
+[2018.04.04-06.20.08:199][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Gloss4EE547924611A42AC7C4F8902EFE85E8.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Gloss.uasset'
+[2018.04.04-06.20.08:211][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Gloss.uasset
+[2018.04.04-06.20.08:228][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Normal.uasset" SILENT=true
+[2018.04.04-06.20.08:303][773]LogSavePackage: Save=71.89ms
+[2018.04.04-06.20.08:304][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Normal01FDF1404CE52C1839E105A4CB739761.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Normal.uasset'
+[2018.04.04-06.20.08:318][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Normal.uasset
+[2018.04.04-06.20.08:340][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.04-06.20.08:372][773]LogSavePackage: Save=26.91ms
+[2018.04.04-06.20.08:372][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_OpacityD0931A7E44787AD0803768889B949073.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.04-06.20.08:381][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.04-06.20.08:423][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Shoesmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Shoesmat.uasset" SILENT=true
+[2018.04.04-06.20.08:449][773]LogSavePackage: Save=21.97ms
+[2018.04.04-06.20.08:449][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Shoesmat9461E6664415D53144978B85F51FBAB3.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Shoesmat.uasset'
+[2018.04.04-06.20.08:456][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Shoesmat.uasset
+[2018.04.04-06.20.08:474][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Shoes_Diffuse" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Diffuse.uasset" SILENT=true
+[2018.04.04-06.20.08:529][773]LogSavePackage: Save=51.69ms
+[2018.04.04-06.20.08:529][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_DiffuseAB41BDC4405009E3B067D4A8FF84AED2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Diffuse.uasset'
+[2018.04.04-06.20.08:539][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Diffuse.uasset
+[2018.04.04-06.20.08:554][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Shoes_Specular" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Specular.uasset" SILENT=true
+[2018.04.04-06.20.08:664][773]LogSavePackage: Save=107.93ms
+[2018.04.04-06.20.08:664][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Specular912865E84DC432BCF1E32AB604B8E7E7.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Specular.uasset'
+[2018.04.04-06.20.08:673][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Specular.uasset
+[2018.04.04-06.20.08:688][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Shoes_Gloss" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Gloss.uasset" SILENT=true
+[2018.04.04-06.20.08:737][773]LogSavePackage: Save=46.92ms
+[2018.04.04-06.20.08:737][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_Gloss93CF587049D1958016835598ADE3E837.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Gloss.uasset'
+[2018.04.04-06.20.08:749][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Gloss.uasset
+[2018.04.04-06.20.08:766][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Shoes_Normal" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Normal.uasset" SILENT=true
+[2018.04.04-06.20.08:860][773]LogSavePackage: Save=90.21ms
+[2018.04.04-06.20.08:860][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Shoes_NormalBE141FDB44A027D62B930DB43FBA551D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Normal.uasset'
+[2018.04.04-06.20.08:871][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Shoes_Normal.uasset
+[2018.04.04-06.20.08:876][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemaleGuardFixed_Skeleton" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Skeleton.uasset" SILENT=true
+[2018.04.04-06.20.08:889][773]LogSavePackage: Save=9.03ms
+[2018.04.04-06.20.08:889][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_Skeleton58DF4D894D603074B88C90A110A2A902.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Skeleton.uasset'
+[2018.04.04-06.20.08:899][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Skeleton.uasset
+[2018.04.04-06.20.08:986][773]LogSavePackage: Save=31.29ms
+[2018.04.04-06.20.08:986][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_PhysicsAsset20A92E0140422B29C0C160B0F0FB7820.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_PhysicsAsset.uasset'
+[2018.04.04-06.20.08:994][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_PhysicsAsset.uasset
+[2018.04.04-06.20.09:046][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemaleGuardFixed_Anim" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Anim.uasset" SILENT=true
+[2018.04.04-06.20.09:074][773]LogSavePackage: Save=25.45ms
+[2018.04.04-06.20.09:074][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemaleGuardFixed_Anim1DD5E7604A3CB0C9CDA7A9BFA2D53049.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Anim.uasset'
+[2018.04.04-06.20.09:078][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemaleGuardFixed_Anim.uasset
+[2018.04.04-06.20.09:164][773]LogSavePackage: Save=23.81ms
+[2018.04.04-06.20.09:164][773]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Standing_Torch_Walk_ForwardDAAD35B542183A6976A19A839F3ACA21.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Standing_Torch_Walk_Forward.uasset'
+[2018.04.04-06.20.09:167][773]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Standing_Torch_Walk_Forward.uasset
+[2018.04.04-06.21.50:198][537]LogSavePackage: Save=494.44ms
+[2018.04.04-06.21.50:198][537]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default9ED78B494D09A27B2EFE7BBFAABB9B88.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.21.50:202][537]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.21.50:240][537]LogFileHelpers: Saving map 'Minimal_Default' took 0.664
+[2018.04.04-06.21.50:245][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/sneaking_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset" SILENT=true
+[2018.04.04-06.21.50:275][537]LogSavePackage: Save=23.60ms
+[2018.04.04-06.21.50:275][537]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/sneaking_seq0E8A75994C075B061F2F85B2C443A2B1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset'
+[2018.04.04-06.21.50:279][537]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/sneaking_seq.uasset
+[2018.04.04-06.23.03:435][410]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Looking Around.fbx)
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.04-06.23.03:448][410]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.04-06.23.03:457][410]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Looking Around.fbx
+[2018.04.04-06.23.03:522][410]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.23.11:153][410]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Looking Around.fbx
+[2018.04.04-06.23.11:230][410]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(0) Hips
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(1) Spine
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(2) Spine1
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(3) Spine2
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(4) Neck
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(5) Head
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(6) RightEye
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.04-06.23.11:235][410]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(34) RightArm
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(36) RightHand
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.04-06.23.11:236][410]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.04-06.23.11:237][410]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.04-06.23.11:247][410]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Looking_Around'
+[2018.04.04-06.23.11:248][410]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Looking_Around'
+[2018.04.04-06.23.12:644][410]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Looking_Around.Looking_Around
+[2018.04.04-06.23.12:646][410]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Looking_Around) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.04-06.25.22:325][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.04-06.25.44:685][300]LogSavePackage: Save=504.91ms
+[2018.04.04-06.25.44:685][300]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default3AA1F85C457030F97338F784DE8830BB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.25.44:689][300]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.25.44:727][300]LogFileHelpers: Saving map 'Minimal_Default' took 0.698
+[2018.04.04-06.25.44:732][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/falling_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset" SILENT=true
+[2018.04.04-06.25.44:800][300]LogSavePackage: Save=57.84ms
+[2018.04.04-06.25.44:800][300]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/falling_seq201C0828473601D2AD9044B620954F8B.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset'
+[2018.04.04-06.25.44:804][300]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset
+[2018.04.04-06.25.44:860][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard_Animaitons/Looking_Around" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Looking_Around.uasset" SILENT=true
+[2018.04.04-06.25.44:888][300]LogSavePackage: Save=24.20ms
+[2018.04.04-06.25.44:888][300]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Looking_Around41E5C7454AE7C4118BDD0DB7F5C2C2BC.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Looking_Around.uasset'
+[2018.04.04-06.25.44:892][300]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Looking_Around.uasset
+[2018.04.04-06.26.00:921][143]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.26.40:342][ 65]LogSavePackage: Save=491.87ms
+[2018.04.04-06.26.40:342][ 65]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default97E2A295412EF71F03B7BCBE7404B6B5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.26.40:344][ 65]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.26.40:379][ 65]LogFileHelpers: Saving map 'Minimal_Default' took 0.696
+[2018.04.04-06.26.40:381][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/falling_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset" SILENT=true
+[2018.04.04-06.26.40:411][ 65]LogSavePackage: Save=22.57ms
+[2018.04.04-06.26.40:411][ 65]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/falling_seq2D8723104707ACD5BCE05D9315648E5A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset'
+[2018.04.04-06.26.40:413][ 65]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/falling_seq.uasset
+[2018.04.04-06.30.42:023][513]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Defender.fbx)
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.04-06.30.42:037][513]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.04-06.30.42:047][513]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Defender.fbx
+[2018.04.04-06.30.42:097][513]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.30.53:154][513]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Guard_Animaitons\Defender.fbx
+[2018.04.04-06.30.53:224][513]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(0) Hips
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(1) Spine
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(2) Spine1
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(3) Spine2
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(4) Neck
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(5) Head
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(6) RightEye
+[2018.04.04-06.30.53:228][513]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(34) RightArm
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(36) RightHand
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.04-06.30.53:229][513]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.04-06.30.53:230][513]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.04-06.30.53:231][513]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.04-06.30.53:237][513]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Defender'
+[2018.04.04-06.30.53:237][513]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Defender'
+[2018.04.04-06.31.04:725][513]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Defender.Defender
+[2018.04.04-06.31.04:737][513]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Defender) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.04-06.32.03:982][ 70]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-06.33.59:155][115]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-06.34.13:152][775]LogSavePackage: Save=551.77ms
+[2018.04.04-06.34.13:152][775]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default69377BA8407E67CB8641BF84AF9C37F1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.34.13:162][775]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.34.13:204][775]LogFileHelpers: Saving map 'Minimal_Default' took 0.735
+[2018.04.04-06.34.13:266][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard_Animaitons/Defender" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Defender.uasset" SILENT=true
+[2018.04.04-06.34.13:408][775]LogSavePackage: Save=139.58ms
+[2018.04.04-06.34.13:409][775]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/DefenderCB1CF7F444281168BCDF24A684FE8B3F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Defender.uasset'
+[2018.04.04-06.34.13:412][775]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Defender.uasset
+[2018.04.04-06.34.13:418][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Tackle_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset" SILENT=true
+[2018.04.04-06.34.13:439][775]LogSavePackage: Save=17.17ms
+[2018.04.04-06.34.13:439][775]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq5F684BB743F8830AC1262E87AE7A4B6F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
+[2018.04.04-06.34.13:442][775]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
+[2018.04.04-06.35.14:895][657]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.36.03:892][416]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-06.36.16:116][118]Cmd: TRANSACTION UNDO
+[2018.04.04-06.36.16:116][118]LogEditorTransaction: Undo Move Actors
+[2018.04.04-06.36.56:829][516]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.40.08:565][816]Cmd: TRANSACTION UNDO
+[2018.04.04-06.40.08:565][816]LogEditorTransaction: Undo Move Actors
+[2018.04.04-06.41.30:111][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.04-06.44.14:274][689]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.44.34:559][603]LogSavePackage: Save=548.57ms
+[2018.04.04-06.44.34:559][603]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default529B288E4F427D1A23ABA283C93E0881.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.44.34:563][603]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.44.34:597][603]LogFileHelpers: Saving map 'Minimal_Default' took 0.730
+[2018.04.04-06.44.34:600][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Tackle_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset" SILENT=true
+[2018.04.04-06.44.34:637][603]LogSavePackage: Save=22.30ms
+[2018.04.04-06.44.34:637][603]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq8DDE3AB8477456BA6FA0209B2FB75584.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
+[2018.04.04-06.44.34:640][603]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
+[2018.04.04-06.44.50:862][389]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-06.46.43:267][726]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.04-06.46.46:003][826]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-06.47.29:408][938]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.04-06.48.00:018][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.04.04-06.48.30:206][859]LogSavePackage: Save=506.83ms
+[2018.04.04-06.48.30:206][859]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultA8BD324D4CEA9C8AEBFFBAB2E87B826E.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-06.48.30:211][859]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-06.48.30:258][859]LogFileHelpers: Saving map 'Minimal_Default' took 0.678
+[2018.04.04-06.48.30:263][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Tackle_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset" SILENT=true
+[2018.04.04-06.48.30:294][859]LogSavePackage: Save=22.94ms
+[2018.04.04-06.48.30:294][859]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq68C33FE44C5AA7738A54448488106D37.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
+[2018.04.04-06.48.30:298][859]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
