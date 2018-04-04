@@ -6019,3 +6019,128 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.04.04-06.48.30:294][859]LogSavePackage: Save=22.94ms
 [2018.04.04-06.48.30:294][859]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq68C33FE44C5AA7738A54448488106D37.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
 [2018.04.04-06.48.30:298][859]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
+[2018.04.04-12.16.56:322][686]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: libcurl info message cache 0 (Connection 103 seems to be dead!)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: libcurl info message cache 1 (Closing connection 103)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.04-12.16.56:663][688]LogHttp: Warning: 0000024036AB1180: libcurl info message cache 4 (Closing connection 104)
+[2018.04.04-17.53.32:327][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.04.04-20.04.23:113][478]LogSavePackage: Save=397.52ms
+[2018.04.04-20.04.23:114][478]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default_Auto4FF00DDD842BFA59A8611EAA18BF072A1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2018.04.04-20.04.23:115][478]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap
+[2018.04.04-20.04.23:121][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.671
+[2018.04.04-20.04.23:121][478]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.671
+[2018.04.04-20.04.23:123][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequences/Alarm_seq] ([1] browsable assets)...
+[2018.04.04-20.04.23:123][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequences/Alarm_seq]
+[2018.04.04-20.04.23:123][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Alarm_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Alarm_seq_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.04.04-20.04.23:131][478]LogSavePackage: Save=5.76ms
+[2018.04.04-20.04.23:131][478]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Alarm_seq_Auto4A58E3D0C401A558C219A97A6B6697E2E.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Alarm_seq_Auto4.uasset'
+[2018.04.04-20.04.23:131][478]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Alarm_seq_Auto4.uasset
+[2018.04.04-20.04.23:131][478]LogFileHelpers: Auto-saving content packages took 0.009
+[2018.04.04-20.10.43:155][571]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Desktop\The Art Thief\Thief_Animaitons\Nervously Look Around.fbx)
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.04-20.10.43:177][571]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.04-20.10.43:187][571]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Thief_Animaitons\Nervously Look Around.fbx
+[2018.04.04-20.10.43:273][571]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-20.10.51:839][571]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Desktop\The Art Thief\Thief_Animaitons\Nervously Look Around.fbx
+[2018.04.04-20.10.51:914][571]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(0) Hips
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(1) Spine
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(2) Spine1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(3) Spine2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(4) Neck
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(5) Head
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(7) RightEye
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(34) RightArm
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(36) RightHand
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.04-20.10.51:918][571]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.04-20.10.51:919][571]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(57) RightUpLeg
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(58) RightLeg
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(59) RightFoot
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(60) RightToeBase
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(61) RightToe_End
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(62) LeftUpLeg
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(63) LeftLeg
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(64) LeftFoot
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(65) LeftToeBase
+[2018.04.04-20.10.51:956][571]LogFbx: SortedLinks :(66) LeftToe_End
+[2018.04.04-20.10.51:957][571]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.04-20.10.51:967][571]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Nervously_Look_Around'
+[2018.04.04-20.10.51:967][571]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Nervously_Look_Around'
+[2018.04.04-20.10.53:448][571]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Nervously_Look_Around.Nervously_Look_Around
+[2018.04.04-20.10.53:464][571]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Nervously_Look_Around) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.04-20.11.50:518][651]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed2)
+[2018.04.04-20.14.36:415][705]LogSavePackage: Save=529.58ms
+[2018.04.04-20.14.36:415][705]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultFDC495334B5931EC0CAAD4854ADFD2F7.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-20.14.36:424][705]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-20.14.36:460][705]LogFileHelpers: Saving map 'Minimal_Default' took 13.087
+[2018.04.04-20.14.36:463][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Alarm_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset" SILENT=true
+[2018.04.04-20.14.36:480][705]LogSavePackage: Save=16.11ms
+[2018.04.04-20.14.36:480][705]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Alarm_seqAEFDFABD4BF97363D0E0468C20A35ACD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset'
+[2018.04.04-20.14.36:488][705]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset
+[2018.04.04-20.14.36:588][705]LogSavePackage: Save=24.43ms
+[2018.04.04-20.14.36:588][705]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Nervously_Look_Around1FE4DCFF40987C358FB61EA1A8BDBE2F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Nervously_Look_Around.uasset'
+[2018.04.04-20.14.36:590][705]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Nervously_Look_Around.uasset
+[2018.04.04-20.17.58:065][211]LogSavePackage: Save=489.70ms
+[2018.04.04-20.17.58:065][211]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default6B80B8B24B633ECFF961F4BCB83C23DA.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.04-20.17.58:069][211]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.04-20.17.58:109][211]LogFileHelpers: Saving map 'Minimal_Default' took 0.659
+[2018.04.04-20.17.58:112][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Alarm_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset" SILENT=true
+[2018.04.04-20.17.58:174][211]LogSavePackage: Save=17.41ms
+[2018.04.04-20.17.58:174][211]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Alarm_seq7F38547B413FCF0CF356B4B52252B47A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset'
+[2018.04.04-20.17.58:178][211]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset
+[2018.04.04-20.18.01:316][372]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
