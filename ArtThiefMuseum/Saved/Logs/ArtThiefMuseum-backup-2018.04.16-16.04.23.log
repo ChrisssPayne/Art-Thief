@@ -1,0 +1,1603 @@
+﻿Log file open, 04/15/18 23:33:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArtThiefMuseum
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1219682440) SRandInit(1219682440).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180748
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.16-05.33.26:295][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-05.33.26:295][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.16-05.33.26:310][  0]LogInit: Computer: DESKTOP-1E3V943
+[2018.04.16-05.33.26:310][  0]LogInit: User: JaredRothwell
+[2018.04.16-05.33.26:310][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.16-05.33.26:310][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.04.16-05.33.26:310][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.16-05.33.26:310][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.16-05.33.26:310][  0]LogMemory: Process Physical Memory: 272.42 MB used, 272.42 MB peak
+[2018.04.16-05.33.26:310][  0]LogMemory: Process Virtual Memory: 265.02 MB used, 265.02 MB peak
+[2018.04.16-05.33.26:310][  0]LogMemory: Physical Memory: 7431.45 MB used,  8820.58 MB free, 16252.04 MB total
+[2018.04.16-05.33.26:310][  0]LogMemory: Virtual Memory: 677.57 MB used,  8820.58 MB free, 134217728.00 MB total
+[2018.04.16-05.33.26:817][  0]LogInit: Using OS detected language (en-US).
+[2018.04.16-05.33.26:817][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.16-05.33.26:820][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.16-05.33.27:331][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.16-05.33.27:627][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.16-05.33.27:677][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.04.16-05.33.27:677][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.16-05.33.27:684][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.16-05.33.27:684][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.16-05.33.27:687][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.16-05.33.27:687][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.16-05.33.27:687][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.16-05.33.27:698][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.16-05.33.27:698][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.04.16-05.33.27:698][  0]LogWindows: EnumDisplayDevices:
+[2018.04.16-05.33.27:698][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.04.16-05.33.27:698][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.16-05.33.27:699][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.16-05.33.27:699][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.16-05.33.27:699][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.04.16-05.33.27:699][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.16-05.33.27:699][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.16-05.33.27:699][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.04.16-05.33.27:727][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.16-05.33.27:741][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.16-05.33.27:742][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/20476/).
+[2018.04.16-05.33.27:742][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/451B16904D08277D028F1AB03E40D556/'.
+[2018.04.16-05.33.27:742][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.16-05.33.28:841][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.16-05.33.28:902][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.16-05.33.28:964][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.16-05.33.29:020][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.16-05.33.29:071][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.16-05.33.29:126][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.16-05.33.29:181][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.16-05.33.29:241][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.16-05.33.29:286][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.16-05.33.29:339][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.16-05.33.29:399][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.16-05.33.29:450][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.16-05.33.29:504][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.16-05.33.29:554][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.16-05.33.29:662][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.16-05.33.29:662][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.16-05.33.29:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.16-05.33.29:761][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.16-05.33.29:851][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.16-05.33.29:883][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.16-05.33.29:935][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.16-05.33.29:987][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.16-05.33.30:036][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.16-05.33.30:089][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.16-05.33.30:089][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.16-05.33.30:502][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.16-05.33.30:587][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.16-05.33.30:587][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.16-05.33.30:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.16-05.33.30:587][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.16-05.33.30:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.16-05.33.30:588][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.16-05.33.30:608][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.16-05.33.30:620][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.16-05.33.30:638][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.16-05.33.30:639][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.16-05.33.30:640][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-05.33.30:640][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-05.33.31:119][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-05.33.31:473][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.16-05.33.31:509][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.16-05.33.31:509][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.16-05.33.31:509][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.16-05.33.31:509][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.16-05.33.31:509][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.16-05.33.31:542][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
+[2018.04.16-05.33.31:717][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.04.16-05.33.32:291][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.063404 seconds
+[2018.04.16-05.33.32:298][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.04.16-05.33.32:298][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.04.16-05.33.32:298][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.16-05.33.32:338][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.16-05.33.35:354][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.16-05.33.35:397][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.16-05.33.36:088][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.16-05.33.36:559][  0]SourceControl: Source control is disabled
+[2018.04.16-05.33.37:832][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.16-05.33.38:099][  0]LogOcInput: OculusInput pre-init called
+[2018.04.16-05.33.38:401][  0]LogEngine: Initializing Engine...
+[2018.04.16-05.33.38:404][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.16-05.33.38:666][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-05.33.38:667][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-05.33.38:795][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-05.33.38:817][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.16-05.33.38:867][  0]LogInit: FAudioDevice initialized.
+[2018.04.16-05.33.39:063][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.16-05.33.39:077][  0]LogInit: Texture streaming: Enabled
+[2018.04.16-05.33.39:174][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.16-05.33.39:309][  0]LogInit: Transaction tracking system initialized
+[2018.04.16-05.33.39:625][  0]BlueprintLog: New page: Editor Load
+[2018.04.16-05.33.40:506][  0]LocalizationService: Localization service is disabled
+[2018.04.16-05.33.41:282][  0]LogConsoleResponse: Display: 
+[2018.04.16-05.33.41:480][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.16-05.33.41:481][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.16-05.33.41:481][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.16-05.33.41:487][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.02s
+[2018.04.16-05.33.42:680][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-05.33.42:681][  0]LightingResults: New page: Lighting Build
+[2018.04.16-05.33.42:725][  0]MapCheck: New page: Map Check
+[2018.04.16-05.33.42:725][  0]LightingResults: New page: Lighting Build
+[2018.04.16-05.33.42:892][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.16-05.33.42:892][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.16-05.33.42:892][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.16-05.33.42:892][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.16-05.33.42:892][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.16-05.33.42:892][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.16-05.33.42:893][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.16-05.33.42:893][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.16-05.33.42:893][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.16-05.33.42:893][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.16-05.33.42:893][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.16-05.33.42:893][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.16-05.33.43:202][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.16-05.33.43:202][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.16-05.33.43:202][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading NULL.
+[2018.04.16-05.33.43:202][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.16-05.33.43:202][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.16-05.33.43:202][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.16-05.33.43:202][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading NULL.
+[2018.04.16-05.33.43:202][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.16-05.33.43:542][  0]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.04.16-05.33.43:543][  0]LogMaterial: Warning: D:\projects\Art-Thief\ArtThiefMuseum\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.16-05.33.43:543][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.16-05.33.43:769][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.16-05.33.43:785][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-05.33.43:802][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-05.33.43:861][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.468ms to complete.
+[2018.04.16-05.33.43:861][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.180
+[2018.04.16-05.33.44:056][  0]LogCollectionManager: Loaded 0 collections in 0.001445 seconds
+[2018.04.16-05.33.44:151][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
+[2018.04.16-05.33.44:151][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
+[2018.04.16-05.33.44:151][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
+[2018.04.16-05.33.44:151][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.16-05.33.44:166][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2363 classes and 519 folders.
+[2018.04.16-05.33.44:242][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.16-05.33.44:291][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.16-05.33.44:335][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.16-05.33.44:445][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-05.33.44:450][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.16-05.33.44:456][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.16-05.33.44:615][  0]LogRenderer: Reallocating scene render targets to support 1304x632 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-05.33.44:890][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.16-05.33.44:890][  0]LogLoad: (Engine Initialization) Total time: 20.72 seconds
+[2018.04.16-05.33.44:890][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.16-05.33.44:890][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.16-05.33.44:890][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.16-05.33.45:266][  0]SourceControl: On branch master
+[2018.04.16-05.33.45:266][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.04.16-05.33.45:266][  0]SourceControl: Changes not staged for commit:
+[2018.04.16-05.33.45:266][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.04.16-05.33.45:266][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.16-05.33.45:266][  0]SourceControl: 	modified:   ArtThiefMuseum/Intermediate/CachedAssetRegistry.bin
+[2018.04.16-05.33.45:266][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/Engine.ini
+[2018.04.16-05.33.45:266][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Logs/ArtThiefMuseum.log
+[2018.04.16-05.33.45:266][  0]SourceControl: Untracked files:
+[2018.04.16-05.33.45:266][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.16-05.33.45:266][  0]SourceControl: 	ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-05.33.45:266][  0]SourceControl: 	ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-D9EC866F46C472DC975005ABFF5E9D50/
+[2018.04.16-05.33.45:266][  0]SourceControl: 	ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.15-23.33.24.log
+[2018.04.16-05.33.45:266][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.16-05.33.45:266][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.16-05.33.45:565][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.32s
+[2018.04.16-05.33.45:919][  2]LogAssetRegistry: Asset discovery search completed in 14.2237 seconds
+[2018.04.16-05.33.45:925][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.16-05.33.45:925][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.04.16-05.33.49:395][122]LogSlate: Took 0.003073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-05.34.17:202][767]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-05.34.20:383][767]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-05.34.22:460][767]LogAIModule: Creating AISystem for world Exterior
+[2018.04.16-05.34.22:560][767]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-05.34.22:560][767]LightingResults: New page: Lighting Build
+[2018.04.16-05.34.22:561][767]LoadErrors: New page: Loading map: Exterior.umap
+[2018.04.16-05.34.22:563][767]MapCheck: New page: Map Check
+[2018.04.16-05.34.22:563][767]LightingResults: New page: Lighting Build
+[2018.04.16-05.34.23:902][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-05.34.23:958][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-05.34.24:054][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.928ms to complete.
+[2018.04.16-05.34.24:054][767]LogFileHelpers: Loading map 'Exterior' took 1.495
+[2018.04.16-05.35.10:247][589]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Police_newFixed)
+[2018.04.16-05.36.07:551][966]LogLinker: Warning: Can't find file '/Game/Sequences/Exit_seq'
+[2018.04.16-05.36.07:551][966]LogLinker: Warning: Can't find file '/Game/Sequences/Exit_seq'
+[2018.04.16-05.36.07:551][966]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Sequences/Exit_seq.Exit_seq'
+[2018.04.16-05.37.27:080][ 84]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Police_newFixed)
+[2018.04.16-05.37.45:787][959]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-05.38.27:718][440]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.40:015][163]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:306][942]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:322][943]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:339][944]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:356][945]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:374][946]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:392][947]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:426][949]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:443][950]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:460][951]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:493][953]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:511][954]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:527][955]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:561][957]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:577][958]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:594][959]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:611][960]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:627][961]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:644][962]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:699][965]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:715][966]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:733][967]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:751][968]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:770][969]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:787][970]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:821][972]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:857][974]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:873][975]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:892][976]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:905][977]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:926][978]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:942][979]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.53:983][981]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:001][982]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:017][983]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:052][985]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:070][986]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:087][987]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:104][988]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:122][989]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:156][991]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:189][993]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:206][994]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:223][995]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:240][996]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:257][997]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:274][998]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:292][999]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:307][  0]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:341][  2]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:357][  3]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:375][  4]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:391][  5]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:408][  6]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:425][  7]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:442][  8]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:463][  9]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:479][ 10]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:514][ 12]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:530][ 13]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:547][ 14]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:565][ 15]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:580][ 16]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:597][ 17]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:615][ 18]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:632][ 19]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:649][ 20]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:684][ 22]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:701][ 23]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:715][ 24]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:732][ 25]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:749][ 26]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:765][ 27]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:781][ 28]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:798][ 29]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:815][ 30]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:849][ 32]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:865][ 33]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:883][ 34]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:899][ 35]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:916][ 36]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:933][ 37]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:966][ 39]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.54:984][ 40]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:001][ 41]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:040][ 43]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:057][ 44]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:073][ 45]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:108][ 47]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:126][ 48]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:141][ 49]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:158][ 50]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:174][ 51]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:208][ 52]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:243][ 54]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:261][ 55]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:278][ 56]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:311][ 58]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:328][ 59]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:363][ 61]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:401][ 63]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:423][ 64]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:457][ 66]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:495][ 68]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:509][ 69]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:545][ 71]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:581][ 73]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:602][ 74]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:623][ 75]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:666][ 77]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:680][ 78]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:700][ 79]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:734][ 81]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:754][ 82]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:769][ 83]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:806][ 85]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:822][ 86]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:839][ 87]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:856][ 88]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:873][ 89]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:892][ 90]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:908][ 91]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:926][ 92]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:945][ 93]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:977][ 95]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.55:994][ 96]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:012][ 97]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:028][ 98]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:046][ 99]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:066][100]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:086][101]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:099][102]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:116][103]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:150][105]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:167][106]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:183][107]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:216][109]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:233][110]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:249][111]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:266][112]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:284][113]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:299][114]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:318][115]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:333][116]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:350][117]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:383][119]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:399][120]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:416][121]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:433][122]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:492][123]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:536][124]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:552][125]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:569][126]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:586][127]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:602][128]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:619][129]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:650][130]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:664][131]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:681][132]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:698][133]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:714][134]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:733][135]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:780][137]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:829][140]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:848][141]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:889][143]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:923][145]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:939][146]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.56:974][148]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:007][150]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:025][151]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:077][154]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:096][155]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:115][156]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:148][158]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:185][160]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:202][161]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:219][162]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:252][164]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:269][165]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:286][166]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:303][167]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:318][168]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:351][170]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:385][172]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:401][173]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:418][174]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:558][182]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:575][183]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:592][184]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:625][186]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:642][187]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:659][188]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:675][189]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:692][190]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:725][192]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:742][193]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:759][194]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:775][195]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:810][197]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:828][198]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:845][199]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:878][201]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:895][202]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:913][203]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:945][205]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:963][206]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.57:980][207]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:018][209]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:037][210]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:051][211]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:084][213]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:104][214]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:121][215]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:153][217]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:172][218]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:189][219]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:209][220]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:226][221]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:260][223]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:276][224]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:294][225]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:328][227]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:344][228]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:361][229]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:379][230]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:412][232]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:430][233]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:446][234]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:479][236]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:498][237]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:514][238]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:548][240]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:565][241]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:581][242]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:615][244]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:631][245]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:648][246]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:683][248]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:700][249]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:717][250]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:754][252]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:771][253]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:789][254]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:805][255]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:822][256]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:855][258]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:872][259]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:888][260]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:926][262]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:943][263]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:960][264]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.58:994][266]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:011][267]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:030][268]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:046][269]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:063][270]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:080][271]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:114][273]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:135][274]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:151][275]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:192][277]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:228][278]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:245][279]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:261][280]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:278][281]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:295][282]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:312][283]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:330][284]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:346][285]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:408][288]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:426][289]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:442][290]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:464][291]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:477][292]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:511][294]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:527][295]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:545][296]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:578][298]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:621][300]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:637][301]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:654][302]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:688][304]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:707][305]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:721][306]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:754][308]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.38.59:771][309]SourceControl: fatal: D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset: 'D:/UE_4.18/Engine/Content/Sequencer/Editor/Transient.uasset' is outside repository
+[2018.04.16-05.39.47:457][610]LogSavePackage: Save=8466.31ms
+[2018.04.16-05.39.47:458][610]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior93EB289841385447AA034FA5FA094E66.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-05.39.47:481][610]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-05.39.47:514][610]LogFileHelpers: Saving map 'Exterior' took 8.790
+[2018.04.16-05.39.47:520][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Intro_Seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Intro_Seq.uasset" SILENT=true
+[2018.04.16-05.39.47:544][610]LogSavePackage: Save=15.02ms
+[2018.04.16-05.39.47:544][610]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Intro_SeqE1A6BC084CF40E0AC84EB4B2BB30CDDF.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Intro_Seq.uasset'
+[2018.04.16-05.39.47:546][610]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Intro_Seq.uasset
+[2018.04.16-05.39.47:549][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ext_Guardinbush_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset" SILENT=true
+[2018.04.16-05.39.47:564][610]LogSavePackage: Save=11.96ms
+[2018.04.16-05.39.47:564][610]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Ext_Guardinbush_seq31F18CF64EF2529D41A4A59EC3FEA8D5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset'
+[2018.04.16-05.39.47:565][610]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset
+[2018.04.16-05.43.13:513][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BrickWall25)
+[2018.04.16-05.43.22:691][361]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed)
+[2018.04.16-05.44.50:712][524]LogSavePackage: Save=8555.76ms
+[2018.04.16-05.44.50:712][524]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior130314284B23F99FC41448BEBAB10A37.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-05.44.50:735][524]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-05.44.50:765][524]LogFileHelpers: Saving map 'Exterior' took 9.042
+[2018.04.16-05.44.50:769][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ext_Guardinbush_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset" SILENT=true
+[2018.04.16-05.44.50:791][524]LogSavePackage: Save=15.21ms
+[2018.04.16-05.44.50:791][524]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Ext_Guardinbush_seqEE41BEE84D65D9CA93684990CA3DD61C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset'
+[2018.04.16-05.44.50:793][524]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Ext_Guardinbush_seq.uasset
+[2018.04.16-05.45.33:128][170]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Police_newFixed)
+[2018.04.16-05.46.10:879][875]LogSavePackage: Save=8322.91ms
+[2018.04.16-05.46.10:879][875]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior8105B53C4AF252DD036A64B9696A16BB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-05.46.10:906][875]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-05.46.10:943][875]LogFileHelpers: Saving map 'Exterior' took 8.484
+[2018.04.16-05.46.10:948][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/ExitBuilding_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset" SILENT=true
+[2018.04.16-05.46.10:960][875]LogSavePackage: Save=10.39ms
+[2018.04.16-05.46.10:960][875]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq8F3FFEB74AEDF55BEA4B178E9A5C5AB2.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.16-05.46.10:962][875]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.16-05.47.10:638][916]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed)
+[2018.04.16-05.54.36:864][499]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Jump.fbx)
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-05.54.36:876][499]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-05.54.36:882][499]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Jump.fbx
+[2018.04.16-05.54.36:911][499]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-05.54.42:375][499]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Jump.fbx
+[2018.04.16-05.54.42:405][499]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(5) Head
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(7) RightEye
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-05.54.42:407][499]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(57) RightUpLeg
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(58) RightLeg
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(59) RightFoot
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(60) RightToeBase
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(61) RightToe_End
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(62) LeftUpLeg
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(63) LeftLeg
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(64) LeftFoot
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(65) LeftToeBase
+[2018.04.16-05.54.42:408][499]LogFbx: SortedLinks :(66) LeftToe_End
+[2018.04.16-05.54.42:409][499]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-05.54.42:411][499]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Jump'
+[2018.04.16-05.54.42:411][499]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Jump'
+[2018.04.16-05.54.42:644][499]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Jump.Jump
+[2018.04.16-05.54.42:645][499]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jump) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-05.57.33:080][689]LogSavePackage: Save=12425.98ms
+[2018.04.16-05.57.33:081][689]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior_Auto1DB360D6B428107DC1239D28905380F6A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Exterior_Auto1.umap'
+[2018.04.16-05.57.33:197][689]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Exterior_Auto1.umap
+[2018.04.16-05.57.33:200][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Exterior' took 12.918
+[2018.04.16-05.57.33:200][689]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.918
+[2018.04.16-05.57.33:205][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequences/ExitBuilding_seq] ([1] browsable assets)...
+[2018.04.16-05.57.33:205][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequences/ExitBuilding_seq]
+[2018.04.16-05.57.33:280][689]LogSavePackage: Save=13.80ms
+[2018.04.16-05.57.33:280][689]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq_Auto152DEA4A0496E70116F400E909D3D827B.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/ExitBuilding_seq_Auto1.uasset'
+[2018.04.16-05.57.33:281][689]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/ExitBuilding_seq_Auto1.uasset
+[2018.04.16-05.57.33:282][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/ThiefFixed_animations/Jump] ([1] browsable assets)...
+[2018.04.16-05.57.33:329][689]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/ThiefFixed_animations/Jump.Jump]
+[2018.04.16-05.57.33:329][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/ThiefFixed_animations/Jump]
+[2018.04.16-05.57.33:357][689]LogSavePackage: Save=25.47ms
+[2018.04.16-05.57.33:357][689]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Jump_Auto16F19D1444502E1375246D0A6747BF14B.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/ThiefFixed_animations/Jump_Auto1.uasset'
+[2018.04.16-05.57.33:358][689]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Animations/ThiefFixed_animations/Jump_Auto1.uasset
+[2018.04.16-05.57.33:358][689]LogFileHelpers: Auto-saving content packages took 0.154
+[2018.04.16-05.58.57:793][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Sprinting Forward Roll.fbx)
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-05.58.57:800][171]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-05.58.57:805][171]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Sprinting Forward Roll.fbx
+[2018.04.16-05.58.57:834][171]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-05.59.04:813][171]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Sprinting Forward Roll.fbx
+[2018.04.16-05.59.04:847][171]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(5) Head
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(7) RightEye
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-05.59.04:850][171]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(57) RightUpLeg
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(58) RightLeg
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(59) RightFoot
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(60) RightToeBase
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(61) RightToe_End
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(62) LeftUpLeg
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(63) LeftLeg
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(64) LeftFoot
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(65) LeftToeBase
+[2018.04.16-05.59.04:851][171]LogFbx: SortedLinks :(66) LeftToe_End
+[2018.04.16-05.59.04:852][171]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-05.59.04:854][171]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Sprinting_Forward_Roll'
+[2018.04.16-05.59.04:855][171]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Sprinting_Forward_Roll'
+[2018.04.16-05.59.05:122][171]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Sprinting_Forward_Roll.Sprinting_Forward_Roll
+[2018.04.16-05.59.05:123][171]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sprinting_Forward_Roll) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-06.02.59:636][896]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2018.04.16-06.06.03:825][ 24]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Police_newFixed)
+[2018.04.16-06.06.04:848][ 46]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Police_newFixed)
+[2018.04.16-06.07.15:512][511]LogSavePackage: Save=9859.61ms
+[2018.04.16-06.07.15:512][511]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior64A5A4344C59E89592B984A224DBBE75.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-06.07.15:542][511]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-06.07.15:575][511]LogFileHelpers: Saving map 'Exterior' took 10.474
+[2018.04.16-06.07.15:580][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/ExitBuilding_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset" SILENT=true
+[2018.04.16-06.07.15:608][511]LogSavePackage: Save=18.50ms
+[2018.04.16-06.07.15:608][511]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq29BD062B46FC6441F6BCF9BA146E3125.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.16-06.07.15:612][511]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.16-06.07.15:668][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThiefFixed_animations/Jump" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Jump.uasset" SILENT=true
+[2018.04.16-06.07.15:691][511]LogSavePackage: Save=20.11ms
+[2018.04.16-06.07.15:691][511]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/JumpAFCA0A6B4B7FD4EA545EE197F9FBE301.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Jump.uasset'
+[2018.04.16-06.07.15:692][511]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Jump.uasset
+[2018.04.16-06.07.16:005][511]LogSavePackage: Save=18.58ms
+[2018.04.16-06.07.16:006][511]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Sprinting_Forward_Roll15F07A82489E1930F5AFD490BF2DEABB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Sprinting_Forward_Roll.uasset'
+[2018.04.16-06.07.16:007][511]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Sprinting_Forward_Roll.uasset
+[2018.04.16-06.09.07:907][311]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Reacting.fbx)
+[2018.04.16-06.09.07:916][311]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-06.09.07:916][311]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-06.09.07:916][311]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-06.09.07:917][311]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-06.09.07:917][311]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-06.09.07:917][311]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-06.09.07:917][311]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-06.09.07:922][311]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Reacting.fbx
+[2018.04.16-06.09.07:955][311]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.09.13:719][311]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Reacting.fbx
+[2018.04.16-06.09.13:750][311]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(5) Head
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(7) RightEye
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-06.09.13:753][311]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(57) RightUpLeg
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(58) RightLeg
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(59) RightFoot
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(60) RightToeBase
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(61) RightToe_End
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(62) LeftUpLeg
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(63) LeftLeg
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(64) LeftFoot
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(65) LeftToeBase
+[2018.04.16-06.09.13:754][311]LogFbx: SortedLinks :(66) LeftToe_End
+[2018.04.16-06.09.13:755][311]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-06.09.13:758][311]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Reacting'
+[2018.04.16-06.09.13:758][311]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Reacting'
+[2018.04.16-06.09.14:364][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Reacting.Reacting
+[2018.04.16-06.09.14:365][311]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reacting) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-06.10.34:325][628]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed)
+[2018.04.16-06.12.36:056][566]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Reacting (1).fbx)
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-06.12.36:064][566]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-06.12.36:065][566]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-06.12.36:071][566]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Reacting (1).fbx
+[2018.04.16-06.12.36:104][566]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.12.40:777][566]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Reacting (1).fbx
+[2018.04.16-06.12.40:812][566]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(5) Head
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(7) RightEye
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.16-06.12.40:815][566]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(57) RightUpLeg
+[2018.04.16-06.12.40:816][566]LogFbx: SortedLinks :(58) RightLeg
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(59) RightFoot
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(60) RightToeBase
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(61) RightToe_End
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(62) LeftUpLeg
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(63) LeftLeg
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(64) LeftFoot
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(65) LeftToeBase
+[2018.04.16-06.12.40:817][566]LogFbx: SortedLinks :(66) LeftToe_End
+[2018.04.16-06.12.40:817][566]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-06.12.40:821][566]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Reacting__1_'
+[2018.04.16-06.12.40:821][566]LogLinker: Can't find file '/Game/Animations/ThiefFixed_animations/Reacting__1_'
+[2018.04.16-06.12.41:446][566]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Reacting__1_.Reacting__1_
+[2018.04.16-06.12.41:447][566]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Reacting__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-06.14.15:772][295]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2018.04.16-06.14.20:603][474]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2018.04.16-06.14.56:018][317]LogSavePackage: Save=11903.20ms
+[2018.04.16-06.14.56:018][317]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior81610D1A4862F1389D987E83BFD20CD3.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-06.14.56:049][317]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-06.14.56:089][317]LogFileHelpers: Saving map 'Exterior' took 12.529
+[2018.04.16-06.14.56:094][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/ExitBuilding_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset" SILENT=true
+[2018.04.16-06.14.56:126][317]LogSavePackage: Save=22.97ms
+[2018.04.16-06.14.56:126][317]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq7FDB829348EA849E6C0149AF27E0F51B.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.16-06.14.56:127][317]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.16-06.14.56:175][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ThiefFixed_animations/Reacting" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Reacting.uasset" SILENT=true
+[2018.04.16-06.14.56:196][317]LogSavePackage: Save=18.55ms
+[2018.04.16-06.14.56:196][317]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ReactingDA68D6234D8DE56316D63EB026709D7F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Reacting.uasset'
+[2018.04.16-06.14.56:198][317]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Reacting.uasset
+[2018.04.16-06.14.56:931][317]LogSavePackage: Save=17.55ms
+[2018.04.16-06.14.56:931][317]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Reacting__1_856AE4B245966F4328F9A6A2D7B310BC.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Reacting__1_.uasset'
+[2018.04.16-06.14.56:932][317]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Reacting__1_.uasset
+[2018.04.16-06.20.18:614][824]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Jumping Down.fbx)
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-06.20.18:623][824]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-06.20.18:624][824]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-06.20.18:630][824]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Jumping Down.fbx
+[2018.04.16-06.20.18:662][824]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.20.24:728][824]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Jumping Down.fbx
+[2018.04.16-06.20.24:762][824]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(5) Head
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(6) RightEye
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-06.20.24:765][824]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.16-06.20.24:766][824]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.16-06.20.24:767][824]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-06.20.24:770][824]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Jumping_Down'
+[2018.04.16-06.20.24:770][824]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Jumping_Down'
+[2018.04.16-06.20.25:367][824]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Jumping_Down.Jumping_Down
+[2018.04.16-06.20.25:367][824]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jumping_Down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-06.30.35:637][990]Cmd: TRANSACTION UNDO
+[2018.04.16-06.30.35:638][990]LogEditorTransaction: Undo Select Interpolation Mode
+[2018.04.16-06.30.36:673][ 18]Cmd: TRANSACTION UNDO
+[2018.04.16-06.30.36:673][ 18]LogEditorTransaction: Undo Add Keys at Current Time
+[2018.04.16-06.31.40:014][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WindowWall16)
+[2018.04.16-06.32.05:915][181]LogSavePackage: Save=13127.39ms
+[2018.04.16-06.32.05:915][181]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExteriorD5287B374728E0282C55E29EFC6046B5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-06.32.05:953][181]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-06.32.06:004][181]LogFileHelpers: Saving map 'Exterior' took 13.955
+[2018.04.16-06.32.06:013][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/ExitBuilding_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset" SILENT=true
+[2018.04.16-06.32.06:062][181]LogSavePackage: Save=36.05ms
+[2018.04.16-06.32.06:062][181]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq87F828AE4CC25022A5D0508532BA49DD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.16-06.32.06:065][181]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.16-06.32.06:125][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard_Animaitons/Jumping_Down" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Jumping_Down.uasset" SILENT=true
+[2018.04.16-06.32.06:152][181]LogSavePackage: Save=24.24ms
+[2018.04.16-06.32.06:153][181]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Jumping_DownE2B135FD4584E70EF41962BEF4CF1129.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Jumping_Down.uasset'
+[2018.04.16-06.32.06:155][181]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Jumping_Down.uasset
+[2018.04.16-06.34.33:604][719]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jared Rothwell\Downloads\Walking (3).fbx)
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: Model, ItemCount : 67
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.16-06.34.33:613][719]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.16-06.34.33:618][719]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Walking (3).fbx
+[2018.04.16-06.34.33:649][719]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.34.41:220][719]LogFbx: Loading FBX Scene from C:\Users\Jared Rothwell\Downloads\Walking (3).fbx
+[2018.04.16-06.34.41:256][719]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(0) Hips
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(1) Spine
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(2) Spine1
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(3) Spine2
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(4) Neck
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(5) Head
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(6) RightEye
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(7) LeftEye
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(8) HeadTop_End
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.16-06.34.41:261][719]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(34) RightArm
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(36) RightHand
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.16-06.34.41:262][719]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.16-06.34.41:263][719]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.16-06.34.41:267][719]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Walking__3_'
+[2018.04.16-06.34.41:267][719]LogLinker: Can't find file '/Game/Animations/Guard_Animaitons/Walking__3_'
+[2018.04.16-06.34.41:505][719]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Walking__3_.Walking__3_
+[2018.04.16-06.34.41:505][719]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Walking__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.16-06.36.32:568][891]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed)
+[2018.04.16-06.38.12:387][202]LogSavePackage: Save=13111.92ms
+[2018.04.16-06.38.12:387][202]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExteriorF49C600043639345F86E66903BC5DC2D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.16-06.38.12:412][202]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.16-06.38.12:442][202]LogFileHelpers: Saving map 'Exterior' took 13.769
+[2018.04.16-06.38.12:447][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/ExitBuilding_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset" SILENT=true
+[2018.04.16-06.38.12:480][202]LogSavePackage: Save=25.61ms
+[2018.04.16-06.38.12:480][202]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq82E163DD4C630D5AEB30F18C9023F24D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.16-06.38.12:482][202]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.16-06.38.12:531][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard_Animaitons/Walking__3_" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Walking__3_.uasset" SILENT=true
+[2018.04.16-06.38.12:551][202]LogSavePackage: Save=19.28ms
+[2018.04.16-06.38.12:552][202]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Walking__3_7AD085DE4B64BDA2F60B8BBD7A96A47A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Walking__3_.uasset'
+[2018.04.16-06.38.12:553][202]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard_Animaitons/Walking__3_.uasset
+[2018.04.16-06.38.36:755][969]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-06.38.37:145][970]Cmd: QUIT_EDITOR
+[2018.04.16-06.38.37:190][970]LogExit: Preparing to exit.
+[2018.04.16-06.38.38:218][970]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' was aborted.
+[2018.04.16-06.38.38:381][970]LogExit: Editor shut down
+[2018.04.16-06.38.38:417][970]LogExit: Transaction tracking system shut down
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../../projects/Art-Thief/ArtThiefMuseum/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.16-06.38.38:822][970]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.16-06.38.39:154][970]LogExit: Object subsystem successfully closed.
+[2018.04.16-06.38.39:194][970]LogD3D11RHI: Shutdown
+[2018.04.16-06.38.39:194][970]LogD3D11RHI: CleanupD3DDevice
+[2018.04.16-06.38.39:202][970]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.16-06.38.39:212][970]LogModuleManager: Shutting down and abandoning module SequencerWidgets (550)
+[2018.04.16-06.38.39:212][970]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.04.16-06.38.39:212][970]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.04.16-06.38.39:212][970]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.04.16-06.38.39:213][970]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.04.16-06.38.39:219][970]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' was aborted.
+[2018.04.16-06.38.39:219][970]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' was aborted.
+[2018.04.16-06.38.39:219][970]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' was aborted.
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.04.16-06.38.39:219][970]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.04.16-06.38.39:220][970]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.04.16-06.38.40:122][970]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.04.16-06.38.40:123][970]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.04.16-06.38.40:178][970]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.04.16-06.38.40:179][970]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.04.16-06.38.40:179][970]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.04.16-06.38.40:179][970]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.04.16-06.38.40:179][970]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.04.16-06.38.40:180][970]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.04.16-06.38.40:335][970]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.04.16-06.38.40:336][970]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.04.16-06.38.40:338][970]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.04.16-06.38.40:338][970]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.04.16-06.38.40:338][970]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.16-06.38.40:339][970]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.16-06.38.40:440][970]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.16-06.38.40:541][970]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.16-06.38.40:543][970]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.16-06.38.40:543][970]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.16-06.38.40:543][970]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.16-06.38.40:543][970]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.16-06.38.40:545][970]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.16-06.38.40:552][970]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.16-06.38.40:553][970]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.16-06.38.40:553][970]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.16-06.38.40:553][970]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.16-06.38.40:553][970]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.16-06.38.40:556][970]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.16-06.38.40:556][970]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.16-06.38.40:556][970]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.16-06.38.40:556][970]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.16-06.38.40:556][970]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.16-06.38.40:557][970]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.16-06.38.40:557][970]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.16-06.38.40:557][970]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.16-06.38.40:565][970]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.16-06.38.40:662][970]LogDerivedDataCache: Shutdown
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.16-06.38.40:663][970]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.16-06.38.40:664][970]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.16-06.38.40:665][970]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.16-06.38.40:665][970]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.16-06.38.40:665][970]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFD1DF4AC-429C-37B6-E5FE-53B7C0627330%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=2f971d094905c2a7bc833c87802c48c8%7C3f39104fdd2144b9a74201bb2a9c7b8e%7Cba7f9d7c-a839-4a7f-98e9-7a135484811a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.16-06.38.40:667][970]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.16-06.38.40:669][970]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.16-06.38.40:669][970]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.16-06.38.40:669][970]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.16-06.38.40:669][970]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.16-06.38.40:670][970]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.16-06.38.40:670][970]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.16-06.38.40:670][970]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.16-06.38.40:673][970]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.16-06.38.40:673][970]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.16-06.38.40:673][970]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.16-06.38.40:674][970]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.16-06.38.40:678][970]LogExit: Exiting.
+[2018.04.16-06.38.40:700][970]Log file closed, 04/16/18 00:38:40
