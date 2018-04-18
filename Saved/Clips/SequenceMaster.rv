@@ -1,0 +1,157 @@
+GTOa (3)
+
+rv : RVSession (2)
+{
+	session
+	{
+		float fps = 30.000000
+		int realtime = 1
+	}
+
+	writer
+	{
+		string name = "rvSession.py"
+		string version = "0.3"
+	}
+}
+
+sourceGroup000000 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DoorOpening.avi"
+	}
+}
+
+sourceGroup000000_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 105
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DoorOpening.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000001 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "sneaking_seq.avi"
+	}
+}
+
+sourceGroup000001_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 753
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "sneaking_seq.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000002 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "Sneaking_upstairs_seq.avi"
+	}
+}
+
+sourceGroup000002_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 2607
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "Sneaking_upstairs_seq.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000003 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "Alarm_seq.avi"
+	}
+}
+
+sourceGroup000003_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 278
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "Alarm_seq.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000004 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "Tackle_seq.avi"
+	}
+}
+
+sourceGroup000004_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 107
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "Tackle_seq.avi"
+		string shot = ""
+	}
+}
+
