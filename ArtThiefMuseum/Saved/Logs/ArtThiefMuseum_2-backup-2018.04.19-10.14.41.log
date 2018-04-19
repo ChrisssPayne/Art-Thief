@@ -1,0 +1,1129 @@
+﻿Log file open, 04/19/18 01:14:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ArtThiefMuseum
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1682991267) SRandInit(1682991267).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.136988
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.19-07.14.56:248][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-07.14.56:248][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.19-07.14.56:263][  0]LogInit: Computer: DESKTOP-UNGKE0H
+[2018.04.19-07.14.56:263][  0]LogInit: User: lydia
+[2018.04.19-07.14.56:263][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.19-07.14.56:263][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.04.19-07.14.56:264][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.04.19-07.14.56:264][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.19-07.14.56:264][  0]LogMemory: Process Physical Memory: 273.33 MB used, 273.33 MB peak
+[2018.04.19-07.14.56:264][  0]LogMemory: Process Virtual Memory: 269.62 MB used, 269.62 MB peak
+[2018.04.19-07.14.56:264][  0]LogMemory: Physical Memory: 4944.57 MB used,  7207.38 MB free, 12151.95 MB total
+[2018.04.19-07.14.56:264][  0]LogMemory: Virtual Memory: 678.60 MB used,  7207.38 MB free, 134217728.00 MB total
+[2018.04.19-07.14.56:578][  0]LogInit: Using OS detected language (en-US).
+[2018.04.19-07.14.56:578][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.19-07.14.56:582][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.19-07.14.57:152][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.19-07.14.57:530][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.19-07.14.57:604][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.04.19-07.14.57:604][  0]LogD3D11RHI:       2010/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.19-07.14.57:616][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.04.19-07.14.57:616][  0]LogD3D11RHI:       128/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.19-07.14.57:620][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.19-07.14.57:620][  0]LogD3D11RHI:       0/0/6075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.19-07.14.57:620][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.19-07.14.57:628][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.19-07.14.57:628][  0]LogD3D11RHI:     GPU DeviceId: 0x179c (for the marketing name, search the web for "GPU Device Id")
+[2018.04.19-07.14.57:629][  0]LogWindows: EnumDisplayDevices:
+[2018.04.19-07.14.57:629][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.04.19-07.14.57:629][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.19-07.14.57:629][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.19-07.14.57:629][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.19-07.14.57:629][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.04.19-07.14.57:629][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.19-07.14.57:629][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.19-07.14.57:630][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.04.19-07.14.57:669][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.19-07.14.57:691][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.19-07.14.57:692][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/9144/).
+[2018.04.19-07.14.57:692][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lydia/AppData/Local/Temp/UnrealShaderWorkingDir/984DE9574CF37ACB4A6A8BA36D3597A0/'.
+[2018.04.19-07.14.57:692][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.19-07.14.59:346][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.19-07.14.59:424][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.19-07.14.59:496][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.19-07.14.59:616][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.19-07.14.59:691][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.19-07.14.59:767][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.19-07.14.59:843][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.19-07.14.59:914][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.19-07.14.59:984][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.19-07.15.00:064][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.19-07.15.00:137][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.19-07.15.00:210][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.19-07.15.00:294][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.19-07.15.00:377][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.19-07.15.00:587][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.19-07.15.00:587][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.19-07.15.00:681][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.19-07.15.00:753][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.19-07.15.00:883][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.19-07.15.00:923][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.19-07.15.00:998][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.19-07.15.01:076][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.19-07.15.01:147][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.19-07.15.01:219][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.19-07.15.01:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.19-07.15.01:992][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/lydia/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lydia/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.19-07.15.02:090][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.19-07.15.02:109][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.19-07.15.02:123][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lydia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.19-07.15.02:135][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.19-07.15.02:135][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.19-07.15.02:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-07.15.02:136][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.19-07.15.02:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.19-07.15.03:133][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.19-07.15.03:196][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.19-07.15.03:196][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.19-07.15.03:196][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.19-07.15.03:196][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.19-07.15.03:196][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.19-07.15.03:235][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
+[2018.04.19-07.15.03:484][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.04.19-07.15.04:216][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.098879 seconds
+[2018.04.19-07.15.04:223][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.19-07.15.04:224][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.19-07.15.04:224][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.19-07.15.04:303][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.19-07.15.23:177][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.19-07.15.23:251][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.19-07.15.24:709][  0]LogConfig: Warning: Failed to saved backup for config[InternationalizationExport]
+[2018.04.19-07.15.24:845][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.19-07.15.25:564][  0]LogConfig: Warning: Failed to saved backup for config[SourceControlSettings]
+[2018.04.19-07.15.25:566][  0]SourceControl: Source control is disabled
+[2018.04.19-07.15.27:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.19-07.15.27:786][  0]LogOcInput: OculusInput pre-init called
+[2018.04.19-07.15.28:303][  0]LogEngine: Initializing Engine...
+[2018.04.19-07.15.28:305][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.19-07.15.28:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.19-07.15.28:643][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.19-07.15.28:876][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.19-07.15.28:892][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.19-07.15.29:061][  0]LogInit: FAudioDevice initialized.
+[2018.04.19-07.15.29:221][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/lydia/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.19-07.15.29:242][  0]LogInit: Texture streaming: Enabled
+[2018.04.19-07.15.29:400][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.19-07.15.29:634][  0]LogInit: Transaction tracking system initialized
+[2018.04.19-07.15.30:256][  0]BlueprintLog: New page: Editor Load
+[2018.04.19-07.15.32:194][  0]LocalizationService: Localization service is disabled
+[2018.04.19-07.15.33:688][  0]LogConsoleResponse: Display: 
+[2018.04.19-07.15.34:678][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.19-07.15.34:678][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.19-07.15.34:678][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.19-07.15.35:485][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/' took 0.06s
+[2018.04.19-07.15.37:854][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-07.15.37:854][  0]LightingResults: New page: Lighting Build
+[2018.04.19-07.15.37:920][  0]MapCheck: New page: Map Check
+[2018.04.19-07.15.37:920][  0]LightingResults: New page: Lighting Build
+[2018.04.19-07.15.38:100][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.19-07.15.38:101][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.19-07.15.38:101][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.19-07.15.38:101][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.19-07.15.38:101][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.19-07.15.38:101][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.19-07.15.38:102][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.19-07.15.38:102][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.19-07.15.38:102][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.19-07.15.38:102][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.19-07.15.38:102][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.19-07.15.38:103][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.19-07.15.38:936][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.19-07.15.38:936][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.19-07.15.38:937][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading NULL.
+[2018.04.19-07.15.38:937][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.19-07.15.38:937][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.19-07.15.38:937][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.19-07.15.38:937][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading NULL.
+[2018.04.19-07.15.38:938][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.19-07.15.54:183][  0]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.04.19-07.15.54:185][  0]LogMaterial: Warning: C:\Users\lydia\Desktop\Lydia\Chris\GitHub\Art-Thief\ArtThiefMuseum\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.19-07.15.54:185][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.19-07.16.04:378][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.19-07.16.04:406][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-07.16.04:426][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-07.16.04:521][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.216ms to complete.
+[2018.04.19-07.16.04:521][  0]LogFileHelpers: Loading map 'Minimal_Default' took 26.667
+[2018.04.19-07.16.04:608][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-07.16.04:608][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-07.16.05:121][  0]LogCollectionManager: Loaded 0 collections in 0.004005 seconds
+[2018.04.19-07.16.05:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
+[2018.04.19-07.16.05:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Developers/lydia/Collections/' took 0.01s
+[2018.04.19-07.16.05:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
+[2018.04.19-07.16.05:227][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.19-07.16.05:236][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2364 classes and 521 folders.
+[2018.04.19-07.16.05:337][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.19-07.16.07:349][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.19-07.16.07:381][  0]LogSlate: Took 0.010579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-07.16.07:392][  0]LogSlate: Took 0.008277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.19-07.16.07:404][  0]LogSlate: Took 0.006045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.19-07.16.07:581][  0]LogRenderer: Reallocating scene render targets to support 852x340 Format 10 NumSamples 1 (Frame:1).
+[2018.04.19-07.16.07:924][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.19-07.16.07:924][  0]LogLoad: (Engine Initialization) Total time: 75.31 seconds
+[2018.04.19-07.16.07:924][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.19-07.16.07:924][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.19-07.16.07:952][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.19-07.16.08:063][  0]LogSlate: Took 0.000920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-07.16.08:213][  2]LogAssetRegistry: Asset discovery search completed in 64.7522 seconds
+[2018.04.19-07.16.08:217][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.19-07.16.08:217][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000156 seconds (updated 0 objects)
+[2018.04.19-07.16.55:003][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Female_Guard_MOCAP/Guard_cop_flashlight_003.Guard_cop_flashlight_003
+[2018.04.19-07.16.55:003][871]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Female_Guard_MOCAP/Guard_cop_flashlight_003.Guard_cop_flashlight_003) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.16.55:012][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Thief_MOCAP/Thief_thief_statuePose_001.Thief_thief_statuePose_001
+[2018.04.19-07.16.55:012][871]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Thief_MOCAP/Thief_thief_statuePose_001.Thief_thief_statuePose_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.16.55:025][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Crouched_To_Standing.Crouched_To_Standing
+[2018.04.19-07.16.55:025][871]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Crouched_To_Standing.Crouched_To_Standing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.16.55:026][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Guard_Animaitons/Idle.Idle
+[2018.04.19-07.16.55:026][871]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Guard_Animaitons/Idle.Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.16.55:030][871]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Wiping_Sweat.Wiping_Sweat
+[2018.04.19-07.16.55:030][871]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Wiping_Sweat.Wiping_Sweat) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.16.55:047][871]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-07.17.25:068][538]EditorErrors: New page: Actor attachment
+[2018.04.19-07.19.07:144][542]LogSlate: Took 0.031797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.19-07.28.24:279][538]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.19-07.28.33:546][828]LogSavePackage: Save=191.47ms
+[2018.04.19-07.28.33:546][828]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default_Auto1C0436C4941F55A29F21C56B58CA3E8D6.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.04.19-07.28.33:551][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.04.19-07.28.33:617][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.314
+[2018.04.19-07.28.33:617][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.314
+[2018.04.19-07.28.33:641][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequences/Thief_Hdiing_seq] ([1] browsable assets)...
+[2018.04.19-07.28.33:641][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequences/Thief_Hdiing_seq]
+[2018.04.19-07.28.33:699][828]LogSavePackage: Save=52.43ms
+[2018.04.19-07.28.33:699][828]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_Hdiing_seq_Auto1EEA22B4C4EFD855CB863B7B70C0F7DF5.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Thief_Hdiing_seq_Auto1.uasset'
+[2018.04.19-07.28.33:702][828]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Thief_Hdiing_seq_Auto1.uasset
+[2018.04.19-07.28.33:702][828]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.04.19-07.35.26:381][ 43]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2018.04.19-07.35.35:511][330]Cmd: TRANSACTION UNDO
+[2018.04.19-07.35.35:512][330]LogEditorTransaction: Undo Rotate Actors
+[2018.04.19-07.35.37:409][412]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor2)
+[2018.04.19-07.36.17:060][851]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.17:060][851]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-07.36.18:644][900]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.18:644][900]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-07.36.23:705][ 74]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.23:705][ 74]LogEditorTransaction: Undo Set Actor Visibility
+[2018.04.19-07.36.24:243][ 91]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.24:243][ 91]LogEditorTransaction: Undo Set Actor Visibility
+[2018.04.19-07.36.24:798][109]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.24:798][109]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-07.36.28:684][242]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.28:684][242]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-07.36.29:868][285]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.29:868][285]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.19-07.36.30:410][307]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.30:410][307]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.19-07.36.31:463][352]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.31:463][352]LogEditorTransaction: Undo Select Brush Surface
+[2018.04.19-07.36.34:738][510]Cmd: TRANSACTION UNDO
+[2018.04.19-07.36.34:738][510]LogEditorTransaction: Undo Move Components
+[2018.04.19-07.41.55:971][173]LogSavePackage: Save=189.74ms
+[2018.04.19-07.41.55:971][173]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default_Auto23F99AF774BDF840F094A9B8D47A7180C.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.04.19-07.41.55:975][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2018.04.19-07.41.56:039][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.296
+[2018.04.19-07.41.56:039][173]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2018.04.19-07.41.56:043][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequences/Thief_Hdiing_seq] ([1] browsable assets)...
+[2018.04.19-07.41.56:043][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequences/Thief_Hdiing_seq]
+[2018.04.19-07.41.56:113][173]LogSavePackage: Save=64.30ms
+[2018.04.19-07.41.56:113][173]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_Hdiing_seq_Auto2806D5D6B44EED54D000293A38AB0E161.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Thief_Hdiing_seq_Auto2.uasset'
+[2018.04.19-07.41.56:115][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/Thief_Hdiing_seq_Auto2.uasset
+[2018.04.19-07.41.56:115][173]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.04.19-07.43.48:360][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.19-07.43.55:993][772]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor7)
+[2018.04.19-07.48.35:166][334]LogSavePackage: Save=719.70ms
+[2018.04.19-07.48.35:166][334]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_Hdiing_seq56DFE5AB41DF9AD8F18414BADBAE77CA.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset'
+[2018.04.19-07.48.35:197][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset
+[2018.04.19-07.48.38:855][334]LogSlate: Took 0.001918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.19-07.48.40:404][334]LogSavePackage: Save=3651.56ms
+[2018.04.19-07.48.40:473][334]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default74763CBF4F71855277F0F982247B3D47.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-07.48.40:485][334]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap', retrying in .5s...
+[2018.04.19-07.48.41:014][334]LogFileManager: Error: Error deleting file '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'.
+[2018.04.19-07.48.41:014][334]LogSavePackage: Error: Error saving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-07.48.41:090][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-07.48.41:195][334]EditorErrors: New page: Save Output
+[2018.04.19-07.48.41:195][334]EditorErrors: Warning: Error saving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-07.48.41:482][334]LogFileHelpers: Saving map 'Minimal_Default' took 6.264
+[2018.04.19-07.49.05:893][334]LogSavePackage: Save=2179.03ms
+[2018.04.19-07.49.05:894][334]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultA6D7A6CD4B4ADB5F61C7B2AEAABDF39A.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-07.49.05:928][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-07.49.06:218][334]LogFileHelpers: Saving map 'Minimal_Default' took 3.719
+[2018.04.19-07.49.16:216][431]LogSavePackage: Save=693.35ms
+[2018.04.19-07.49.16:217][431]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_Hdiing_seqF2B56FF6434142F43C9F398E338740B5.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset'
+[2018.04.19-07.49.16:251][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset
+[2018.04.19-07.50.24:164][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Walking.Walking
+[2018.04.19-07.50.24:164][308]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Walking.Walking) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.50.24:165][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Female_Guard_MOCAP/Guard_cop_pose_001.Guard_cop_pose_001
+[2018.04.19-07.50.24:166][308]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Female_Guard_MOCAP/Guard_cop_pose_001.Guard_cop_pose_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-07.50.41:444][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.19-07.50.42:633][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Canvas_carrying_tube3)
+[2018.04.19-07.57.32:097][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.04.19-08.00.42:857][581]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor26)
+[2018.04.19-08.00.46:777][723]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor26)
+[2018.04.19-08.04.04:499][ 89]Cmd: TRANSACTION UNDO
+[2018.04.19-08.04.04:499][ 89]LogEditorTransaction: Undo Resize section
+[2018.04.19-08.09.45:178][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.19-08.11.21:446][ 32]LogSavePackage: Save=91.82ms
+[2018.04.19-08.11.21:446][ 32]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Sneaking_upstairs_seqA1A518344E06D2FD4C54099667A2C018.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset'
+[2018.04.19-08.11.21:452][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset
+[2018.04.19-08.11.21:526][ 32]LogSavePackage: Save=62.63ms
+[2018.04.19-08.11.21:526][ 32]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_Hdiing_seqBB43FB4C484465B97AE2C2AFD31039F7.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset'
+[2018.04.19-08.11.21:531][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_Hdiing_seq.uasset
+[2018.04.19-08.11.21:843][ 32]LogSavePackage: Save=179.00ms
+[2018.04.19-08.11.21:843][ 32]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultC073AD33449637438ADFA3A868C931BD.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-08.11.21:848][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-08.11.21:889][ 32]LogFileHelpers: Saving map 'Minimal_Default' took 0.353
+[2018.04.19-08.11.35:335][751]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Nervously_Look_Around.Nervously_Look_Around
+[2018.04.19-08.11.35:335][751]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Nervously_Look_Around.Nervously_Look_Around) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-08.11.35:353][751]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Running_Slide.Running_Slide
+[2018.04.19-08.11.35:353][751]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Running_Slide.Running_Slide) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-08.12.03:068][330]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Soccer_Trip.Soccer_Trip
+[2018.04.19-08.12.03:068][330]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Soccer_Trip.Soccer_Trip) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-08.12.14:307][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Thief_MOCAP/Thief_thief_painting_002.Thief_thief_painting_002
+[2018.04.19-08.12.14:307][964]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Thief_MOCAP/Thief_thief_painting_002.Thief_thief_painting_002) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-08.25.04:120][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Alarm_seq" FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset" SILENT=true
+[2018.04.19-08.25.04:177][497]LogSavePackage: Save=50.85ms
+[2018.04.19-08.25.04:177][497]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Alarm_seq55B237D748D78F017FB12DB288C8D264.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset'
+[2018.04.19-08.25.04:181][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset
+[2018.04.19-08.25.04:283][497]LogSavePackage: Save=89.50ms
+[2018.04.19-08.25.04:283][497]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Sneaking_upstairs_seqBB84FA6F4D79DDA773FD2FB93A956B50.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset'
+[2018.04.19-08.25.04:287][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Sneaking_upstairs_seq.uasset
+[2018.04.19-08.25.04:325][497]LogSavePackage: Save=26.66ms
+[2018.04.19-08.25.04:325][497]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Stealing_MONA_seq533D94CB46E3A2EC91199E9E0E76406B.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Stealing_MONA_seq.uasset'
+[2018.04.19-08.25.04:329][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Stealing_MONA_seq.uasset
+[2018.04.19-08.25.04:646][497]LogSavePackage: Save=176.66ms
+[2018.04.19-08.25.04:646][497]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default54FEA771473BE27E7AC8048D8FA35894.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-08.25.04:651][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-08.25.04:751][497]LogFileHelpers: Saving map 'Minimal_Default' took 0.416
+[2018.04.19-08.26.01:404][ 72]Cmd: TRANSACTION UNDO
+[2018.04.19-08.26.01:404][ 72]LogEditorTransaction: Undo Move Actors
+[2018.04.19-08.34.28:470][230]Cmd: TRANSACTION UNDO
+[2018.04.19-08.34.28:470][230]LogEditorTransaction: Undo Move Actors
+[2018.04.19-08.38.09:050][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Alarm_seq" FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset" SILENT=true
+[2018.04.19-08.38.09:115][268]LogSavePackage: Save=57.98ms
+[2018.04.19-08.38.09:116][268]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Alarm_seq92813925441B4B554C19F9AAFAD31450.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset'
+[2018.04.19-08.38.09:119][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Alarm_seq.uasset
+[2018.04.19-08.38.09:157][268]LogSavePackage: Save=26.84ms
+[2018.04.19-08.38.09:158][268]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Stealing_MONA_seq3CC7137E4A36EF70A3F6BA88A7664995.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Stealing_MONA_seq.uasset'
+[2018.04.19-08.38.09:164][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Stealing_MONA_seq.uasset
+[2018.04.19-08.38.09:169][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Tackle_seq" FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset" SILENT=true
+[2018.04.19-08.38.09:226][268]LogSavePackage: Save=51.39ms
+[2018.04.19-08.38.09:226][268]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq957D504F48375A4CEA3E648D0F9A7302.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
+[2018.04.19-08.38.09:230][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
+[2018.04.19-08.38.09:547][268]LogSavePackage: Save=185.03ms
+[2018.04.19-08.38.09:547][268]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default8EF8C49444C1E3028F9903A0D5779199.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-08.38.09:551][268]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-08.38.09:650][268]LogFileHelpers: Saving map 'Minimal_Default' took 0.416
+[2018.04.19-08.38.22:639][764]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Zombie_Stand_Up__1_.Zombie_Stand_Up__1_
+[2018.04.19-08.38.22:639][764]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Zombie_Stand_Up__1_.Zombie_Stand_Up__1_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.19-08.47.51:222][386]Cmd: TRANSACTION UNDO
+[2018.04.19-08.47.51:222][386]LogEditorTransaction: Undo Set Float Key Value
+[2018.04.19-08.48.29:233][ 19]Cmd: TRANSACTION UNDO
+[2018.04.19-08.48.29:233][ 19]LogEditorTransaction: Undo Add Keys at Current Time
+[2018.04.19-08.55.05:528][263]LogSavePackage: Save=194.26ms
+[2018.04.19-08.55.05:528][263]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultF487DC5542A14AA1DBFA84AED7657D11.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-08.55.05:533][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-08.55.06:807][263]LogSavePackage: Save=1217.73ms
+[2018.04.19-08.55.06:808][263]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default_BuiltDataCD028096456FB3C91C1A4B97D508FDEE.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2018.04.19-08.55.06:811][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2018.04.19-08.55.10:372][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Tackle_seq" FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset" SILENT=true
+[2018.04.19-08.55.10:429][367]LogSavePackage: Save=50.39ms
+[2018.04.19-08.55.10:429][367]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Tackle_seqACCA94C3423C751FC974EA9A9BAFD1A3.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset'
+[2018.04.19-08.55.10:433][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Tackle_seq.uasset
+[2018.04.19-08.55.10:479][367]LogSavePackage: Save=32.80ms
+[2018.04.19-08.55.10:479][367]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_getting_up_seq35B81C8E48DFC5E45ECEABBDF4265373.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_getting_up_seq.uasset'
+[2018.04.19-08.55.10:483][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_getting_up_seq.uasset
+[2018.04.19-08.57.11:707][ 77]Cmd: TRANSACTION UNDO
+[2018.04.19-08.57.11:707][ 77]LogEditorTransaction: Undo Animatable Property Changed
+[2018.04.19-09.03.31:301][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.19-09.05.13:982][980]Cmd: TRANSACTION UNDO
+[2018.04.19-09.05.13:982][980]LogEditorTransaction: Undo Animatable Property Changed
+[2018.04.19-09.05.14:918][ 23]Cmd: TRANSACTION UNDO
+[2018.04.19-09.05.14:918][ 23]LogEditorTransaction: Undo Create Camera Here
+[2018.04.19-09.06.44:545][816]LogSavePackage: Save=41.10ms
+[2018.04.19-09.06.44:545][816]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/JumpingDownStairs_seqC6DE9F584274FE56896976B2C440BFCE.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/JumpingDownStairs_seq.uasset'
+[2018.04.19-09.06.44:550][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/JumpingDownStairs_seq.uasset
+[2018.04.19-09.06.44:599][816]LogSavePackage: Save=37.73ms
+[2018.04.19-09.06.44:599][816]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Thief_getting_up_seqE4F4E3474FFB1AE6E733CB9CDD7D8303.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_getting_up_seq.uasset'
+[2018.04.19-09.06.44:604][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/Thief_getting_up_seq.uasset
+[2018.04.19-09.06.44:928][816]LogSavePackage: Save=184.63ms
+[2018.04.19-09.06.44:928][816]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultAFB7D3B447C6C91006FA4FB075CE829C.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.19-09.06.44:934][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.19-09.06.45:031][816]LogFileHelpers: Saving map 'Minimal_Default' took 0.423
+[2018.04.19-09.07.09:045][628]LogAIModule: Creating AISystem for world Exterior
+[2018.04.19-09.07.12:417][628]LogSavePackage: Save=34.62ms
+[2018.04.19-09.07.12:417][628]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/JumpingDownStairs_seqE4A59FC5496822F16DD4D5A4551B5A9D.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/JumpingDownStairs_seq.uasset'
+[2018.04.19-09.07.12:423][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/JumpingDownStairs_seq.uasset
+[2018.04.19-09.07.12:423][628]Cmd: MAP LOAD FILE="../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.19-09.07.12:423][628]LightingResults: New page: Lighting Build
+[2018.04.19-09.07.12:426][628]LoadErrors: New page: Loading map: Exterior.umap
+[2018.04.19-09.07.12:454][628]MapCheck: New page: Map Check
+[2018.04.19-09.07.12:455][628]LightingResults: New page: Lighting Build
+[2018.04.19-09.07.12:531][628]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.19-09.07.12:573][628]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.19-09.07.12:687][628]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.37ms to complete.
+[2018.04.19-09.07.12:690][628]LogFileHelpers: Loading map 'Exterior' took 0.268
+[2018.04.19-09.10.34:903][806]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.10.46:075][241]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.15.02:780][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_NYC_LowPolyBuildings_Set01_Mid)
+[2018.04.19-09.18.01:429][743]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2018.04.19-09.18.02:778][792]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.19.48:192][699]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.19.48:223][699]LogEditorViewport: Clicking on Component (LMB): CineCameraComponent (CameraComponent)
+[2018.04.19-09.22.33:930][704]LogSavePackage: Save=45.12ms
+[2018.04.19-09.22.33:930][704]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seqC56F2F174D55969F256B2C964CADE68D.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.19-09.22.33:935][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.19-09.22.37:629][825]LogSavePackage: Save=1172.93ms
+[2018.04.19-09.22.37:629][825]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/ExteriorDA0BBE4C4B681E5C0F2F99B1488EEFAA.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.19-09.22.37:634][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.19-09.22.57:874][825]LogSavePackage: Save=20001.41ms
+[2018.04.19-09.22.57:874][825]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Exterior_BuiltDataAC571EF9484C996A7FCD2A84D6225F4D.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior_BuiltData.uasset'
+[2018.04.19-09.22.57:896][825]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior_BuiltData.uasset
+[2018.04.19-09.25.00:827][144]LogRenderer: Reallocating scene render targets to support 856x340 Format 10 NumSamples 1 (Frame:67472).
+[2018.04.19-09.25.00:909][146]LogRenderer: Reallocating scene render targets to support 856x344 Format 10 NumSamples 1 (Frame:67474).
+[2018.04.19-09.25.00:973][147]LogRenderer: Reallocating scene render targets to support 856x364 Format 10 NumSamples 1 (Frame:67476).
+[2018.04.19-09.25.01:034][147]LogRenderer: Reallocating scene render targets to support 856x400 Format 10 NumSamples 1 (Frame:67478).
+[2018.04.19-09.25.01:093][149]LogRenderer: Reallocating scene render targets to support 856x456 Format 10 NumSamples 1 (Frame:67480).
+[2018.04.19-09.25.01:166][150]LogRenderer: Reallocating scene render targets to support 856x496 Format 10 NumSamples 1 (Frame:67482).
+[2018.04.19-09.25.01:224][151]LogRenderer: Reallocating scene render targets to support 856x544 Format 10 NumSamples 1 (Frame:67484).
+[2018.04.19-09.25.01:303][152]LogRenderer: Reallocating scene render targets to support 856x616 Format 10 NumSamples 1 (Frame:67486).
+[2018.04.19-09.25.01:382][153]LogRenderer: Reallocating scene render targets to support 856x648 Format 10 NumSamples 1 (Frame:67488).
+[2018.04.19-09.25.01:448][154]LogRenderer: Reallocating scene render targets to support 856x672 Format 10 NumSamples 1 (Frame:67490).
+[2018.04.19-09.25.01:509][155]LogRenderer: Reallocating scene render targets to support 856x680 Format 10 NumSamples 1 (Frame:67492).
+[2018.04.19-09.25.01:558][156]LogRenderer: Reallocating scene render targets to support 856x688 Format 10 NumSamples 1 (Frame:67494).
+[2018.04.19-09.26.11:031][489]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.27.58:728][449]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor)
+[2018.04.19-09.28.10:177][123]Cmd: ACTOR UNBAKEPREPIVOT
+[2018.04.19-09.28.12:287][207]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor)
+[2018.04.19-09.28.49:000][364]Cmd: ACTOR UNBAKEPREPIVOT
+[2018.04.19-09.28.58:622][745]Cmd: TRANSACTION UNDO
+[2018.04.19-09.28.58:622][745]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.04.19-09.28.58:953][752]Cmd: TRANSACTION UNDO
+[2018.04.19-09.28.58:953][752]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2018.04.19-09.28.59:289][760]Cmd: TRANSACTION UNDO
+[2018.04.19-09.28.59:289][760]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.19-09.28.59:557][767]Cmd: TRANSACTION UNDO
+[2018.04.19-09.28.59:557][767]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.28.59:850][774]Cmd: TRANSACTION UNDO
+[2018.04.19-09.28.59:850][774]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.00:001][777]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.00:001][777]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.00:208][783]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.00:208][783]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.00:434][788]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.00:434][788]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.00:713][794]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.00:714][794]LogEditorTransaction: Undo Set Bool Key Value
+[2018.04.19-09.29.00:983][801]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.00:983][801]LogEditorTransaction: Undo Set Bool Key Value
+[2018.04.19-09.29.03:671][901]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.03:671][901]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.04:516][931]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.04:516][931]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.05:295][958]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.05:295][958]LogEditorTransaction: Undo Set Key
+[2018.04.19-09.29.06:947][ 27]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.06:947][ 27]LogEditorTransaction: Undo Delete Keys
+[2018.04.19-09.29.08:231][ 87]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.08:231][ 87]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.08:731][107]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.08:731][107]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.09:167][123]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.09:167][123]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.09:555][138]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.09:555][138]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.09:971][154]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.09:971][154]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.10:350][167]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.10:350][167]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.10:789][183]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.10:789][183]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.11:164][197]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.11:164][197]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.11:536][210]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.11:536][210]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.11:854][220]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.11:854][220]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.12:097][228]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.12:097][228]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.12:360][237]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.12:360][237]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.12:586][244]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.12:586][244]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.12:842][253]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.12:842][253]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.13:106][262]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.13:106][262]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.13:348][270]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.13:348][270]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.13:644][280]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.13:644][280]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.13:923][290]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.13:923][290]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.14:170][299]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.14:170][299]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.14:466][309]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.14:466][309]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.14:717][318]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.14:717][318]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.14:975][327]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.14:975][327]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.15:235][336]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.15:235][336]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.15:526][346]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.15:526][346]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.15:761][354]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.15:761][354]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.16:048][364]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.16:048][364]LogEditorTransaction: Undo Delete Keys
+[2018.04.19-09.29.16:321][373]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.16:321][373]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.16:583][382]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.16:583][382]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.16:869][392]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.16:869][392]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.17:152][402]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.17:152][402]LogEditorTransaction: Undo Move Keys
+[2018.04.19-09.29.17:409][411]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.17:409][411]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.17:864][428]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.17:864][428]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.18:176][439]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.18:176][439]LogEditorTransaction: Undo Select None
+[2018.04.19-09.29.18:432][446]Cmd: TRANSACTION UNDO
+[2018.04.19-09.29.18:432][446]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.29.25:898][844]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.25:898][844]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.27:225][910]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.27:225][910]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.27:452][915]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.27:452][915]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.27:638][921]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.27:638][921]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.29:026][991]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.29:026][991]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.29:343][  1]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.29:343][  1]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.29:551][  5]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.29:551][  5]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.29:749][ 10]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.29:749][ 10]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.29:914][ 15]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.29:915][ 15]LogEditorTransaction: Redo Delete Keys
+[2018.04.19-09.29.30:078][ 19]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:078][ 19]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.30:283][ 24]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:283][ 24]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.30:452][ 29]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:452][ 29]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.30:646][ 34]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:646][ 34]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.30:810][ 39]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:810][ 39]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.30:991][ 44]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.30:991][ 44]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.31:139][ 48]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.31:140][ 48]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.31:319][ 53]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.31:319][ 53]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.31:529][ 60]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.31:529][ 60]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.31:697][ 65]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.31:697][ 65]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.31:876][ 70]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.31:876][ 70]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.32:062][ 76]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:062][ 76]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.32:257][ 81]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:257][ 81]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.32:426][ 86]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:426][ 86]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.32:607][ 91]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:607][ 91]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.32:823][ 98]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:823][ 98]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.32:991][103]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.32:991][103]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.33:190][109]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.33:190][109]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.33:371][114]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.33:371][114]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.33:558][120]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.33:558][120]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.33:726][124]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.33:726][124]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.33:915][129]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.33:915][129]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.34:126][136]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.34:126][136]LogEditorTransaction: Redo Move Keys
+[2018.04.19-09.29.34:295][141]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.34:295][141]LogEditorTransaction: Redo Select None
+[2018.04.19-09.29.34:488][147]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.34:488][147]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.34:671][152]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.34:671][152]LogEditorTransaction: Redo Delete Keys
+[2018.04.19-09.29.34:840][157]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.34:840][157]LogEditorTransaction: Redo Set Key
+[2018.04.19-09.29.35:041][163]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.35:041][163]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.35:201][167]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.35:201][167]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.35:415][173]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.35:415][173]LogEditorTransaction: Redo Set Bool Key Value
+[2018.04.19-09.29.35:648][180]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.35:648][180]LogEditorTransaction: Redo Set Bool Key Value
+[2018.04.19-09.29.35:856][181]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.35:856][181]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.36:077][184]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.36:077][184]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.37:629][244]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.37:629][244]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.38:342][270]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.38:342][270]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.38:651][278]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.38:651][278]LogEditorTransaction: Redo Select Actors/Components
+[2018.04.19-09.29.38:986][289]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.38:986][289]LogEditorTransaction: Redo Clicking on Actors
+[2018.04.19-09.29.39:263][297]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.39:263][297]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2018.04.19-09.29.39:923][322]Cmd: TRANSACTION REDO
+[2018.04.19-09.29.39:924][322]LogEditorTransaction: Redo Clicking on Actors (context menu)
+[2018.04.19-09.29.54:650][893]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.30.39:631][912]Cmd: DELETE
+[2018.04.19-09.30.39:631][912]Cmd: ACTOR DELETE
+[2018.04.19-09.30.40:075][912]LogEditorActor: Deleted Actor: CineCameraActor
+[2018.04.19-09.30.40:125][912]LogEditorActor: Deleted 1 Actors (0.492 secs)
+[2018.04.19-09.30.41:657][983]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.30.58:112][617]Cmd: TRANSACTION UNDO
+[2018.04.19-09.30.58:112][617]LogEditorTransaction: Undo Move Actors
+[2018.04.19-09.31.55:262][452]Cmd: TRANSACTION UNDO
+[2018.04.19-09.31.55:262][452]LogEditorTransaction: Undo Mouse Drag
+[2018.04.19-09.32.31:330][987]Cmd: TRANSACTION UNDO
+[2018.04.19-09.32.31:330][987]LogEditorTransaction: Undo Rotate Actors
+[2018.04.19-09.32.32:438][ 19]Cmd: TRANSACTION UNDO
+[2018.04.19-09.32.32:438][ 19]LogEditorTransaction: Undo Move Actors
+[2018.04.19-09.32.33:356][ 45]Cmd: TRANSACTION UNDO
+[2018.04.19-09.32.33:356][ 45]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.32.34:122][ 65]Cmd: TRANSACTION UNDO
+[2018.04.19-09.32.34:122][ 65]LogEditorTransaction: Undo Select Actors/Components
+[2018.04.19-09.32.35:435][103]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor)
+[2018.04.19-09.32.41:999][488]Cmd: PIVOT CENTERSELECTION
+[2018.04.19-09.32.45:118][614]Cmd: TRANSACTION UNDO
+[2018.04.19-09.32.45:118][614]LogEditorTransaction: Undo Actor Movement
+[2018.04.19-09.33.23:515][ 79]LogSavePackage: Save=1271.00ms
+[2018.04.19-09.33.23:515][ 79]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Exterior_Auto36C3114834FBE132CB0D9439F2ED4B64B.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Exterior_Auto3.umap'
+[2018.04.19-09.33.23:519][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/StarterContent/Maps/Exterior_Auto3.umap
+[2018.04.19-09.33.23:592][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Exterior' took 1.423
+[2018.04.19-09.33.23:592][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.423
+[2018.04.19-09.33.23:599][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequences/ExitBuilding_seq] ([1] browsable assets)...
+[2018.04.19-09.33.23:599][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequences/ExitBuilding_seq]
+[2018.04.19-09.33.23:644][ 79]LogSavePackage: Save=38.05ms
+[2018.04.19-09.33.23:644][ 79]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq_Auto34BC9D1754F7631F050A92597365476DF.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/ExitBuilding_seq_Auto3.uasset'
+[2018.04.19-09.33.23:647][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Autosaves/Game/Sequences/ExitBuilding_seq_Auto3.uasset
+[2018.04.19-09.33.23:647][ 79]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.04.19-09.34.55:643][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2018.04.19-09.35.00:672][495]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor)
+[2018.04.19-09.37.16:412][272]LogSavePackage: Save=36.36ms
+[2018.04.19-09.37.16:413][272]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/ExitBuilding_seq1C7B1D904F9E0DD4F6E376A7291DC723.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset'
+[2018.04.19-09.37.16:418][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Sequences/ExitBuilding_seq.uasset
+[2018.04.19-09.37.17:981][272]LogSavePackage: Save=1231.63ms
+[2018.04.19-09.37.17:981][272]LogSavePackage: Moving '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/ExteriorB7D4C4FB492B9C0F748ECE8290328A9E.tmp' to '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.04.19-09.37.17:987][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.19-09.37.18:128][272]LogFileHelpers: Saving map 'Exterior' took 1.706
+[2018.04.19-09.37.18:716][273]Cmd: QUIT_EDITOR
+[2018.04.19-09.37.18:763][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-09.37.18:763][273]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.19-09.37.18:800][273]LogExit: Preparing to exit.
+[2018.04.19-09.37.19:561][273]LogDirectoryWatcher: A directory notification for 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/' was aborted.
+[2018.04.19-09.37.19:711][273]LogExit: Editor shut down
+[2018.04.19-09.37.19:750][273]LogExit: Transaction tracking system shut down
+[2018.04.19-09.37.20:113][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../../../../Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.19-09.37.20:114][273]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.19-09.37.20:444][273]LogExit: Object subsystem successfully closed.
+[2018.04.19-09.37.20:473][273]LogD3D11RHI: Shutdown
+[2018.04.19-09.37.20:473][273]LogD3D11RHI: CleanupD3DDevice
+[2018.04.19-09.37.20:481][273]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.19-09.37.20:505][273]LogModuleManager: Shutting down and abandoning module SequencerWidgets (550)
+[2018.04.19-09.37.20:505][273]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.04.19-09.37.20:505][273]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.04.19-09.37.20:505][273]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.04.19-09.37.20:511][273]LogDirectoryWatcher: A directory notification for 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Collections/' was aborted.
+[2018.04.19-09.37.20:511][273]LogDirectoryWatcher: A directory notification for 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Content/Developers/lydia/Collections/' was aborted.
+[2018.04.19-09.37.20:511][273]LogDirectoryWatcher: A directory notification for 'C:/Users/lydia/Desktop/Lydia/Chris/GitHub/Art-Thief/ArtThiefMuseum/Saved/Collections/' was aborted.
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module SceneOutliner (538)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.04.19-09.37.20:511][273]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.04.19-09.37.20:512][273]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.04.19-09.37.21:444][273]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.04.19-09.37.21:445][273]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.04.19-09.37.21:446][273]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.04.19-09.37.21:446][273]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.04.19-09.37.21:446][273]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.04.19-09.37.21:446][273]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.04.19-09.37.21:446][273]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.04.19-09.37.21:447][273]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.04.19-09.37.21:447][273]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.04.19-09.37.21:515][273]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.04.19-09.37.21:516][273]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.04.19-09.37.21:517][273]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.04.19-09.37.21:518][273]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.04.19-09.37.21:586][273]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.04.19-09.37.21:587][273]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.04.19-09.37.21:588][273]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.04.19-09.37.21:588][273]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.04.19-09.37.21:588][273]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.19-09.37.21:589][273]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.19-09.37.21:690][273]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.19-09.37.21:791][273]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.19-09.37.21:793][273]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.19-09.37.21:793][273]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.19-09.37.21:793][273]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.19-09.37.21:793][273]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.19-09.37.21:795][273]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.19-09.37.21:801][273]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.19-09.37.21:802][273]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.19-09.37.21:805][273]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.19-09.37.21:812][273]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.19-09.37.21:873][273]LogDerivedDataCache: Shutdown
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.19-09.37.21:873][273]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.19-09.37.21:874][273]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.19-09.37.21:875][273]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.19-09.37.21:875][273]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.19-09.37.21:875][273]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B2B7AB7-41B2-A86D-F484-B5B5E95886AC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ff1da099447aa3f4e8a382858b6ecb78%7C3197012184b6453991554fce33e1b995%7C332dee2b-fd3a-4476-9382-40c767f80bd8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.19-09.37.21:881][273]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.19-09.37.21:882][273]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.19-09.37.21:882][273]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.19-09.37.21:883][273]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.19-09.37.21:883][273]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.19-09.37.21:883][273]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.19-09.37.21:883][273]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.19-09.37.21:883][273]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.19-09.37.21:889][273]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.19-09.37.21:891][273]LogExit: Exiting.
+[2018.04.19-09.37.21:907][273]Log file closed, 04/19/18 03:37:21
