@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 04/19/18 16:39:34
 =======
 ﻿Log file open, 04/19/18 00:55:05
 >>>>>>> b21d3a419efeceadf439aefb8ecb893edeebde8a
+=======
+﻿Log file open, 04/19/18 00:55:05
+>>>>>>> 6f2e75fda9e5d966cded3cfb92b5b86f76f30aa6
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -11,6 +15,7 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ArtThiefMuseum
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Display: RandInit(420253446) SRandInit(420253446).
 =======
@@ -26,6 +31,14 @@ LogStats: Stats thread started at 0.114071
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.178730
 >>>>>>> b21d3a419efeceadf439aefb8ecb893edeebde8a
+=======
+LogInit: Display: RandInit(-75345531) SRandInit(-75345531).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178730
+>>>>>>> 6f2e75fda9e5d966cded3cfb92b5b86f76f30aa6
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -207,6 +220,7 @@ LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2018.04.19-22.39.35:727][  0]LogInit: Selected Device Profile: [Windows]
 [2018.04.19-22.39.35:727][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -705,6 +719,8 @@ LogInit: Object subsystem initialized
 [2018.04.19-22.51.15:347][461]LogExit: Exiting.
 [2018.04.19-22.51.22:518][461]Log file closed, 04/19/18 16:51:22
 =======
+=======
+>>>>>>> 6f2e75fda9e5d966cded3cfb92b5b86f76f30aa6
 [2018.04.19-06.55.06:476][  0]LogInit: Selected Device Profile: [Windows]
 [2018.04.19-06.55.06:476][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.04.19-06.55.06:490][  0]LogInit: Computer: DESKTOP-1E3V943
@@ -1255,4 +1271,7 @@ LogInit: Object subsystem initialized
 [2018.04.19-06.58.11:589][285]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.04.19-06.58.11:593][285]LogExit: Exiting.
 [2018.04.19-06.58.11:613][285]Log file closed, 04/19/18 00:58:11
+<<<<<<< HEAD
 >>>>>>> b21d3a419efeceadf439aefb8ecb893edeebde8a
+=======
+>>>>>>> 6f2e75fda9e5d966cded3cfb92b5b86f76f30aa6
