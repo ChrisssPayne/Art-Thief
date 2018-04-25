@@ -1,4 +1,4 @@
-﻿Log file open, 04/20/18 20:39:49
+﻿Log file open, 04/24/18 17:16:35
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ArtThiefMuseum
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-707118183) SRandInit(-707118183).
+LogInit: Display: RandInit(1732431500) SRandInit(1732431500).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.380352
+LogStats: Stats thread started at 4.378995
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -194,840 +194,378 @@ LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.04.21-02.39.55:658][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.21-02.39.55:658][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.04.21-02.39.55:712][  0]LogInit: Computer: DESKTOP-1E3V943
-[2018.04.21-02.39.55:712][  0]LogInit: User: JaredRothwell
-[2018.04.21-02.39.55:712][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.04.21-02.39.55:712][  0]LogInit: High frequency timer resolution =2.531253 MHz
-[2018.04.21-02.39.55:713][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.04.21-02.39.55:713][  0]LogMemory: Platform Memory Stats for Windows
-[2018.04.21-02.39.55:713][  0]LogMemory: Process Physical Memory: 272.18 MB used, 272.18 MB peak
-[2018.04.21-02.39.55:713][  0]LogMemory: Process Virtual Memory: 269.75 MB used, 269.75 MB peak
-[2018.04.21-02.39.55:713][  0]LogMemory: Physical Memory: 8123.01 MB used,  8129.03 MB free, 16252.04 MB total
-[2018.04.21-02.39.55:713][  0]LogMemory: Virtual Memory: 682.52 MB used,  8129.03 MB free, 134217728.00 MB total
-[2018.04.21-02.39.56:716][  0]LogInit: Using OS detected language (en-US).
-[2018.04.21-02.39.56:716][  0]LogInit: Using OS detected locale (en-US).
-[2018.04.21-02.39.57:124][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.04.21-02.39.57:952][  0]LogInit: Setting process to per monitor DPI aware
-[2018.04.21-02.40.04:402][  0]LogD3D11RHI: D3D11 adapters:
-[2018.04.21-02.40.05:790][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
-[2018.04.21-02.40.05:790][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.04.21-02.40.05:799][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
-[2018.04.21-02.40.05:799][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.04.21-02.40.05:801][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.04.21-02.40.05:801][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.04.21-02.40.05:801][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.04.21-02.40.05:823][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.04.21-02.40.05:823][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
-[2018.04.21-02.40.05:823][  0]LogWindows: EnumDisplayDevices:
-[2018.04.21-02.40.05:823][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
-[2018.04.21-02.40.05:824][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.04.21-02.40.05:824][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.04.21-02.40.05:824][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.04.21-02.40.05:824][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
-[2018.04.21-02.40.05:824][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.04.21-02.40.05:824][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.04.21-02.40.05:824][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
-[2018.04.21-02.40.05:848][  0]LogD3D11RHI: Async texture creation enabled
-[2018.04.21-02.40.05:863][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.04.21-02.40.05:864][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/43296/).
-[2018.04.21-02.40.05:864][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/0C1EAF784EAD1F0C1594878BAC2D5BEB/'.
-[2018.04.21-02.40.05:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.04.21-02.40.12:519][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.04.21-02.40.12:567][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.04.21-02.40.12:615][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.04.21-02.40.12:663][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.04.21-02.40.12:723][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.04.21-02.40.12:774][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.04.21-02.40.12:824][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.04.21-02.40.12:876][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.04.21-02.40.12:925][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.04.21-02.40.12:974][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.04.21-02.40.13:018][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.04.21-02.40.13:063][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.04.21-02.40.13:114][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.04.21-02.40.13:164][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.04.21-02.40.13:260][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.04.21-02.40.13:260][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.04.21-02.40.13:335][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.04.21-02.40.13:368][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.04.21-02.40.13:535][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.04.21-02.40.13:560][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.04.21-02.40.13:610][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.04.21-02.40.13:667][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.04.21-02.40.13:717][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.04.21-02.40.13:770][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.04.21-02.40.13:770][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.04.21-02.40.15:451][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: Loaded boot cache 1.00s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.04.21-02.40.16:456][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.04.21-02.40.16:522][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.04.21-02.40.16:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.04.21-02.40.16:547][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.04.21-02.40.16:547][  0]LogSlate: Using Freetype 2.6.0
-[2018.04.21-02.40.16:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.21-02.40.16:621][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.04.21-02.40.24:975][  0]LogInit: Selected Device Profile: [Windows]
-[2018.04.21-02.40.25:900][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.04.21-02.40.25:936][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.04.21-02.40.25:937][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.04.21-02.40.25:937][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.04.21-02.40.25:937][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.04.21-02.40.25:937][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.04.21-02.40.25:994][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
-[2018.04.21-02.40.26:434][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
-[2018.04.21-02.40.27:901][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.081966 seconds
-[2018.04.21-02.40.27:907][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2018.04.21-02.40.27:907][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2018.04.21-02.40.27:907][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.04.21-02.40.27:951][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.04.21-02.40.43:091][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.04.21-02.40.43:127][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.04.21-02.40.43:852][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.04.21-02.40.44:266][  0]SourceControl: Source control is disabled
-[2018.04.21-02.40.46:444][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.04.21-02.40.46:695][  0]LogOcInput: OculusInput pre-init called
-[2018.04.21-02.40.47:048][  0]LogEngine: Initializing Engine...
-[2018.04.21-02.40.47:051][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.04.21-02.40.47:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.04.21-02.40.47:282][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.04.21-02.40.47:406][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.04.21-02.40.47:425][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.04.21-02.40.47:469][  0]LogInit: FAudioDevice initialized.
-[2018.04.21-02.40.47:768][  0]LogDerivedDataCache: Saved boot cache 0.30s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.04.21-02.40.47:782][  0]LogInit: Texture streaming: Enabled
-[2018.04.21-02.40.47:869][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.04.21-02.40.47:995][  0]LogInit: Transaction tracking system initialized
-[2018.04.21-02.40.48:273][  0]BlueprintLog: New page: Editor Load
-[2018.04.21-02.40.49:080][  0]LocalizationService: Localization service is disabled
-[2018.04.21-02.40.49:886][  0]LogConsoleResponse: Display: 
-[2018.04.21-02.40.51:251][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.04.21-02.40.51:251][  0]LogCook: Display: Mobile HDR setting 1
-[2018.04.21-02.40.51:251][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.04.21-02.40.51:309][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.05s
-[2018.04.21-02.40.52:784][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.21-02.40.52:789][  0]LightingResults: New page: Lighting Build
-[2018.04.21-02.40.52:824][  0]MapCheck: New page: Map Check
-[2018.04.21-02.40.52:824][  0]LightingResults: New page: Lighting Build
-[2018.04.21-02.40.53:660][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
-[2018.04.21-02.40.53:661][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
-[2018.04.21-02.40.53:661][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
-[2018.04.21-02.40.53:661][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
-[2018.04.21-02.40.53:661][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
-[2018.04.21-02.40.53:661][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
-[2018.04.21-02.40.54:049][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
-[2018.04.21-02.40.54:049][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
-[2018.04.21-02.40.54:049][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading NULL.
-[2018.04.21-02.40.54:050][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
-[2018.04.21-02.40.54:050][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
-[2018.04.21-02.40.54:050][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
-[2018.04.21-02.40.54:050][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading NULL.
-[2018.04.21-02.40.54:050][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
-[2018.04.21-02.40.57:207][  0]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
-[2018.04.21-02.40.57:209][  0]LogMaterial: Warning: D:\projects\Art-Thief\ArtThiefMuseum\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2018.04.21-02.40.57:209][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
-[2018.04.21-02.40.59:992][  0]LogAIModule: Creating AISystem for world Minimal_Default
-[2018.04.21-02.41.00:008][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.21-02.41.00:023][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.21-02.41.00:085][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.57ms to complete.
-[2018.04.21-02.41.00:085][  0]LogFileHelpers: Loading map 'Minimal_Default' took 7.301
-[2018.04.21-02.41.00:394][  0]LogCollectionManager: Loaded 0 collections in 0.000930 seconds
-[2018.04.21-02.41.00:464][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
-[2018.04.21-02.41.00:464][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
-[2018.04.21-02.41.00:464][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
-[2018.04.21-02.41.00:464][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.04.21-02.41.00:476][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2363 classes and 519 folders.
-[2018.04.21-02.41.00:532][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.04.21-02.41.02:382][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.04.21-02.41.02:421][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.04.21-02.41.02:532][  0]LogSlate: Took 0.007643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.21-02.41.02:554][  0]LogSlate: Took 0.019712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.04.21-02.41.02:585][  0]LogSlate: Took 0.025835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.04.21-02.41.02:763][  0]LogRenderer: Reallocating scene render targets to support 1040x440 Format 10 NumSamples 1 (Frame:1).
-[2018.04.21-02.41.03:001][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.04.21-02.41.03:001][  0]LogLoad: (Engine Initialization) Total time: 77.56 seconds
-[2018.04.21-02.41.03:001][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.04.21-02.41.03:001][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.04.21-02.41.03:001][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.04.21-02.41.03:051][  0]SourceControl: On branch master
-[2018.04.21-02.41.03:051][  0]SourceControl: Your branch is up to date with 'origin/master'.
-[2018.04.21-02.41.03:051][  0]SourceControl: Changes not staged for commit:
-[2018.04.21-02.41.03:051][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
-[2018.04.21-02.41.03:051][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-02A271E64146D2BA17E105BC54375C1B/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-0823EF3C43DB0A59AE799FA7394EA378/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-180307DB4C571AA6EAAA0CA851675EE2/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-1B3C730D416DEB7024F7068C83A16FCA/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-37ED78DB4068CC33F4497EA970420CD0/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-388BBFA54F53F95FA44FF6AE04BF7AFD/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-3FCA43DF48E4047E69DC12ADB2E4C0E6/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-585C5950405ADB7950E673B1EEDA05AC/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-63CA4EEF40933EAA64EAB0AADE3A15FD/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-6AC041E641D300648633DD81D81F921B/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-6C633C0E4EEED5AB76CDFD9E89788F89/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-740DA2CE4E929E90F8A3E1B74DFC0C60/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-789AE05E4DBC11399CE67884E27CB9E7/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-B1A0C43F4C3D3E962F4B86AA0C3A3B76/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-D9EC866F46C472DC975005ABFF5E9D50/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-E51949CA47AE6208A9B4ED95C99A2C48/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Config/CrashReportClient/UE4CC-Windows-E7BC47DD44ADF4EC08DBB9880767812F/CrashReportClient.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/Engine.ini
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.19-13.59.10.log
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.19-14.33.36.log
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.19-14.41.48.log
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.19-15.21.48.log
-[2018.04.21-02.41.03:051][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.19-16.39.33.log
-[2018.04.21-02.41.03:051][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Logs/ArtThiefMuseum.log
-[2018.04.21-02.41.03:051][  0]SourceControl: Untracked files:
-[2018.04.21-02.41.03:051][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2018.04.21-02.41.03:051][  0]SourceControl: 	ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
-[2018.04.21-02.41.03:051][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
-[2018.04.21-02.41.03:052][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.04.21-02.41.03:458][  2]LogAssetRegistry: Asset discovery search completed in 37.0459 seconds
-[2018.04.21-02.41.03:461][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.04.21-02.41.03:461][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000113 seconds (updated 0 objects)
-[2018.04.21-02.41.07:153][222]LogSlate: Took 0.004889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.21-02.41.08:159][281]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 5.13s
-[2018.04.21-02.41.20:246][  4]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.21-02.41.20:350][  4]LogLinker: Warning: Can't find file '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst'
-[2018.04.21-02.41.20:350][  4]LogLinker: Warning: Can't find file for asset '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:351][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst
-[2018.04.21-02.41.20:675][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:675][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:675][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/ext/DoorFBX
-[2018.04.21-02.41.20:675][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:675][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:675][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/ext/DoorFBX_PhysicsAsset
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:676][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:676][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:676][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:676][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:676][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:677][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:677][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:677][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:677][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:677][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01
-[2018.04.21-02.41.20:678][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:678][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:678][  4]LoadErrors: Error: /Game/StarterContent/Maps/Exterior : Can't find file for asset. /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01
-[2018.04.21-02.41.20:703][  4]LogLinker: Warning: Can't find file '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst'
-[2018.04.21-02.41.20:703][  4]LogLinker: Warning: Can't find file for asset '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:703][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:703][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:705][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:705][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:710][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:710][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:710][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:710][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:711][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:712][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:712][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:712][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:712][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap.
-[2018.04.21-02.41.20:714][  4]LogLinker: Warning: Can't find file '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst'
-[2018.04.21-02.41.20:714][  4]LogLinker: Warning: Can't find file for asset '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst' while loading NULL.
-[2018.04.21-02.41.20:714][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading NULL.
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading NULL.
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:715][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading NULL.
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading NULL.
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading NULL.
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading NULL.
-[2018.04.21-02.41.20:716][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading NULL.
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst'
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file for asset '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst' while loading NULL.
-[2018.04.21-02.41.20:717][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading NULL.
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading NULL.
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:718][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:719][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:720][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading NULL.
-[2018.04.21-02.41.20:886][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:886][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.HillTree_02 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:886][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading NULL.
-[2018.04.21-02.41.20:887][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:887][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.HillTree_Tall_02 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:887][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
-[2018.04.21-02.41.20:888][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:888][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01.ScotsPineTall_01 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:888][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading NULL.
-[2018.04.21-02.41.20:889][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:889][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:889][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:889][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:890][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:890][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:890][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:890][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.SM_Fern_01 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:890][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading NULL.
-[2018.04.21-02.41.20:890][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:890][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.SM_Fern_02 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:891][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading NULL.
-[2018.04.21-02.41.20:891][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:891][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.SM_Fern_03 Referenced by InstancedFoliageActor_0
-[2018.04.21-02.41.20:891][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading NULL.
-[2018.04.21-02.41.20:891][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02'
-[2018.04.21-02.41.20:891][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.HillTree_02 Referenced by FoliageType_InstancedStaticMesh_0
-[2018.04.21-02.41.20:891][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_02/HillTree_02' while loading NULL.
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
-[2018.04.21-02.41.20:892][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.HillTree_Tall_02 Referenced by FoliageType_InstancedStaticMesh_1
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01'
-[2018.04.21-02.41.20:892][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01.ScotsPineTall_01 Referenced by FoliageType_InstancedStaticMesh_2
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01' while loading NULL.
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:892][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by FoliageType_InstancedStaticMesh_3
-[2018.04.21-02.41.20:892][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:893][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by FoliageType_InstancedStaticMesh_4
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02'
-[2018.04.21-02.41.20:893][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02.SM_Fern_02 Referenced by FoliageType_InstancedStaticMesh_5
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_02' while loading NULL.
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03'
-[2018.04.21-02.41.20:893][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03.SM_Fern_03 Referenced by FoliageType_InstancedStaticMesh_6
-[2018.04.21-02.41.20:893][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_03' while loading NULL.
-[2018.04.21-02.41.20:894][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01'
-[2018.04.21-02.41.20:894][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01.SM_Fern_01 Referenced by FoliageType_InstancedStaticMesh_7
-[2018.04.21-02.41.20:894][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Ferns/SM_Fern_01' while loading NULL.
-[2018.04.21-02.41.20:940][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:940][  4]LoadErrors: Failed to load /Game/ext/DoorFBX.DoorFBX Referenced by DoorFBX_PhysicsAsset2
-[2018.04.21-02.41.20:940][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading NULL.
-[2018.04.21-02.41.20:940][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:941][  4]LoadErrors: Failed to load /Game/ext/DoorFBX_PhysicsAsset.DoorFBX_PhysicsAsset Referenced by DoorFBX_PhysicsAsset2
-[2018.04.21-02.41.20:941][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading NULL.
-[2018.04.21-02.41.20:941][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:941][  4]LoadErrors: Failed to load /Game/ext/DoorFBX.DoorFBX Referenced by DoorFBX_PhysicsAsset3
-[2018.04.21-02.41.20:941][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading NULL.
-[2018.04.21-02.41.20:942][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:942][  4]LoadErrors: Failed to load /Game/ext/DoorFBX_PhysicsAsset.DoorFBX_PhysicsAsset Referenced by DoorFBX_PhysicsAsset3
-[2018.04.21-02.41.20:942][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading NULL.
-[2018.04.21-02.41.20:943][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX'
-[2018.04.21-02.41.20:943][  4]LoadErrors: Failed to load /Game/ext/DoorFBX.DoorFBX Referenced by DoorFBX_PhysicsAsset_2
-[2018.04.21-02.41.20:943][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX' while loading NULL.
-[2018.04.21-02.41.20:943][  4]LogLinker: Warning: Can't find file '/Game/ext/DoorFBX_PhysicsAsset'
-[2018.04.21-02.41.20:943][  4]LoadErrors: Failed to load /Game/ext/DoorFBX_PhysicsAsset.DoorFBX_PhysicsAsset Referenced by DoorFBX_PhysicsAsset_2
-[2018.04.21-02.41.20:943][  4]LogLinker: Warning: Can't find file for asset '/Game/ext/DoorFBX_PhysicsAsset' while loading NULL.
-[2018.04.21-02.41.20:951][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:951][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by BogMyrtleBush_01_2
-[2018.04.21-02.41.20:951][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:952][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:952][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by BogMyrtleBush_02_5
-[2018.04.21-02.41.20:952][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:952][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:952][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by BogMyrtleBush_2
-[2018.04.21-02.41.20:953][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:953][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:954][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by BogMyrtleBush_3
-[2018.04.21-02.41.20:954][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:954][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
-[2018.04.21-02.41.20:954][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by BogMyrtleBush_4
-[2018.04.21-02.41.20:954][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
-[2018.04.21-02.41.20:954][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
-[2018.04.21-02.41.20:955][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by BogMyrtleBush_5
-[2018.04.21-02.41.20:955][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
-[2018.04.21-02.41.20:958][  4]LogLinker: Warning: Can't find file '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst'
-[2018.04.21-02.41.20:958][  4]LoadErrors: Failed to load /Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst.M_LakeWater_01_Inst Referenced by Plane_2
-[2018.04.21-02.41.20:958][  4]LogLinker: Warning: Can't find file for asset '/Game/WaterPlane/Lake/Materials/M_LakeWater_01_Inst' while loading NULL.
-[2018.04.21-02.41.20:958][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:958][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_01_14
-[2018.04.21-02.41.20:958][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:959][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:959][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_11
-[2018.04.21-02.41.20:959][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:959][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:959][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_12
-[2018.04.21-02.41.20:960][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:960][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:960][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_2
-[2018.04.21-02.41.20:961][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:961][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:961][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_4
-[2018.04.21-02.41.20:961][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:961][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:962][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_6
-[2018.04.21-02.41.20:962][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:962][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:962][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_7
-[2018.04.21-02.41.20:962][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.20:962][  4]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01'
-[2018.04.21-02.41.20:963][  4]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.ScotsPine_01 Referenced by ScotsPine_9
-[2018.04.21-02.41.20:963][  4]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01' while loading NULL.
-[2018.04.21-02.41.23:124][  4]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 256X256)
-[2018.04.21-02.41.23:905][  4]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.426 s
-[2018.04.21-02.41.23:905][  4]LogOutputDevice: Error: === Handled ensure: ===
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: 
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 781]
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: Container has changed during ranged-for iteration!
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: Stack: 
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000032502786 UE4Editor-Core.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000322A123A UE4Editor-Core.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000322BB906 UE4Editor-Core.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000042845855 UE4Editor-Foliage.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000003992E8FD UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039954CC8 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000003992E86C UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000399EDABC UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039A05259 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039A04774 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039A1B0C3 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039A25A3A UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000039A251B2 UE4Editor-CoreUObject.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000069427A7 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A8667F UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A386E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A3FF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A90FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A36C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A3ED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A3CA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A9DB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000006A9120A UE4Editor-ContentBrowser.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000041E47ADE UE4Editor-Slate.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000041E17CEE UE4Editor-Slate.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000041EB0B84 UE4Editor-Slate.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000041E9A492 UE4Editor-Slate.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000041E8CEB3 UE4Editor-Slate.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000053D3E4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000053D31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000053D403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000053D2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000007C45B85D USER32.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000007C45B1EF USER32.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x0000000053D41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000B3B150C8 UE4Editor.exe!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000B3B25430 UE4Editor.exe!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000B3B254AA UE4Editor.exe!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000B3B32379 UE4Editor.exe!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x00000000B3B33D57 UE4Editor.exe!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000007A271FE4 KERNEL32.DLL!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: [Callstack] 0x000000007C67F061 ntdll.dll!UnknownFunction []
-[2018.04.21-02.41.23:906][  4]LogOutputDevice: Error: 
-[2018.04.21-02.41.23:914][  4]LogStats:                SubmitErrorReport -  0.000 s
-[2018.04.21-02.41.25:585][  4]LogStats:                    SendNewReport -  1.670 s
-[2018.04.21-02.41.25:585][  4]LogStats:             FDebug::EnsureFailed -  2.105 s
-[2018.04.21-02.41.25:791][  4]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.04.21-02.41.28:240][  4]LogMaterial: Missing cached shader map for material crowbar, compiling. 
-[2018.04.21-02.41.28:844][  4]LogAIModule: Creating AISystem for world Exterior
-[2018.04.21-02.41.28:930][  4]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.04.21-02.41.28:930][  4]LightingResults: New page: Lighting Build
-[2018.04.21-02.41.28:931][  4]LoadErrors: New page: Loading map: Exterior.umap
-[2018.04.21-02.41.28:933][  4]MapCheck: New page: Map Check
-[2018.04.21-02.41.28:933][  4]LightingResults: New page: Lighting Build
-[2018.04.21-02.41.29:527][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.04.21-02.41.29:593][  4]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.04.21-02.41.29:704][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.545ms to complete.
-[2018.04.21-02.41.29:704][  4]LogFileHelpers: Loading map 'Exterior' took 0.774
-[2018.04.21-02.43.10:031][615]LogAssetTools: Warning: Failed to import 'D:\projects\Art-Thief-Exterior\Lambo.uasset'. Unknown extension 'uasset'.
-[2018.04.21-02.43.10:041][615]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.04.21-02.43.22:693][653]LogAssetTools: Warning: Failed to import 'D:\projects\Art-Thief-Exterior\Lambo.uasset'. Unknown extension 'uasset'.
-[2018.04.21-02.44.04:363][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
-[2018.04.21-02.44.04:364][650]LoadErrors: Error: /Game/Lambo : Can't find file for asset. /Game/Import/Lamborginhi_base_phong
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
-[2018.04.21-02.44.04:364][650]LoadErrors: Error: /Game/Lambo : Can't find file for asset. /Game/Import/Lamborginhi_glass_phong
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
-[2018.04.21-02.44.04:364][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
-[2018.04.21-02.44.04:366][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:366][650]LoadErrors: Failed to load /Game/Import/Lamborginhi_base_phong.Lamborginhi_base_phong Referenced by Lambo
-[2018.04.21-02.44.04:366][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:366][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
-[2018.04.21-02.44.04:366][650]LoadErrors: Failed to load /Game/Import/Lamborginhi_glass_phong.Lamborginhi_glass_phong Referenced by Lambo
-[2018.04.21-02.44.04:366][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading NULL.
-[2018.04.21-02.44.04:366][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:367][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading NULL.
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
-[2018.04.21-02.44.04:368][650]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
-[2018.04.21-02.44.04:369][650]LogStaticMesh: Building static mesh Lambo...
-[2018.04.21-02.44.04:625][650]LogStaticMesh: Built static mesh [0.26s] /Game/Lambo.Lambo
-[2018.04.21-02.44.04:716][650]LogActorFactory: Actor Factory created Lambo
-[2018.04.21-02.44.09:717][777]LogActorFactory: Actor Factory created Lambo
-[2018.04.21-02.44.48:109][466]LogSavePackage: Save=8580.46ms
-[2018.04.21-02.44.48:109][466]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Exterior75FE1A8E4D26BF5FF59BBC96AD45915A.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
-[2018.04.21-02.44.48:133][466]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
-[2018.04.21-02.44.48:165][466]LogFileHelpers: Saving map 'Exterior' took 8.904
-[2018.04.21-02.46.18:682][369]LogSavePackage: Save=8231.83ms
-[2018.04.21-02.46.18:682][369]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExteriorBB44D6D4484D8E3BDD0063A730F2B07F.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
-[2018.04.21-02.46.18:704][369]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
-[2018.04.21-02.46.18:737][369]LogFileHelpers: Saving map 'Exterior' took 8.383
-[2018.04.21-02.47.16:857][844]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.04.21-02.47.17:063][845]Cmd: QUIT_EDITOR
-[2018.04.21-02.47.17:107][845]LogExit: Preparing to exit.
-[2018.04.21-02.47.17:456][845]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' was aborted.
-[2018.04.21-02.47.17:497][845]LogExit: Editor shut down
-[2018.04.21-02.47.17:502][845]LogExit: Transaction tracking system shut down
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../../projects/Art-Thief/ArtThiefMuseum/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.04.21-02.47.17:678][845]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.04.21-02.47.17:827][845]LogExit: Object subsystem successfully closed.
-[2018.04.21-02.47.17:897][845]LogD3D11RHI: Shutdown
-[2018.04.21-02.47.17:897][845]LogD3D11RHI: CleanupD3DDevice
-[2018.04.21-02.47.17:899][845]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.04.21-02.47.17:910][845]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
-[2018.04.21-02.47.17:910][845]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
-[2018.04.21-02.47.17:910][845]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
-[2018.04.21-02.47.17:911][845]LogDirectoryWatcher: A directory notification for 'D:/UE_4.18/FeaturePacks/' was aborted.
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
-[2018.04.21-02.47.17:912][845]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' was aborted.
-[2018.04.21-02.47.17:912][845]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' was aborted.
-[2018.04.21-02.47.17:912][845]LogDirectoryWatcher: A directory notification for 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' was aborted.
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module BspMode (520)
-[2018.04.21-02.47.17:912][845]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module SessionServices (478)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
-[2018.04.21-02.47.17:913][845]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
-[2018.04.21-02.47.17:914][845]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module MergeActors (446)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module SizeMap (444)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module TreeMap (442)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module XmlParser (428)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module Blutility (426)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
-[2018.04.21-02.47.18:426][845]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
-[2018.04.21-02.47.18:427][845]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
-[2018.04.21-02.47.18:427][845]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
-[2018.04.21-02.47.18:427][845]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
-[2018.04.21-02.47.18:427][845]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
-[2018.04.21-02.47.18:427][845]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module AutomationController (406)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module Layers (402)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
-[2018.04.21-02.47.18:479][845]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module Persona (394)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module Kismet (388)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module Toolbox (384)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module OutputLog (378)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module GammaUI (376)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module Documentation (374)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module MovieScene (370)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module PortalServices (362)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module AIModule (356)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
-[2018.04.21-02.47.18:480][845]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
-[2018.04.21-02.47.18:713][845]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
-[2018.04.21-02.47.18:713][845]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
-[2018.04.21-02.47.18:713][845]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
-[2018.04.21-02.47.18:713][845]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
-[2018.04.21-02.47.18:713][845]LogModuleManager: Shutting down and abandoning module OculusInput (338)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module CableComponent (332)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module SourceControl (289)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
-[2018.04.21-02.47.18:714][845]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
-[2018.04.21-02.47.18:715][845]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
-[2018.04.21-02.47.18:715][845]LogModuleManager: Shutting down and abandoning module MainFrame (274)
-[2018.04.21-02.47.18:715][845]LogModuleManager: Shutting down and abandoning module HotReload (273)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
-[2018.04.21-02.47.18:716][845]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
-[2018.04.21-02.47.18:817][845]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
-[2018.04.21-02.47.18:918][845]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
-[2018.04.21-02.47.18:919][845]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
-[2018.04.21-02.47.18:919][845]LogModuleManager: Shutting down and abandoning module Paper2D (236)
-[2018.04.21-02.47.18:919][845]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
-[2018.04.21-02.47.18:919][845]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
-[2018.04.21-02.47.18:922][845]LogModuleManager: Shutting down and abandoning module Media (221)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module Overlay (218)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module VREditor (214)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module UMG (200)
-[2018.04.21-02.47.18:928][845]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
-[2018.04.21-02.47.18:929][845]LogModuleManager: Shutting down and abandoning module Sequencer (198)
-[2018.04.21-02.47.18:929][845]LogModuleManager: Shutting down and abandoning module MessageLog (195)
-[2018.04.21-02.47.18:929][845]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
-[2018.04.21-02.47.18:929][845]LogModuleManager: Shutting down and abandoning module Slate (188)
-[2018.04.21-02.47.18:929][845]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module MRMesh (184)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module Networking (176)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module Core (172)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
-[2018.04.21-02.47.18:931][845]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
-[2018.04.21-02.47.18:932][845]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
-[2018.04.21-02.47.19:024][845]LogDerivedDataCache: Shutdown
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
-[2018.04.21-02.47.19:024][845]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Messaging (105)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module InputCore (64)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module Settings (62)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module SteamVR (58)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.04.21-02.47.19:025][845]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.04.21-02.47.19:025][845]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.04.21-02.47.19:025][845]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B204A3C9B-4AF7-4BFD-C930-2BA041BE33EA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=2f971d094905c2a7bc833c87802c48c8%7C3f39104fdd2144b9a74201bb2a9c7b8e%7Cba7f9d7c-a839-4a7f-98e9-7a135484811a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.04.21-02.47.19:054][845]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.04.21-02.47.19:055][845]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.04.21-02.47.19:055][845]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.04.21-02.47.19:055][845]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.04.21-02.47.19:055][845]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.04.21-02.47.19:056][845]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.04.21-02.47.19:057][845]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.04.21-02.47.19:057][845]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.04.21-02.47.19:057][845]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.04.21-02.47.19:057][845]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.04.21-02.47.19:060][845]LogExit: Exiting.
-[2018.04.21-02.47.19:079][845]Log file closed, 04/20/18 20:47:19
+[2018.04.24-23.16.43:535][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-23.16.43:535][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-23.16.43:600][  0]LogInit: Computer: DESKTOP-1E3V943
+[2018.04.24-23.16.43:600][  0]LogInit: User: JaredRothwell
+[2018.04.24-23.16.43:600][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.24-23.16.43:600][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.04.24-23.16.43:600][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.24-23.16.43:600][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-23.16.43:600][  0]LogMemory: Process Physical Memory: 272.51 MB used, 272.51 MB peak
+[2018.04.24-23.16.43:600][  0]LogMemory: Process Virtual Memory: 269.92 MB used, 269.92 MB peak
+[2018.04.24-23.16.43:600][  0]LogMemory: Physical Memory: 9182.08 MB used,  7069.96 MB free, 16252.04 MB total
+[2018.04.24-23.16.43:600][  0]LogMemory: Virtual Memory: 682.52 MB used,  7069.96 MB free, 134217728.00 MB total
+[2018.04.24-23.16.46:153][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-23.16.46:153][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-23.16.46:390][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-23.16.47:321][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.24-23.16.51:041][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-23.16.51:130][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.04.24-23.16.51:130][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.24-23.16.51:138][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.24-23.16.51:138][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.24-23.16.51:140][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.24-23.16.51:140][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.24-23.16.51:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-23.16.51:168][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-23.16.51:169][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-23.16.51:169][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-23.16.51:169][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.24-23.16.51:169][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.24-23.16.51:169][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.24-23.16.51:169][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.24-23.16.51:169][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.04.24-23.16.51:169][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.24-23.16.51:169][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.24-23.16.51:169][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.04.24-23.16.51:216][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-23.16.51:231][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.24-23.16.51:240][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/115584/).
+[2018.04.24-23.16.51:240][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/525455F3426539F1124167A1C4CD0261/'.
+[2018.04.24-23.16.51:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-23.16.57:845][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-23.16.57:895][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-23.16.57:945][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-23.16.57:990][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-23.16.58:075][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-23.16.58:122][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-23.16.58:172][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-23.16.58:220][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-23.16.58:260][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-23.16.58:307][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-23.16.58:354][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-23.16.58:398][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-23.16.58:445][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-23.16.58:494][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-23.16.58:595][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-23.16.58:595][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-23.16.58:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-23.16.58:695][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-23.16.58:897][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-23.16.58:941][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-23.16.58:989][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-23.16.59:034][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-23.16.59:079][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-23.16.59:132][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-23.16.59:132][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-23.17.01:126][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: Loaded boot cache 1.73s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-23.17.02:879][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-23.17.02:971][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-23.17.02:983][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-23.17.02:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-23.17.02:995][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-23.17.03:092][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-23.17.03:092][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-23.17.12:473][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-23.17.13:676][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-23.17.13:743][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-23.17.13:753][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-23.17.13:754][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-23.17.13:754][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-23.17.13:754][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-23.17.13:878][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
+[2018.04.24-23.17.14:613][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.04.24-23.17.18:051][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.160318 seconds
+[2018.04.24-23.17.18:058][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.04.24-23.17.18:058][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.04.24-23.17.18:058][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-23.17.18:100][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-23.17.32:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-23.17.32:790][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-23.17.33:707][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-23.17.34:355][  0]SourceControl: Source control is disabled
+[2018.04.24-23.17.36:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-23.17.36:607][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-23.17.36:964][  0]LogEngine: Initializing Engine...
+[2018.04.24-23.17.36:968][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-23.17.37:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-23.17.37:629][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-23.17.37:782][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-23.17.37:865][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-23.17.37:911][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-23.17.38:116][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-23.17.38:135][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-23.17.38:217][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-23.17.38:378][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-23.17.38:829][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-23.17.40:328][  0]LocalizationService: Localization service is disabled
+[2018.04.24-23.17.41:642][  0]LogConsoleResponse: Display: 
+[2018.04.24-23.17.45:108][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-23.17.45:108][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-23.17.45:108][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-23.17.45:889][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.14s
+[2018.04.24-23.17.47:245][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-23.17.47:245][  0]LightingResults: New page: Lighting Build
+[2018.04.24-23.17.47:284][  0]MapCheck: New page: Map Check
+[2018.04.24-23.17.47:284][  0]LightingResults: New page: Lighting Build
+[2018.04.24-23.17.48:554][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.24-23.17.48:554][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.24-23.17.48:554][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.24-23.17.48:554][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.24-23.17.48:554][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.24-23.17.48:554][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.24-23.17.48:555][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.24-23.17.48:555][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.24-23.17.48:555][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_D
+[2018.04.24-23.17.48:555][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.24-23.17.48:555][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Materials/M_Wood_Oak.uasset.
+[2018.04.24-23.17.48:555][  0]LoadErrors: Error: /Game/StarterContent/Materials/M_Wood_Oak : Can't find file for asset. /Game/StarterContent/Textures/T_Wood_Oak_N
+[2018.04.24-23.17.55:356][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_D'
+[2018.04.24-23.17.55:356][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.24-23.17.55:356][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_D' while loading NULL.
+[2018.04.24-23.17.55:356][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_D.T_Wood_Oak_D Referenced by MaterialExpressionTextureSample_82
+[2018.04.24-23.17.55:356][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Wood_Oak_N'
+[2018.04.24-23.17.55:356][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.24-23.17.55:356][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Wood_Oak_N' while loading NULL.
+[2018.04.24-23.17.55:357][  0]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Wood_Oak_N.T_Wood_Oak_N Referenced by MaterialExpressionTextureSample_83
+[2018.04.24-23.18.06:326][  0]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.04.24-23.18.06:328][  0]LogMaterial: Warning: D:\projects\Art-Thief\ArtThiefMuseum\Content\StarterContent\Materials\M_Wood_Oak.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.24-23.18.06:328][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.04.24-23.18.10:592][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.04.24-23.18.10:806][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-23.18.10:817][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-23.18.10:877][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.521ms to complete.
+[2018.04.24-23.18.10:877][  0]LogFileHelpers: Loading map 'Minimal_Default' took 23.632
+[2018.04.24-23.18.11:316][  0]LogCollectionManager: Loaded 0 collections in 0.028282 seconds
+[2018.04.24-23.18.11:385][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
+[2018.04.24-23.18.11:385][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
+[2018.04.24-23.18.11:385][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
+[2018.04.24-23.18.11:385][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.24-23.18.11:393][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2363 classes and 519 folders.
+[2018.04.24-23.18.11:448][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.24-23.18.14:005][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.24-23.18.14:040][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.24-23.18.14:221][  0]LogSlate: Took 0.041270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-23.18.14:233][  0]LogSlate: Took 0.010048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-23.18.14:630][  0]LogRenderer: Reallocating scene render targets to support 1040x344 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-23.18.15:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.24-23.18.15:012][  0]LogLoad: (Engine Initialization) Total time: 117.33 seconds
+[2018.04.24-23.18.15:012][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-23.18.15:012][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.24-23.18.15:012][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.24-23.18.15:385][  0]SourceControl: On branch master
+[2018.04.24-23.18.15:385][  0]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.04.24-23.18.15:385][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.04.24-23.18.15:385][  0]SourceControl: Changes not staged for commit:
+[2018.04.24-23.18.15:385][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.04.24-23.18.15:385][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Alarm_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/JumpingDownStairs_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Sneaking_upstairs_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Tackle_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Thief_Hdiing_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/Thief_getting_up_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/falling_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Inside_sequences/sneaking_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Outside_sequences/Ext_Guardinbush_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Shrine_sequences/Guard_Shrine_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Intermediate/CachedAssetRegistry.bin
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/AutoScreenshot.png
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/Engine.ini
+[2018.04.24-23.18.15:385][  0]SourceControl: 	deleted:    ArtThiefMuseum/Saved/Logs/ArtThiefMuseum-backup-2018.04.18-23.47.59.log
+[2018.04.24-23.18.15:385][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Logs/ArtThiefMuseum.log
+[2018.04.24-23.18.15:385][  0]SourceControl: Untracked files:
+[2018.04.24-23.18.15:385][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.04.24-23.18.15:385][  0]SourceControl: 	ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.04.24-23.18.15:385][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.04.24-23.18.15:386][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.24-23.18.16:026][  2]LogAssetRegistry: Asset discovery search completed in 61.4344 seconds
+[2018.04.24-23.18.16:029][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.24-23.18.16:029][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2018.04.24-23.18.21:018][ 17]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 5.65s
+[2018.04.24-23.18.25:580][121]LogSlate: Took 0.049517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-23.18.25:661][121]LogSlate: Took 0.057728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-23.19.06:497][827]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-23.19.06:586][827]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.24-23.19.07:222][827]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-23.19.07:366][827]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.24-23.19.07:475][827]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.24-23.19.07:963][827]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.24-23.19.07:970][827]LogRenderer: Reallocating scene render targets to support 1040x672 Format 10 NumSamples 1 (Frame:1).
+[2018.04.24-23.19.10:812][944]LogSlate: Took 0.043879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-23.19.31:999][938]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.24-23.19.32:002][938]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.19.32:249][938]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.19.32:331][938]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.19.32:435][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.04.24-23.19.32:441][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.04.24-23.19.32:448][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.04.24-23.19.32:487][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.04.24-23.19.32:492][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.24-23.19.32:661][938]LogSlate: Took 0.049351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-23.19.45:102][606]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.04.24-23.19.45:102][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.04.24-23.19.45:102][606]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.19.45:102][606]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.19.45:102][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.19.57:603][572]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.20.01:290][766]LogMaterialEditor: Saving and Compiling material Eyewearmat
+[2018.04.24-23.20.02:055][766]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.20.02:226][766]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.20.02:393][766]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.20.02:601][766]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.04.24-23.20.08:722][766]TextureStreamingBuild: Display: Compiling optional shaders took 6.176 seconds.
+[2018.04.24-23.20.17:570][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyewearmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset" SILENT=true
+[2018.04.24-23.20.17:634][766]LogSavePackage: Save=20.82ms
+[2018.04.24-23.20.17:634][766]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyewearmat78DCCF4C493E73A8F212CAA9F0AAACC1.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset'
+[2018.04.24-23.20.17:640][766]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset
+[2018.04.24-23.20.17:652][766]MaterialEditorStats: Base pass shader: 47 instructions
+[2018.04.24-23.20.17:652][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 74 instructions
+[2018.04.24-23.20.17:652][766]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.20.17:652][766]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.20.17:652][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.20.46:586][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.24-23.20.49:431][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.24-23.20.49:803][724]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (FemaleGuardFixed2)
+[2018.04.24-23.20.57:333][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.24-23.21.04:627][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2018.04.24-23.21.59:812][891]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.21.59:912][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.24-23.22.10:658][425]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.04.24-23.22.10:658][425]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.04.24-23.22.10:658][425]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.22.10:658][425]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.22.10:658][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.22.22:500][214]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.24-23.22.31:117][916]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.34:966][213]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.36:741][335]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.44:554][971]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.48:398][285]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.49:506][350]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.51:285][477]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.22.55:998][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.22.56:017][852]LogSavePackage: Save=9.72ms
+[2018.04.24-23.22.56:017][852]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity5D970C214F6A195A47F9709685C08703.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.22.56:020][852]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.23.06:079][643]LogMaterialEditor: Applying material Eyewearmat
+[2018.04.24-23.23.06:582][643]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.23.06:725][643]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.23.06:883][643]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.23.07:070][643]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.04.24-23.23.13:852][643]TextureStreamingBuild: Display: Compiling optional shaders took 6.833 seconds.
+[2018.04.24-23.23.27:545][554]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.04.24-23.23.27:545][554]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.04.24-23.23.27:545][554]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.23.27:545][554]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.23.27:545][554]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.23.48:539][547]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.23.51:139][757]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.23.53:494][938]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.23.56:042][135]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.23.57:712][267]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.23.59:152][371]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.24.03:279][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.24.03:292][657]LogSavePackage: Save=9.04ms
+[2018.04.24-23.24.03:292][657]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_OpacityDF203046457AD8BBD04FADB0A9658930.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.24.03:294][657]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.24.11:337][251]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.24.13:407][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.24.13:420][395]LogSavePackage: Save=9.55ms
+[2018.04.24-23.24.13:420][395]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity2ADA532F4113817E457D429059600DA5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.24.13:423][395]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.24.35:769][ 45]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.24.40:016][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.24.40:068][356]LogSavePackage: Save=48.27ms
+[2018.04.24-23.24.40:068][356]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_OpacityBD8D62FA4CF788B7F0A39B9E5A17CE56.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.24.40:071][356]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.25.00:758][850]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.25.04:484][159]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.25.05:612][252]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.25.08:096][451]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.25.09:316][536]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.25.10:973][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.25.10:985][650]LogSavePackage: Save=9.01ms
+[2018.04.24-23.25.10:986][650]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity97136DA84A52A9E10DC3A2A73E273D5C.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.25.10:988][650]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.25.57:517][102]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.26.08:816][650]MaterialEditorStats: Base pass shader: 47 instructions
+[2018.04.24-23.26.08:816][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 74 instructions
+[2018.04.24-23.26.08:816][650]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.26.08:816][650]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.26.08:816][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.26.11:276][830]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.26.11:350][830]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.24-23.26.21:588][324]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.04.24-23.26.21:588][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.04.24-23.26.21:588][324]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.26.21:588][324]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.26.21:588][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.26.26:813][693]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.26.26:814][693]LogMaterial: Warning: /Engine/Transient.Eyewearmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.24-23.26.26:814][693]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Animations/Guard/FemGuard_Eyewear_Opacity.FemGuard_Eyewear_Opacity
+[2018.04.24-23.26.26:824][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.24-23.26.26:852][693]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Animations/Guard/FemGuard_Eyewear_Opacity.FemGuard_Eyewear_Opacity
+[2018.04.24-23.26.59:287][ 75]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.26.59:368][ 75]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.04.24-23.27.04:661][331]LogMaterialEditor: Applying material Eyewearmat
+[2018.04.24-23.27.05:506][331]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.27.05:693][331]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.27.05:902][331]LogMaterial: Missing cached shader map for material Eyewearmat, compiling. 
+[2018.04.24-23.27.06:105][331]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Eyewearmat, compiling. 
+[2018.04.24-23.27.12:604][331]TextureStreamingBuild: Display: Compiling optional shaders took 6.539 seconds.
+[2018.04.24-23.27.20:794][729]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.27.22:241][802]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.27.26:136][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.27.26:149][ 29]LogSavePackage: Save=9.40ms
+[2018.04.24-23.27.26:149][ 29]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity60CBE1174191CE36856F1B8D6CF34573.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.27.26:154][ 29]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.27.26:160][ 29]MaterialEditorStats: Base pass shader: 52 instructions
+[2018.04.24-23.27.26:160][ 29]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 79 instructions
+[2018.04.24-23.27.26:160][ 29]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.04.24-23.27.26:160][ 29]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.24-23.27.26:160][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.24-23.27.35:973][762]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.27.37:987][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.27.38:000][911]LogSavePackage: Save=9.63ms
+[2018.04.24-23.27.38:000][911]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity41E599604606FA3FF604C3BACC8662B8.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.27.38:003][911]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.28.02:678][917]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.28.03:777][  6]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.28.06:584][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.28.06:601][215]LogSavePackage: Save=8.72ms
+[2018.04.24-23.28.06:601][215]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_Opacity01788DD2422B3CB488D9B8B66C2162E6.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.28.06:603][215]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.28.11:185][565]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.28.12:029][629]LogTexture: Display: Building textures: FemGuard_Eyewear_Opacity (AutoDXT, 512X512)
+[2018.04.24-23.28.14:052][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.28.14:064][775]LogSavePackage: Save=8.97ms
+[2018.04.24-23.28.14:064][775]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_OpacityFA2A7E4C4793E0A45F13D3A91360CDE4.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.28.14:067][775]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.28.25:171][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/FemGuard_Eyewear_Opacity" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset" SILENT=true
+[2018.04.24-23.28.25:181][574]LogSavePackage: Save=6.55ms
+[2018.04.24-23.28.25:181][574]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/FemGuard_Eyewear_OpacityFA3F9FEA45E7BBB1C697F892547BCD9D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset'
+[2018.04.24-23.28.25:182][574]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/FemGuard_Eyewear_Opacity.uasset
+[2018.04.24-23.29.03:318][301]Cmd: DELETE
+[2018.04.24-23.29.03:318][301]Cmd: ACTOR DELETE
+[2018.04.24-23.29.05:313][301]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.04.24-23.29.05:323][301]LogEditorActor: Deleted 1 Actors (2.005 secs)
+[2018.04.24-23.29.08:288][572]LogSavePackage: Save=202.31ms
+[2018.04.24-23.29.08:289][572]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default98C27C5E43FE7B7C28D5C5BEC1A27F72.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.04.24-23.29.08:292][572]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.04.24-23.29.08:324][572]LogFileHelpers: Saving map 'Minimal_Default' took 0.321
+[2018.04.24-23.29.08:369][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Guard/Eyewearmat" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset" SILENT=true
+[2018.04.24-23.29.08:398][572]LogSavePackage: Save=20.70ms
+[2018.04.24-23.29.08:398][572]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Eyewearmat6DC522754A3E90B70CD0EF8A993235AF.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset'
+[2018.04.24-23.29.08:401][572]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/Guard/Eyewearmat.uasset
