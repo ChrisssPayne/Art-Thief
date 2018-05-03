@@ -1,4 +1,4 @@
-﻿Log file open, 05/02/18 18:19:44
+﻿Log file open, 05/02/18 19:04:52
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ArtThiefMuseum
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1790863104) SRandInit(1790863104).
+LogInit: Display: RandInit(55260507) SRandInit(55260507).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.185187
+LogStats: Stats thread started at 0.180611
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -194,243 +194,273 @@ LogInit: Base directory: D:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.05.03-00.19.46:150][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.03-00.19.46:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.05.03-00.19.46:215][  0]LogInit: Computer: DESKTOP-1E3V943
-[2018.05.03-00.19.46:215][  0]LogInit: User: JaredRothwell
-[2018.05.03-00.19.46:215][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.05.03-00.19.46:215][  0]LogInit: High frequency timer resolution =2.531251 MHz
-[2018.05.03-00.19.46:215][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.05.03-00.19.46:215][  0]LogMemory: Platform Memory Stats for Windows
-[2018.05.03-00.19.46:215][  0]LogMemory: Process Physical Memory: 272.32 MB used, 272.32 MB peak
-[2018.05.03-00.19.46:215][  0]LogMemory: Process Virtual Memory: 270.01 MB used, 270.01 MB peak
-[2018.05.03-00.19.46:215][  0]LogMemory: Physical Memory: 9327.41 MB used,  6924.63 MB free, 16252.04 MB total
-[2018.05.03-00.19.46:215][  0]LogMemory: Virtual Memory: 682.53 MB used,  6924.63 MB free, 134217728.00 MB total
-[2018.05.03-00.19.46:740][  0]LogInit: Using OS detected language (en-US).
-[2018.05.03-00.19.46:740][  0]LogInit: Using OS detected locale (en-US).
-[2018.05.03-00.19.46:892][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.05.03-00.19.47:471][  0]LogInit: Setting process to per monitor DPI aware
-[2018.05.03-00.19.50:356][  0]LogD3D11RHI: D3D11 adapters:
-[2018.05.03-00.19.50:413][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
-[2018.05.03-00.19.50:413][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.05.03-00.19.50:421][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
-[2018.05.03-00.19.50:421][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.05.03-00.19.50:423][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.05.03-00.19.50:423][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.05.03-00.19.50:423][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.05.03-00.19.50:437][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.05.03-00.19.50:437][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
-[2018.05.03-00.19.50:437][  0]LogWindows: EnumDisplayDevices:
-[2018.05.03-00.19.50:437][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
-[2018.05.03-00.19.50:437][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
-[2018.05.03-00.19.50:437][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2018.05.03-00.19.50:437][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.05.03-00.19.50:437][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
-[2018.05.03-00.19.50:437][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.05.03-00.19.50:437][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.05.03-00.19.50:437][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
-[2018.05.03-00.19.50:464][  0]LogD3D11RHI: Async texture creation enabled
-[2018.05.03-00.19.50:479][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.05.03-00.19.50:480][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/51044/).
-[2018.05.03-00.19.50:480][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/B7BF259A4B322BBF8CF35C8680169FE2/'.
-[2018.05.03-00.19.50:480][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.05.03-00.19.53:042][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.05.03-00.19.53:101][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.05.03-00.19.53:157][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.05.03-00.19.53:218][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.05.03-00.19.53:291][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.05.03-00.19.53:346][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.05.03-00.19.53:396][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.05.03-00.19.53:448][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.05.03-00.19.53:491][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.05.03-00.19.53:544][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.05.03-00.19.53:601][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.05.03-00.19.53:649][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.05.03-00.19.53:700][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.05.03-00.19.53:752][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.05.03-00.19.53:858][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.05.03-00.19.53:858][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.05.03-00.19.53:932][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.05.03-00.19.53:975][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.05.03-00.19.54:091][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.05.03-00.19.54:116][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.05.03-00.19.54:160][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.05.03-00.19.54:219][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.05.03-00.19.54:271][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.05.03-00.19.54:334][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.05.03-00.19.54:334][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.05.03-00.19.54:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: Loaded boot cache 0.32s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.05.03-00.19.55:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.05.03-00.19.55:115][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.05.03-00.19.55:127][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.05.03-00.19.55:141][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.05.03-00.19.55:142][  0]LogSlate: Using Freetype 2.6.0
-[2018.05.03-00.19.55:175][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.03-00.19.55:175][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.03-00.19.55:984][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.03-00.19.56:357][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.05.03-00.19.56:388][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.05.03-00.19.56:388][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.05.03-00.19.56:388][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.05.03-00.19.56:388][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.05.03-00.19.56:388][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.05.03-00.19.56:426][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
-[2018.05.03-00.19.56:623][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
-[2018.05.03-00.19.57:172][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.082367 seconds
-[2018.05.03-00.19.57:178][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.05.03-00.19.57:178][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
-[2018.05.03-00.19.57:178][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.05.03-00.19.57:223][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.05.03-00.20.06:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.05.03-00.20.06:185][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.05.03-00.20.06:988][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.05.03-00.20.07:416][  0]SourceControl: Source control is disabled
-[2018.05.03-00.20.08:752][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.05.03-00.20.09:001][  0]LogOcInput: OculusInput pre-init called
-[2018.05.03-00.20.09:318][  0]LogEngine: Initializing Engine...
-[2018.05.03-00.20.09:321][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.05.03-00.20.09:570][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.03-00.20.09:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.03-00.20.09:698][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.05.03-00.20.09:718][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.05.03-00.20.09:757][  0]LogInit: FAudioDevice initialized.
-[2018.05.03-00.20.09:966][  0]LogDerivedDataCache: Saved boot cache 0.21s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.05.03-00.20.09:983][  0]LogInit: Texture streaming: Enabled
-[2018.05.03-00.20.10:074][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.05.03-00.20.10:201][  0]LogInit: Transaction tracking system initialized
-[2018.05.03-00.20.10:496][  0]BlueprintLog: New page: Editor Load
-[2018.05.03-00.20.11:383][  0]LocalizationService: Localization service is disabled
-[2018.05.03-00.20.12:158][  0]LogConsoleResponse: Display: 
-[2018.05.03-00.20.12:788][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.05.03-00.20.12:788][  0]LogCook: Display: Mobile HDR setting 1
-[2018.05.03-00.20.12:788][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.05.03-00.20.13:977][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.04s
-[2018.05.03-00.20.14:019][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.03-00.20.14:019][  0]LightingResults: New page: Lighting Build
-[2018.05.03-00.20.14:055][  0]MapCheck: New page: Map Check
-[2018.05.03-00.20.14:055][  0]LightingResults: New page: Lighting Build
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
-[2018.05.03-00.20.15:409][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
-[2018.05.03-00.20.16:484][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
-[2018.05.03-00.20.16:484][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
-[2018.05.03-00.20.16:484][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
-[2018.05.03-00.20.19:249][  0]LogAIModule: Creating AISystem for world Minimal_Default
-[2018.05.03-00.20.19:273][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.03-00.20.19:285][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.03-00.20.19:361][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.048ms to complete.
-[2018.05.03-00.20.19:361][  0]LogFileHelpers: Loading map 'Minimal_Default' took 5.343
-[2018.05.03-00.20.19:566][  0]LogCollectionManager: Loaded 0 collections in 0.001439 seconds
-[2018.05.03-00.20.19:656][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
-[2018.05.03-00.20.19:656][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
-[2018.05.03-00.20.19:656][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
-[2018.05.03-00.20.19:656][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.05.03-00.20.19:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2363 classes and 519 folders.
-[2018.05.03-00.20.19:723][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.05.03-00.20.20:231][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.05.03-00.20.20:269][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.05.03-00.20.20:365][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.05.03-00.20.20:368][  0]LogSlate: Took 0.000656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.05.03-00.20.20:551][  0]LogRenderer: Reallocating scene render targets to support 1104x468 Format 10 NumSamples 1 (Frame:1).
-[2018.05.03-00.20.20:755][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.05.03-00.20.20:755][  0]LogLoad: (Engine Initialization) Total time: 37.32 seconds
-[2018.05.03-00.20.20:755][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.05.03-00.20.20:756][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.05.03-00.20.20:756][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.05.03-00.20.20:829][  0]SourceControl: On branch master
-[2018.05.03-00.20.20:829][  0]SourceControl: Your branch is up to date with 'origin/master'.
-[2018.05.03-00.20.20:829][  0]SourceControl: Changes not staged for commit:
-[2018.05.03-00.20.20:829][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
-[2018.05.03-00.20.20:829][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2018.05.03-00.20.20:829][  0]SourceControl: 	modified:   ArtThiefMuseum/Intermediate/CachedAssetRegistry.bin
-[2018.05.03-00.20.20:829][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/Engine.ini
-[2018.05.03-00.20.20:829][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Logs/ArtThiefMuseum.log
-[2018.05.03-00.20.20:829][  0]SourceControl: Untracked files:
-[2018.05.03-00.20.20:829][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2018.05.03-00.20.20:829][  0]SourceControl: 	ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
-[2018.05.03-00.20.20:829][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
-[2018.05.03-00.20.20:829][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.05.03-00.20.21:173][  2]LogAssetRegistry: Asset discovery search completed in 24.5729 seconds
-[2018.05.03-00.20.21:178][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.05.03-00.20.21:178][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
-[2018.05.03-00.20.26:047][142]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 5.24s
-[2018.05.03-00.20.46:727][293]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.05.03-00.20.46:753][293]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.03-00.22.48:077][450]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.03-00.25.19:307][696]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Crouch_Look_Around_Corner.Crouch_Look_Around_Corner
-[2018.05.03-00.25.19:331][696]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/ThiefFixed_animations/Crouch_Look_Around_Corner.Crouch_Look_Around_Corner) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.05.03-00.25.37:682][213]LogEditorFactories: Performing atomic reimport of [C:/Users/Jared Rothwell/Downloads/Crouch Look Around Corner - Copy.fbx]
-[2018.05.03-00.25.37:862][213]LogFbx: Loading FBX Scene from C:/Users/Jared Rothwell/Downloads/Crouch Look Around Corner - Copy.fbx
-[2018.05.03-00.25.37:981][213]LogFbx: FBX Scene Loaded Succesfully
-[2018.05.03-00.25.38:068][213]LogFbx: Parsing AnimStack mixamo.com
-[2018.05.03-00.25.38:081][213]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.05.03-00.25.52:462][213]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/ThiefFixed_animations/Crouch_Look_Around_Corner_-_Copy.Crouch_Look_Around_Corner_-_Copy
-[2018.05.03-00.25.52:471][213]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Crouch_Look_Around_Corner_-_Copy) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
-[2018.05.03-00.25.52:612][213]LogEditorFactories: -- imported successfully
-[2018.05.03-00.25.52:652][213]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.05.03-00.27.16:302][937]LogAIModule: Creating AISystem for world Shrine
-[2018.05.03-00.27.19:068][937]LogSavePackage: Save=50.45ms
-[2018.05.03-00.27.19:068][937]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Crouch_Look_Around_Corner_-_CopyBBE706CB428B0DBBF6C48BA52B2766A8.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Crouch_Look_Around_Corner_-_Copy.uasset'
-[2018.05.03-00.27.19:073][937]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Animations/ThiefFixed_animations/Crouch_Look_Around_Corner_-_Copy.uasset
-[2018.05.03-00.27.19:074][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Inside_sequences/sneaking_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/sneaking_seq.uasset" SILENT=true
-[2018.05.03-00.27.19:130][937]LogSavePackage: Save=49.86ms
-[2018.05.03-00.27.19:130][937]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/sneaking_seq56BF83D74C29B2502539ACA3A63C5B78.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/sneaking_seq.uasset'
-[2018.05.03-00.27.19:133][937]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/sneaking_seq.uasset
-[2018.05.03-00.27.19:252][937]LogSavePackage: Save=110.02ms
-[2018.05.03-00.27.19:252][937]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Sneaking_upstairs_seq94A83B6D46883B25AC120BB76A878D48.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Sneaking_upstairs_seq.uasset'
-[2018.05.03-00.27.19:255][937]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Sneaking_upstairs_seq.uasset
-[2018.05.03-00.27.19:649][937]LogSavePackage: Save=283.78ms
-[2018.05.03-00.27.19:649][937]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_Default2F25041C440B7A2119BBA5BE639046FB.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
-[2018.05.03-00.27.19:653][937]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
-[2018.05.03-00.27.19:687][937]LogFileHelpers: Saving map 'Minimal_Default' took 0.432
-[2018.05.03-00.27.19:687][937]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.03-00.27.19:687][937]LightingResults: New page: Lighting Build
-[2018.05.03-00.27.19:689][937]LoadErrors: New page: Loading map: Shrine.umap
-[2018.05.03-00.27.19:693][937]MapCheck: New page: Map Check
-[2018.05.03-00.27.19:693][937]LightingResults: New page: Lighting Build
-[2018.05.03-00.27.19:805][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.03-00.27.19:848][937]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.03-00.27.19:921][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.374ms to complete.
-[2018.05.03-00.27.19:925][937]LogFileHelpers: Loading map 'Shrine' took 0.238
-[2018.05.03-00.28.47:387][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
-[2018.05.03-00.28.48:703][ 64]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TheifFixed)
-[2018.05.03-00.30.51:821][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Shrine" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.05.03-00.30.52:023][281]LogSavePackage: Save=179.43ms
-[2018.05.03-00.30.52:023][281]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Shrine6CD46F704EF4F558CECD02B628C33935.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap'
-[2018.05.03-00.30.52:025][281]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap
-[2018.05.03-00.30.52:062][281]LogFileHelpers: Saving map 'Shrine' took 0.316
-[2018.05.03-00.30.52:066][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Shrine_sequences/Thief_Shrine_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset" SILENT=true
-[2018.05.03-00.30.52:117][281]LogSavePackage: Save=41.52ms
-[2018.05.03-00.30.52:118][281]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Thief_Shrine_seq1F1FBBB740E16D44BAD3C8AA500A0B37.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset'
-[2018.05.03-00.30.52:121][281]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset
-[2018.05.03-00.30.52:173][281]LogSavePackage: Save=35.50ms
-[2018.05.03-00.30.52:173][281]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Stealing_MONA_seqBFE0CF9648C6C4EE118B14ABEF158274.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset'
-[2018.05.03-00.30.52:175][281]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset
-[2018.05.03-00.31.20:944][954]LogAIModule: Creating AISystem for world Minimal_Default
-[2018.05.03-00.31.26:207][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Shrine_sequences/Thief_Shrine_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset" SILENT=true
-[2018.05.03-00.31.26:251][954]LogSavePackage: Save=40.59ms
-[2018.05.03-00.31.26:251][954]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Thief_Shrine_seq163F766C4D66E874284715AD7896440D.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset'
-[2018.05.03-00.31.26:254][954]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Shrine_sequences/Thief_Shrine_seq.uasset
-[2018.05.03-00.31.26:328][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Shrine" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.05.03-00.31.26:577][954]LogSavePackage: Save=236.11ms
-[2018.05.03-00.31.26:577][954]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Shrine3A10126A45326F5DD9C897AC34C85137.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap'
-[2018.05.03-00.31.26:580][954]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Shrine.umap
-[2018.05.03-00.31.26:620][954]LogFileHelpers: Saving map 'Shrine' took 0.366
-[2018.05.03-00.31.26:620][954]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.03-00.31.26:621][954]LightingResults: New page: Lighting Build
-[2018.05.03-00.31.26:622][954]LoadErrors: New page: Loading map: Minimal_Default.umap
-[2018.05.03-00.31.26:624][954]MapCheck: New page: Map Check
-[2018.05.03-00.31.26:624][954]LightingResults: New page: Lighting Build
-[2018.05.03-00.31.26:787][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.03-00.31.26:832][954]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.03-00.31.26:904][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.104ms to complete.
-[2018.05.03-00.31.26:904][954]LogFileHelpers: Loading map 'Minimal_Default' took 0.284
-[2018.05.03-00.31.43:911][934]LogSlate: Took 0.026921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.03-01.04.53:437][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-01.04.53:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.03-01.04.53:454][  0]LogInit: Computer: DESKTOP-1E3V943
+[2018.05.03-01.04.53:454][  0]LogInit: User: JaredRothwell
+[2018.05.03-01.04.53:454][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.03-01.04.53:454][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.05.03-01.04.53:454][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.03-01.04.53:454][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.03-01.04.53:454][  0]LogMemory: Process Physical Memory: 272.26 MB used, 272.26 MB peak
+[2018.05.03-01.04.53:454][  0]LogMemory: Process Virtual Memory: 269.99 MB used, 269.99 MB peak
+[2018.05.03-01.04.53:454][  0]LogMemory: Physical Memory: 8850.23 MB used,  7401.81 MB free, 16252.04 MB total
+[2018.05.03-01.04.53:454][  0]LogMemory: Virtual Memory: 682.53 MB used,  7401.81 MB free, 134217728.00 MB total
+[2018.05.03-01.04.53:966][  0]LogInit: Using OS detected language (en-US).
+[2018.05.03-01.04.53:966][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.03-01.04.53:969][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.03-01.04.54:448][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.03-01.04.54:784][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.03-01.04.54:830][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.05.03-01.04.54:830][  0]LogD3D11RHI:       2019/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.03-01.04.54:839][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.05.03-01.04.54:839][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.03-01.04.54:842][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.03-01.04.54:842][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.03-01.04.54:842][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.03-01.04.54:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.03-01.04.54:852][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.05.03-01.04.54:852][  0]LogWindows: EnumDisplayDevices:
+[2018.05.03-01.04.54:853][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.05.03-01.04.54:853][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.05.03-01.04.54:853][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.03-01.04.54:853][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.03-01.04.54:853][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.05.03-01.04.54:853][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.03-01.04.54:853][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.03-01.04.54:853][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.05.03-01.04.54:877][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.03-01.04.54:891][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.03-01.04.54:892][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../projects/Art-Thief/ArtThiefMuseum/Intermediate/Shaders/WorkingDirectory/45796/).
+[2018.05.03-01.04.54:892][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jared Rothwell/AppData/Local/Temp/UnrealShaderWorkingDir/9C9D3364419BE61D6EBC5FA03BD2389F/'.
+[2018.05.03-01.04.54:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.03-01.04.55:954][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.03-01.04.56:007][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.03-01.04.56:054][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.03-01.04.56:105][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.03-01.04.56:152][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.03-01.04.56:201][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.03-01.04.56:248][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.03-01.04.56:297][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.03-01.04.56:335][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.03-01.04.56:379][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.03-01.04.56:422][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.03-01.04.56:466][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.03-01.04.56:515][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.03-01.04.56:564][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.03-01.04.56:658][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.03-01.04.56:658][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.03-01.04.56:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.03-01.04.56:734][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.03-01.04.56:816][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.03-01.04.56:848][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.03-01.04.56:901][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.03-01.04.56:954][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.03-01.04.57:002][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.03-01.04.57:051][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.03-01.04.57:051][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.03-01.04.57:541][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../projects/Art-Thief/ArtThiefMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.03-01.04.57:636][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.03-01.04.57:658][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.03-01.04.57:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.03-01.04.57:685][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.03-01.04.57:685][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.03-01.04.57:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-01.04.57:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-01.04.58:194][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-01.04.58:566][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.03-01.04.58:615][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.03-01.04.58:615][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.03-01.04.58:615][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.03-01.04.58:615][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.03-01.04.58:615][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.03-01.04.58:657][  0]LogNetVersion: ArtThiefMuseum , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2922769132)
+[2018.05.03-01.04.58:857][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.05.03-01.04.59:379][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.066250 seconds
+[2018.05.03-01.04.59:385][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.03-01.04.59:385][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.03-01.04.59:385][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.03-01.04.59:429][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.03-01.05.02:211][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.03-01.05.02:249][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.03-01.05.02:886][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.03-01.05.03:332][  0]SourceControl: Source control is disabled
+[2018.05.03-01.05.04:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.03-01.05.04:784][  0]LogOcInput: OculusInput pre-init called
+[2018.05.03-01.05.05:046][  0]LogEngine: Initializing Engine...
+[2018.05.03-01.05.05:048][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.03-01.05.05:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.03-01.05.05:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.03-01.05.05:397][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.03-01.05.05:416][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.03-01.05.05:466][  0]LogInit: FAudioDevice initialized.
+[2018.05.03-01.05.05:669][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/Jared Rothwell/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.03-01.05.05:690][  0]LogInit: Texture streaming: Enabled
+[2018.05.03-01.05.05:792][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.03-01.05.05:949][  0]LogInit: Transaction tracking system initialized
+[2018.05.03-01.05.06:231][  0]BlueprintLog: New page: Editor Load
+[2018.05.03-01.05.06:987][  0]LocalizationService: Localization service is disabled
+[2018.05.03-01.05.07:641][  0]LogConsoleResponse: Display: 
+[2018.05.03-01.05.07:825][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.03-01.05.07:825][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.03-01.05.07:825][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.03-01.05.08:553][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 0.02s
+[2018.05.03-01.05.08:884][  0]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.03-01.05.08:884][  0]LightingResults: New page: Lighting Build
+[2018.05.03-01.05.08:919][  0]MapCheck: New page: Map Check
+[2018.05.03-01.05.08:919][  0]LightingResults: New page: Lighting Build
+[2018.05.03-01.05.11:008][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.05.03-01.05.11:026][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.03-01.05.11:040][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.03-01.05.11:101][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.103ms to complete.
+[2018.05.03-01.05.11:101][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.217
+[2018.05.03-01.05.11:243][  0]LogCollectionManager: Loaded 0 collections in 0.001510 seconds
+[2018.05.03-01.05.11:329][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Saved/Collections/' took 0.01s
+[2018.05.03-01.05.11:329][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Developers/JaredRothwell/Collections/' took 0.01s
+[2018.05.03-01.05.11:329][  0]LogFileCache: Scanning file cache for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/Collections/' took 0.01s
+[2018.05.03-01.05.11:329][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.03-01.05.11:339][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2363 classes and 519 folders.
+[2018.05.03-01.05.11:400][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.03-01.05.11:440][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.03-01.05.11:476][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.03-01.05.11:571][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.03-01.05.11:576][  0]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.03-01.05.11:707][  0]LogRenderer: Reallocating scene render targets to support 1104x488 Format 10 NumSamples 1 (Frame:1).
+[2018.05.03-01.05.11:937][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.03-01.05.11:937][  0]LogLoad: (Engine Initialization) Total time: 20.61 seconds
+[2018.05.03-01.05.11:937][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.03-01.05.11:937][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.03-01.05.11:937][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.03-01.05.11:954][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.03-01.05.11:988][  0]SourceControl: On branch master
+[2018.05.03-01.05.11:988][  0]SourceControl: Your branch is behind 'origin/master' by 2 commits, and can be fast-forwarded.
+[2018.05.03-01.05.11:988][  0]SourceControl:   (use "git pull" to update your local branch)
+[2018.05.03-01.05.11:988][  0]SourceControl: Changes not staged for commit:
+[2018.05.03-01.05.11:988][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.05.03-01.05.11:988][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.03-01.05.11:988][  0]SourceControl: 	modified:   ArtThiefMuseum/Intermediate/CachedAssetRegistry.bin
+[2018.05.03-01.05.11:988][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/AutoScreenshot.png
+[2018.05.03-01.05.11:988][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.05.03-01.05.11:988][  0]SourceControl: 	modified:   ArtThiefMuseum/Saved/Logs/ArtThiefMuseum.log
+[2018.05.03-01.05.11:988][  0]SourceControl: Untracked files:
+[2018.05.03-01.05.11:989][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.03-01.05.11:989][  0]SourceControl: 	ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.05.03-01.05.11:989][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.05.03-01.05.11:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.03-01.05.12:359][  2]LogAssetRegistry: Asset discovery search completed in 13.5241 seconds
+[2018.05.03-01.05.12:363][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.03-01.05.12:363][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.05.03-01.05.17:049][282]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects/Art-Thief/ArtThiefMuseum/Content/' took 5.08s
+[2018.05.03-01.05.18:435][364]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.03-01.05.18:457][364]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.03-01.05.23:427][657]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.03-01.05.59:359][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
+[2018.05.03-01.05.59:360][729]LoadErrors: Error: /Game/Lambo : Can't find file for asset. /Game/Import/Lamborginhi_base_phong
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
+[2018.05.03-01.05.59:360][729]LoadErrors: Error: /Game/Lambo : Can't find file for asset. /Game/Import/Lamborginhi_glass_phong
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
+[2018.05.03-01.05.59:360][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Lambo.uasset.
+[2018.05.03-01.05.59:722][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:722][729]LoadErrors: Failed to load /Game/Import/Lamborginhi_base_phong.Lamborginhi_base_phong Referenced by Lambo
+[2018.05.03-01.05.59:722][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:722][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
+[2018.05.03-01.05.59:723][729]LoadErrors: Failed to load /Game/Import/Lamborginhi_glass_phong.Lamborginhi_glass_phong Referenced by Lambo
+[2018.05.03-01.05.59:723][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading NULL.
+[2018.05.03-01.05.59:723][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:723][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:723][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:723][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:724][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_glass_phong'
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_glass_phong' while loading NULL.
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.05.59:725][729]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_base_phong'
+[2018.05.03-01.05.59:726][729]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_base_phong' while loading NULL.
+[2018.05.03-01.06.03:786][729]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.03-01.06.06:379][729]LogAIModule: Creating AISystem for world Exterior
+[2018.05.03-01.06.06:470][729]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.03-01.06.06:470][729]LightingResults: New page: Lighting Build
+[2018.05.03-01.06.06:472][729]LoadErrors: New page: Loading map: Exterior.umap
+[2018.05.03-01.06.06:474][729]MapCheck: New page: Map Check
+[2018.05.03-01.06.06:474][729]LightingResults: New page: Lighting Build
+[2018.05.03-01.06.07:604][729]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.03-01.06.07:659][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.03-01.06.07:761][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.794ms to complete.
+[2018.05.03-01.06.07:761][729]LogFileHelpers: Loading map 'Exterior' took 1.291
+[2018.05.03-01.07.12:318][390]LogMaterial: Missing cached shader map for material Lamborginhi_glass_phong, compiling. 
+[2018.05.03-01.07.18:861][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_diffuse'
+[2018.05.03-01.07.18:861][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_diffuse' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Assets/Meshes/Import/Lamborginhi_base_phong.uasset.
+[2018.05.03-01.07.18:861][772]LoadErrors: Error: /Game/Assets/Meshes/Import/Lamborginhi_base_phong : Can't find file for asset. /Game/Import/Lamborginhi_Aventador_diffuse
+[2018.05.03-01.07.18:861][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_spec'
+[2018.05.03-01.07.18:861][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_spec' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Assets/Meshes/Import/Lamborginhi_base_phong.uasset.
+[2018.05.03-01.07.18:862][772]LoadErrors: Error: /Game/Assets/Meshes/Import/Lamborginhi_base_phong : Can't find file for asset. /Game/Import/Lamborginhi_Aventador_spec
+[2018.05.03-01.07.18:862][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_diffuse'
+[2018.05.03-01.07.18:862][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_diffuse' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Assets/Meshes/Import/Lamborginhi_base_phong.uasset.
+[2018.05.03-01.07.18:862][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_spec'
+[2018.05.03-01.07.18:862][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_spec' while loading ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Assets/Meshes/Import/Lamborginhi_base_phong.uasset.
+[2018.05.03-01.07.18:863][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_diffuse'
+[2018.05.03-01.07.18:863][772]LoadErrors: Failed to load /Game/Import/Lamborginhi_Aventador_diffuse.Lamborginhi_Aventador_diffuse Referenced by MaterialExpressionTextureSample_0
+[2018.05.03-01.07.18:863][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_diffuse' while loading NULL.
+[2018.05.03-01.07.18:863][772]LogLinker: Warning: Can't find file '/Game/Import/Lamborginhi_Aventador_spec'
+[2018.05.03-01.07.18:863][772]LoadErrors: Failed to load /Game/Import/Lamborginhi_Aventador_spec.Lamborginhi_Aventador_spec Referenced by MaterialExpressionTextureSample_1
+[2018.05.03-01.07.18:863][772]LogLinker: Warning: Can't find file for asset '/Game/Import/Lamborginhi_Aventador_spec' while loading NULL.
+[2018.05.03-01.07.18:866][772]LogMaterial: Missing cached shader map for material Lamborginhi_base_phong, compiling. 
+[2018.05.03-01.07.18:882][772]LogMaterial: Warning: D:\projects\Art-Thief\ArtThiefMuseum\Content\Assets\Meshes\Import\Lamborginhi_base_phong.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-01.07.18:882][772]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.03-01.07.25:124][ 80]LogTexture: Display: Building textures: Lamborginhi_Aventador_spec (AutoDXT, 2048X2048)
+[2018.05.03-01.07.25:124][ 80]LogTexture: Display: Building textures: Lamborginhi_Aventador_diffuse (AutoDXT, 2048X2048)
+[2018.05.03-01.07.25:124][ 80]LogMaterial: Missing cached shader map for material Lamborginhi_Aventador_Mat, compiling. 
+[2018.05.03-01.08.08:355][935]LogSavePackage: Save=10980.71ms
+[2018.05.03-01.08.08:355][935]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/ExteriorDBD7803E4EA617EB56EE3A821316E5A0.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap'
+[2018.05.03-01.08.08:382][935]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Exterior.umap
+[2018.05.03-01.08.08:419][935]LogFileHelpers: Saving map 'Exterior' took 11.420
+[2018.05.03-01.09.05:704][318]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.05.03-01.09.05:731][318]Cmd: MAP LOAD FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.03-01.09.05:731][318]LightingResults: New page: Lighting Build
+[2018.05.03-01.09.05:732][318]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2018.05.03-01.09.05:739][318]MapCheck: New page: Map Check
+[2018.05.03-01.09.05:739][318]LightingResults: New page: Lighting Build
+[2018.05.03-01.09.06:020][318]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.03-01.09.06:105][318]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.03-01.09.06:207][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.247ms to complete.
+[2018.05.03-01.09.06:207][318]LogFileHelpers: Loading map 'Minimal_Default' took 0.477
+[2018.05.03-01.09.47:749][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Canvas_carrying_tube3)
+[2018.05.03-01.11.01:846][169]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.03-01.11.16:984][ 38]LogSavePackage: Save=280.50ms
+[2018.05.03-01.11.16:984][ 38]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultF492B9AA4FD7D2C36EC2198CF83F8583.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.05.03-01.11.16:987][ 38]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.03-01.11.17:027][ 38]LogFileHelpers: Saving map 'Minimal_Default' took 0.445
+[2018.05.03-01.11.17:075][ 38]LogSavePackage: Save=36.94ms
+[2018.05.03-01.11.17:075][ 38]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Stealing_MONA_seqDEB04876435770E58DF1E9BCB51B70D5.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset'
+[2018.05.03-01.11.17:078][ 38]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset
+[2018.05.03-01.11.30:728][811]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Security_door)
+[2018.05.03-01.12.10:079][ 38]LogSavePackage: Save=265.71ms
+[2018.05.03-01.12.10:079][ 38]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Minimal_DefaultFF3CE1724D5CFCD16BFCB5A30AE1E8AD.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap'
+[2018.05.03-01.12.10:082][ 38]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.03-01.12.10:123][ 38]LogFileHelpers: Saving map 'Minimal_Default' took 0.430
+[2018.05.03-01.12.10:126][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Inside_sequences/Tackle_seq" FILE="../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Tackle_seq.uasset" SILENT=true
+[2018.05.03-01.12.10:208][ 38]LogSavePackage: Save=73.30ms
+[2018.05.03-01.12.10:208][ 38]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Tackle_seq161E0D2147D060CCC7DA48A8AF2EFB86.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Tackle_seq.uasset'
+[2018.05.03-01.12.10:211][ 38]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Tackle_seq.uasset
+[2018.05.03-01.12.10:255][ 38]LogSavePackage: Save=37.26ms
+[2018.05.03-01.12.10:256][ 38]LogSavePackage: Moving '../../../../projects/Art-Thief/ArtThiefMuseum/Saved/Stealing_MONA_seqEF2363C64AFE30DEB93AACB984125757.tmp' to '../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset'
+[2018.05.03-01.12.10:259][ 38]LogSavePackage: Display: Finished SavePackage ../../../../projects/Art-Thief/ArtThiefMuseum/Content/Sequences/Inside_sequences/Stealing_MONA_seq.uasset
